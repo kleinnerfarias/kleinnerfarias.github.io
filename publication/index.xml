@@ -13,11 +13,470 @@
     
     
     <item>
-      <title>Evaluating the Effort of Composing Design Models: a Controlled Experiment</title>
+      <title>Evaluating the Effort of Integrating Feature Models: A Controlled Experiment</title>
+      <link>https://kleinnerfarias.github.io/publication/seke-2018-3/</link>
+      <pubDate>Tue, 03 Jul 2018 00:40:54 -0300</pubDate>
+      
+      <guid>https://kleinnerfarias.github.io/publication/seke-2018-3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effects of Model Composition Techniques on Effort and Affective States: A Controlled Experiment</title>
+      <link>https://kleinnerfarias.github.io/publication/seke-2018-2/</link>
+      <pubDate>Mon, 02 Jul 2018 00:39:24 -0300</pubDate>
+      
+      <guid>https://kleinnerfarias.github.io/publication/seke-2018-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the UML Use in the Brazilian Industry: A State of the Practice</title>
+      <link>https://kleinnerfarias.github.io/publication/seke-2018-1/</link>
+      <pubDate>Sun, 01 Jul 2018 00:40:49 -0300</pubDate>
+      
+      <guid>https://kleinnerfarias.github.io/publication/seke-2018-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Supporting the Composition of UML Component Diagrams</title>
+      <link>https://kleinnerfarias.github.io/publication/sbsi-2018-3/</link>
+      <pubDate>Wed, 06 Jun 2018 00:03:07 -0300</pubDate>
+      
+      <guid>https://kleinnerfarias.github.io/publication/sbsi-2018-3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DORIC: An Architecture for Data-intensive Real-time Applications</title>
+      <link>https://kleinnerfarias.github.io/publication/sbsi-2018-2/</link>
+      <pubDate>Tue, 05 Jun 2018 00:03:01 -0300</pubDate>
+      
+      <guid>https://kleinnerfarias.github.io/publication/sbsi-2018-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Melhorias no Processo de Identificação de Componentes Vulneráveis: Decidindo Sobre Atualizações</title>
+      <link>https://kleinnerfarias.github.io/publication/sbsi-2018-1/</link>
+      <pubDate>Mon, 04 Jun 2018 00:02:56 -0300</pubDate>
+      
+      <guid>https://kleinnerfarias.github.io/publication/sbsi-2018-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ontology Aided Model Comparison</title>
+      <link>https://kleinnerfarias.github.io/publication/iceccs-2009/</link>
+      <pubDate>Fri, 01 Jun 2018 21:46:59 -0300</pubDate>
+      
+      <guid>https://kleinnerfarias.github.io/publication/iceccs-2009/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Algorithm for Distance Calculation Between UML Sequence Diagrams</title>
+      <link>https://kleinnerfarias.github.io/publication/ieeela-2018/</link>
+      <pubDate>Mon, 21 May 2018 00:40:54 -0300</pubDate>
+      
+      <guid>https://kleinnerfarias.github.io/publication/ieeela-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BRCode: An Interpretive Model-driven Engineering Approach for Enterprise Applications</title>
+      <link>https://kleinnerfarias.github.io/publication/compind-2018/</link>
+      <pubDate>Mon, 05 Feb 2018 23:50:23 -0300</pubDate>
+      
+      <guid>https://kleinnerfarias.github.io/publication/compind-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Toward an Architecture for Comparing UML Design Models</title>
+      <link>https://kleinnerfarias.github.io/publication/jsw-2017/</link>
+      <pubDate>Sat, 01 Jul 2017 01:54:38 -0300</pubDate>
+      
+      <guid>https://kleinnerfarias.github.io/publication/jsw-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Personal Health Records: A Systematic Literature Review</title>
+      <link>https://kleinnerfarias.github.io/publication/jmir-2017/</link>
+      <pubDate>Thu, 01 Jun 2017 00:47:22 -0300</pubDate>
+      
+      <guid>https://kleinnerfarias.github.io/publication/jmir-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modeling Composition of UML Profiles with Alloy</title>
+      <link>https://kleinnerfarias.github.io/publication/ijcsse-2017/</link>
+      <pubDate>Mon, 20 Mar 2017 01:28:27 -0300</pubDate>
+      
+      <guid>https://kleinnerfarias.github.io/publication/ijcsse-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CollabRDL: A Language to Coordinate Collaborative Reuse</title>
+      <link>https://kleinnerfarias.github.io/publication/jss-2017/</link>
+      <pubDate>Tue, 31 Jan 2017 01:20:34 -0300</pubDate>
+      
+      <guid>https://kleinnerfarias.github.io/publication/jss-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Detecting Inconsistencies in Multi-view UML Models</title>
+      <link>https://kleinnerfarias.github.io/publication/ijcsse-2016-2/</link>
+      <pubDate>Fri, 02 Dec 2016 02:09:09 -0300</pubDate>
+      
+      <guid>https://kleinnerfarias.github.io/publication/ijcsse-2016-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards an Architecture for Integration of Feature Models</title>
+      <link>https://kleinnerfarias.github.io/publication/ijcsse-2016-1/</link>
+      <pubDate>Thu, 01 Dec 2016 02:09:05 -0300</pubDate>
+      
+      <guid>https://kleinnerfarias.github.io/publication/ijcsse-2016-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Safetrail: um Modelo para Controle de Acesso Baseado em Perfis, Contextos e Trilhas</title>
+      <link>https://kleinnerfarias.github.io/publication/rbca-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 02:28:59 -0300</pubDate>
+      
+      <guid>https://kleinnerfarias.github.io/publication/rbca-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluating the Effort of Composing Design Models: A Controlled Experiment</title>
       <link>https://kleinnerfarias.github.io/publication/sosym-2015/</link>
-      <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 01 Oct 2015 03:07:14 -0300</pubDate>
       
       <guid>https://kleinnerfarias.github.io/publication/sosym-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Uma Extensão da UML para Modelagem de Contexto</title>
+      <link>https://kleinnerfarias.github.io/publication/sbcup-2015/</link>
+      <pubDate>Mon, 20 Jul 2015 02:47:39 -0300</pubDate>
+      
+      <guid>https://kleinnerfarias.github.io/publication/sbcup-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comparison of Design Models: A Systematic Mapping Study</title>
+      <link>https://kleinnerfarias.github.io/publication/ijseke-2015/</link>
+      <pubDate>Mon, 20 Jul 2015 02:41:45 -0300</pubDate>
+      
+      <guid>https://kleinnerfarias.github.io/publication/ijseke-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Toward an Architecture for Model Composition Techniques</title>
+      <link>https://kleinnerfarias.github.io/publication/seke-2015-2/</link>
+      <pubDate>Thu, 02 Jul 2015 03:06:48 -0300</pubDate>
+      
+      <guid>https://kleinnerfarias.github.io/publication/seke-2015-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Model Comparison: A Systematic Mapping Study</title>
+      <link>https://kleinnerfarias.github.io/publication/seke-2015-1/</link>
+      <pubDate>Wed, 01 Jul 2015 03:06:52 -0300</pubDate>
+      
+      <guid>https://kleinnerfarias.github.io/publication/seke-2015-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MAS-ML 2.0: Supporting the Modelling of Multi-agent Systems with Different Agent Architectures</title>
+      <link>https://kleinnerfarias.github.io/publication/jss-2015/</link>
+      <pubDate>Fri, 12 Jun 2015 03:06:12 -0300</pubDate>
+      
+      <guid>https://kleinnerfarias.github.io/publication/jss-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rescheduling and Checkpointing as Strategies to Run Synchronous Parallel Programs on P2P Desktop Grids</title>
+      <link>https://kleinnerfarias.github.io/publication/sac-2015/</link>
+      <pubDate>Wed, 01 Apr 2015 03:07:14 -0300</pubDate>
+      
+      <guid>https://kleinnerfarias.github.io/publication/sac-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effects of Stability on Model Composition Effort: An Exploratory Study</title>
+      <link>https://kleinnerfarias.github.io/publication/sosym-2014/</link>
+      <pubDate>Wed, 01 Oct 2014 11:29:24 -0300</pubDate>
+      
+      <guid>https://kleinnerfarias.github.io/publication/sosym-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Redesigning Transaction Load Balancing on Electronic Funds Transfer Scenarios</title>
+      <link>https://kleinnerfarias.github.io/publication/sac-2014-5/</link>
+      <pubDate>Wed, 05 Mar 2014 03:07:26 -0300</pubDate>
+      
+      <guid>https://kleinnerfarias.github.io/publication/sac-2014-5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Extending JUnit 4 with Java Annotations and Reflection to Test Variant Model Transformation Assets</title>
+      <link>https://kleinnerfarias.github.io/publication/sac-2014-3/</link>
+      <pubDate>Mon, 03 Mar 2014 03:07:26 -0300</pubDate>
+      
+      <guid>https://kleinnerfarias.github.io/publication/sac-2014-3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the Impact of Obliviousness and Quantification on Model Composition Effort</title>
+      <link>https://kleinnerfarias.github.io/publication/sac-2014-2/</link>
+      <pubDate>Sun, 02 Mar 2014 03:07:26 -0300</pubDate>
+      
+      <guid>https://kleinnerfarias.github.io/publication/sac-2014-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Faster Seam Carving with Minimum Energy Windows</title>
+      <link>https://kleinnerfarias.github.io/publication/sac-2014-4/</link>
+      <pubDate>Sat, 01 Mar 2014 03:07:23 -0300</pubDate>
+      
+      <guid>https://kleinnerfarias.github.io/publication/sac-2014-4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards a Quality Model for Model Composition Effort</title>
+      <link>https://kleinnerfarias.github.io/publication/sac-2014-1/</link>
+      <pubDate>Sat, 01 Mar 2014 03:07:23 -0300</pubDate>
+      
+      <guid>https://kleinnerfarias.github.io/publication/sac-2014-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analyzing the Effort of Composing Design Models of Large-Scale Software in Industrial Case Studies</title>
+      <link>https://kleinnerfarias.github.io/publication/models-2013/</link>
+      <pubDate>Sun, 01 Sep 2013 11:34:56 -0300</pubDate>
+      
+      <guid>https://kleinnerfarias.github.io/publication/models-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluating the Effort of Composing Design Models: A Controlled Experiment</title>
+      <link>https://kleinnerfarias.github.io/publication/models-2012-2/</link>
+      <pubDate>Sun, 02 Sep 2012 21:11:52 -0300</pubDate>
+      
+      <guid>https://kleinnerfarias.github.io/publication/models-2012-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluating the Impact of Aspects on Inconsistency Detection Effort: A Controlled Experiment</title>
+      <link>https://kleinnerfarias.github.io/publication/models-2012-1/</link>
+      <pubDate>Sat, 01 Sep 2012 21:11:47 -0300</pubDate>
+      
+      <guid>https://kleinnerfarias.github.io/publication/models-2012-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MAS-ML Tool: A Modeling Environment for Multi-Agent Systems</title>
+      <link>https://kleinnerfarias.github.io/publication/iceis-2011/</link>
+      <pubDate>Thu, 01 Sep 2011 21:46:12 -0300</pubDate>
+      
+      <guid>https://kleinnerfarias.github.io/publication/iceis-2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluating the Effects of Stability on Model Composition Effort: an Exploratory Study</title>
+      <link>https://kleinnerfarias.github.io/publication/eselaw-2011/</link>
+      <pubDate>Fri, 01 Jul 2011 01:17:47 -0300</pubDate>
+      
+      <guid>https://kleinnerfarias.github.io/publication/eselaw-2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analyzing the Effort on Composing Design Models in Industrial Case Studies</title>
+      <link>https://kleinnerfarias.github.io/publication/aosd-2011/</link>
+      <pubDate>Tue, 01 Mar 2011 21:29:51 -0300</pubDate>
+      
+      <guid>https://kleinnerfarias.github.io/publication/aosd-2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modelagem de Organizações de Agentes Inteligentes: uma Extensão da MAS-ML Tool</title>
+      <link>https://kleinnerfarias.github.io/publication/autosoft-2010/</link>
+      <pubDate>Thu, 02 Sep 2010 01:18:51 -0300</pubDate>
+      
+      <guid>https://kleinnerfarias.github.io/publication/autosoft-2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analyzing the Effects of Aspect Properties on Model Composition Effort: A Replicated Study</title>
+      <link>https://kleinnerfarias.github.io/publication/aom-2010/</link>
+      <pubDate>Wed, 01 Sep 2010 01:18:11 -0300</pubDate>
+      
+      <guid>https://kleinnerfarias.github.io/publication/aom-2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Empirical Evaluation of Effort on Composing Design Models</title>
+      <link>https://kleinnerfarias.github.io/publication/icse-2010/</link>
+      <pubDate>Sat, 01 May 2010 21:46:25 -0300</pubDate>
+      
+      <guid>https://kleinnerfarias.github.io/publication/icse-2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Assessing the Impact of Aspects on Model Composition Effort</title>
+      <link>https://kleinnerfarias.github.io/publication/aosd-2010/</link>
+      <pubDate>Mon, 01 Mar 2010 22:09:53 -0300</pubDate>
+      
+      <guid>https://kleinnerfarias.github.io/publication/aosd-2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluating Composition Techniques for Architectural Specifications: A Comparative Study</title>
+      <link>https://kleinnerfarias.github.io/publication/escot-2010/</link>
+      <pubDate>Mon, 01 Mar 2010 01:17:57 -0300</pubDate>
+      
+      <guid>https://kleinnerfarias.github.io/publication/escot-2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MAS-ML Tool: Um Ambiente de Modelagem de Sistemas Multi-Agentes</title>
+      <link>https://kleinnerfarias.github.io/publication/seas-2009/</link>
+      <pubDate>Thu, 03 Sep 2009 01:19:16 -0300</pubDate>
+      
+      <guid>https://kleinnerfarias.github.io/publication/seas-2009/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the Comparative Evaluation of Aspect-Oriented Model Composition Techniques</title>
+      <link>https://kleinnerfarias.github.io/publication/lawasp-2009/</link>
+      <pubDate>Tue, 01 Sep 2009 01:19:32 -0300</pubDate>
+      
+      <guid>https://kleinnerfarias.github.io/publication/lawasp-2009/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Derivação de Casos de Testes Funcionais: Uma Abordagem Baseada em Modelos UML</title>
+      <link>https://kleinnerfarias.github.io/publication/sbsi-2009/</link>
+      <pubDate>Fri, 01 May 2009 21:46:41 -0300</pubDate>
+      
+      <guid>https://kleinnerfarias.github.io/publication/sbsi-2009/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Derivação de Casos de Testes Funcionais: um Abordagem Baseada em Modelos UML</title>
+      <link>https://kleinnerfarias.github.io/publication/resi-2009/</link>
+      <pubDate>Thu, 01 Jan 2009 20:47:34 -0300</pubDate>
+      
+      <guid>https://kleinnerfarias.github.io/publication/resi-2009/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the Quantitative Assessment of Class Model Compositions: An Exploratory Study</title>
+      <link>https://kleinnerfarias.github.io/publication/esmde-2009/</link>
+      <pubDate>Mon, 01 Sep 2008 01:19:41 -0300</pubDate>
+      
+      <guid>https://kleinnerfarias.github.io/publication/esmde-2009/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Uma Abordagem Flexível para Comparação de Modelos UML</title>
+      <link>https://kleinnerfarias.github.io/publication/sbcars-2008/</link>
+      <pubDate>Tue, 01 Jul 2008 21:47:23 -0300</pubDate>
+      
+      <guid>https://kleinnerfarias.github.io/publication/sbcars-2008/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Model Comparision: A Strategy-Based Approach</title>
+      <link>https://kleinnerfarias.github.io/publication/seke-2008/</link>
+      <pubDate>Tue, 01 Jul 2008 21:47:10 -0300</pubDate>
+      
+      <guid>https://kleinnerfarias.github.io/publication/seke-2008/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Composição de UML Profiles</title>
+      <link>https://kleinnerfarias.github.io/publication/wtdes-2007/</link>
+      <pubDate>Sat, 01 Sep 2007 01:19:56 -0300</pubDate>
+      
+      <guid>https://kleinnerfarias.github.io/publication/wtdes-2007/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Guidance for Model Composition</title>
+      <link>https://kleinnerfarias.github.io/publication/icsea-2007/</link>
+      <pubDate>Fri, 01 Jun 2007 21:47:34 -0300</pubDate>
+      
+      <guid>https://kleinnerfarias.github.io/publication/icsea-2007/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>COMPOR-Test: uma Ferramenta de Teste para o Arcabouço de Componentes COMPOR</title>
+      <link>https://kleinnerfarias.github.io/publication/saufal-2005-3/</link>
+      <pubDate>Sat, 03 Dec 2005 01:20:39 -0300</pubDate>
+      
+      <guid>https://kleinnerfarias.github.io/publication/saufal-2005-3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sistema de Recomendação Aplicado ao Ambiente de Lojas Virtuais</title>
+      <link>https://kleinnerfarias.github.io/publication/saufal-2005-2/</link>
+      <pubDate>Fri, 02 Dec 2005 01:20:35 -0300</pubDate>
+      
+      <guid>https://kleinnerfarias.github.io/publication/saufal-2005-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Live Plants: Sistema de Catalogação Dinâmica de Dados Científicos</title>
+      <link>https://kleinnerfarias.github.io/publication/saufal-2005-1/</link>
+      <pubDate>Thu, 01 Dec 2005 01:20:31 -0300</pubDate>
+      
+      <guid>https://kleinnerfarias.github.io/publication/saufal-2005-1/</guid>
       <description></description>
     </item>
     

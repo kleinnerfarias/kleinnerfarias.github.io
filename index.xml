@@ -7,15 +7,141 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Jul 2018 00:00:00 +0000</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Evaluating the Effort of Composing Design Models: a Controlled Experiment</title>
-      <link>https://kleinnerfarias.github.io/publication/sosym-2015/</link>
-      <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
+      <title>Evaluating the Effort of Integrating Feature Models: A Controlled Experiment</title>
+      <link>https://kleinnerfarias.github.io/publication/seke-2018-3/</link>
+      <pubDate>Tue, 03 Jul 2018 00:40:54 -0300</pubDate>
       
-      <guid>https://kleinnerfarias.github.io/publication/sosym-2015/</guid>
+      <guid>https://kleinnerfarias.github.io/publication/seke-2018-3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effects of Model Composition Techniques on Effort and Affective States: A Controlled Experiment</title>
+      <link>https://kleinnerfarias.github.io/publication/seke-2018-2/</link>
+      <pubDate>Mon, 02 Jul 2018 00:39:24 -0300</pubDate>
+      
+      <guid>https://kleinnerfarias.github.io/publication/seke-2018-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the UML Use in the Brazilian Industry: A State of the Practice</title>
+      <link>https://kleinnerfarias.github.io/publication/seke-2018-1/</link>
+      <pubDate>Sun, 01 Jul 2018 00:40:49 -0300</pubDate>
+      
+      <guid>https://kleinnerfarias.github.io/publication/seke-2018-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Supporting the Composition of UML Component Diagrams</title>
+      <link>https://kleinnerfarias.github.io/publication/sbsi-2018-3/</link>
+      <pubDate>Wed, 06 Jun 2018 00:03:07 -0300</pubDate>
+      
+      <guid>https://kleinnerfarias.github.io/publication/sbsi-2018-3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DORIC: An Architecture for Data-intensive Real-time Applications</title>
+      <link>https://kleinnerfarias.github.io/publication/sbsi-2018-2/</link>
+      <pubDate>Tue, 05 Jun 2018 00:03:01 -0300</pubDate>
+      
+      <guid>https://kleinnerfarias.github.io/publication/sbsi-2018-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Melhorias no Processo de Identificação de Componentes Vulneráveis: Decidindo Sobre Atualizações</title>
+      <link>https://kleinnerfarias.github.io/publication/sbsi-2018-1/</link>
+      <pubDate>Mon, 04 Jun 2018 00:02:56 -0300</pubDate>
+      
+      <guid>https://kleinnerfarias.github.io/publication/sbsi-2018-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ontology Aided Model Comparison</title>
+      <link>https://kleinnerfarias.github.io/publication/iceccs-2009/</link>
+      <pubDate>Fri, 01 Jun 2018 21:46:59 -0300</pubDate>
+      
+      <guid>https://kleinnerfarias.github.io/publication/iceccs-2009/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Algorithm for Distance Calculation Between UML Sequence Diagrams</title>
+      <link>https://kleinnerfarias.github.io/publication/ieeela-2018/</link>
+      <pubDate>Mon, 21 May 2018 00:40:54 -0300</pubDate>
+      
+      <guid>https://kleinnerfarias.github.io/publication/ieeela-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BRCode: An Interpretive Model-driven Engineering Approach for Enterprise Applications</title>
+      <link>https://kleinnerfarias.github.io/publication/compind-2018/</link>
+      <pubDate>Mon, 05 Feb 2018 23:50:23 -0300</pubDate>
+      
+      <guid>https://kleinnerfarias.github.io/publication/compind-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Toward an Architecture for Comparing UML Design Models</title>
+      <link>https://kleinnerfarias.github.io/publication/jsw-2017/</link>
+      <pubDate>Sat, 01 Jul 2017 01:54:38 -0300</pubDate>
+      
+      <guid>https://kleinnerfarias.github.io/publication/jsw-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Personal Health Records: A Systematic Literature Review</title>
+      <link>https://kleinnerfarias.github.io/publication/jmir-2017/</link>
+      <pubDate>Thu, 01 Jun 2017 00:47:22 -0300</pubDate>
+      
+      <guid>https://kleinnerfarias.github.io/publication/jmir-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modeling Composition of UML Profiles with Alloy</title>
+      <link>https://kleinnerfarias.github.io/publication/ijcsse-2017/</link>
+      <pubDate>Mon, 20 Mar 2017 01:28:27 -0300</pubDate>
+      
+      <guid>https://kleinnerfarias.github.io/publication/ijcsse-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CollabRDL: A Language to Coordinate Collaborative Reuse</title>
+      <link>https://kleinnerfarias.github.io/publication/jss-2017/</link>
+      <pubDate>Tue, 31 Jan 2017 01:20:34 -0300</pubDate>
+      
+      <guid>https://kleinnerfarias.github.io/publication/jss-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Detecting Inconsistencies in Multi-view UML Models</title>
+      <link>https://kleinnerfarias.github.io/publication/ijcsse-2016-2/</link>
+      <pubDate>Fri, 02 Dec 2016 02:09:09 -0300</pubDate>
+      
+      <guid>https://kleinnerfarias.github.io/publication/ijcsse-2016-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards an Architecture for Integration of Feature Models</title>
+      <link>https://kleinnerfarias.github.io/publication/ijcsse-2016-1/</link>
+      <pubDate>Thu, 01 Dec 2016 02:09:05 -0300</pubDate>
+      
+      <guid>https://kleinnerfarias.github.io/publication/ijcsse-2016-1/</guid>
       <description></description>
     </item>
     
