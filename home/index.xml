@@ -67,13 +67,14 @@
     </item>
     
     <item>
-      <title>Custom Section</title>
+      <title>Teaching</title>
       <link>https://kleinnerfarias.github.io/home/teaching/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://kleinnerfarias.github.io/home/teaching/</guid>
       <description>This is an example of using the custom widget to create your own homepage section.
-To remove this section, either delete content/home/teaching.md or edit the frontmatter of the file to deactivate the widget by setting active = false.</description>
+ Software Engineering (2018.1, 2017.1) IC10: Software Architecture () IC10: Software Development II IC10: Software Development I   IC10: sdsdsdsdsdsd IC10: sdsdsdsdsdsd  To remove this section, either delete content/home/teaching.md or edit the frontmatter of the file to deactivate the widget by setting active = false.
+&amp;lt;&amp;gt;</description>
     </item>
     
     <item>

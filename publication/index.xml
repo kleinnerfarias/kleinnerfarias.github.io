@@ -67,15 +67,6 @@
     </item>
     
     <item>
-      <title>Ontology Aided Model Comparison</title>
-      <link>https://kleinnerfarias.github.io/publication/iceccs-2009/</link>
-      <pubDate>Fri, 01 Jun 2018 21:46:59 -0300</pubDate>
-      
-      <guid>https://kleinnerfarias.github.io/publication/iceccs-2009/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>An Algorithm for Distance Calculation Between UML Sequence Diagrams</title>
       <link>https://kleinnerfarias.github.io/publication/ieeela-2018/</link>
       <pubDate>Mon, 21 May 2018 00:40:54 -0300</pubDate>
@@ -387,6 +378,15 @@
       <pubDate>Tue, 01 Sep 2009 01:19:32 -0300</pubDate>
       
       <guid>https://kleinnerfarias.github.io/publication/lawasp-2009/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ontology Aided Model Comparison</title>
+      <link>https://kleinnerfarias.github.io/publication/iceccs-2009/</link>
+      <pubDate>Mon, 01 Jun 2009 21:46:59 -0300</pubDate>
+      
+      <guid>https://kleinnerfarias.github.io/publication/iceccs-2009/</guid>
       <description></description>
     </item>
     
