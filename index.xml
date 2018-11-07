@@ -11,6 +11,15 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Questionnaire used to evaluate our study: UML2Merge: a UML Extension for Model Merging</title>
+      <link>https://kleinnerfarias.github.io/publication/ietsoft-2018/</link>
+      <pubDate>Wed, 07 Nov 2018 17:12:56 -0200</pubDate>
+      
+      <guid>https://kleinnerfarias.github.io/publication/ietsoft-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Evaluating the Effort of Integrating Feature Models: A Controlled Experiment</title>
       <link>https://kleinnerfarias.github.io/publication/seke-2018-3/</link>
       <pubDate>Tue, 03 Jul 2018 00:40:54 -0300</pubDate>
@@ -133,15 +142,6 @@
       <pubDate>Thu, 01 Dec 2016 02:09:05 -0300</pubDate>
       
       <guid>https://kleinnerfarias.github.io/publication/ijcsse-2016-1/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Safetrail: um Modelo para Controle de Acesso Baseado em Perfis, Contextos e Trilhas</title>
-      <link>https://kleinnerfarias.github.io/publication/rbca-2016/</link>
-      <pubDate>Fri, 01 Jan 2016 02:28:59 -0300</pubDate>
-      
-      <guid>https://kleinnerfarias.github.io/publication/rbca-2016/</guid>
       <description></description>
     </item>
     
