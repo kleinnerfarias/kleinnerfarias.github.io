@@ -419,6 +419,15 @@
     
     <url>
     
+      <loc>https://kleinnerfarias.github.io/publication/jucs-2009/</loc>
+      <lastmod>2009-06-01T20:47:28-03:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://kleinnerfarias.github.io/publication/sbsi-2009/</loc>
       <lastmod>2009-05-01T21:46:41-03:00</lastmod>
     </url>
@@ -958,6 +967,16 @@
     
     <url>
     
+      <loc>https://kleinnerfarias.github.io/tags/model-driven-development/</loc>
+      <lastmod>2009-06-01T20:47:28-03:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://kleinnerfarias.github.io/tags/model-driven-engineering/</loc>
       <lastmod>2018-02-05T23:50:23-03:00</lastmod>
       <priority>0</priority>
@@ -1020,6 +1039,16 @@
     
       <loc>https://kleinnerfarias.github.io/tags/ontology/</loc>
       <lastmod>2009-06-01T21:46:59-03:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://kleinnerfarias.github.io/tags/ontology-alignment/</loc>
+      <lastmod>2009-06-01T20:47:28-03:00</lastmod>
       <priority>0</priority>
     </url>
     
