@@ -11,6 +11,15 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Effects of Contextual Information on Maintenance Effort: A Controlled Experiment</title>
+      <link>https://kleinnerfarias.github.io/publication/jss-2019/</link>
+      <pubDate>Fri, 11 Oct 2019 15:58:16 -0300</pubDate>
+      
+      <guid>https://kleinnerfarias.github.io/publication/jss-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Questionnaire used to evaluate our study: UML2Merge: a UML Extension for Model Merging</title>
       <link>https://kleinnerfarias.github.io/publication/ietsoft-2018/</link>
       <pubDate>Wed, 07 Nov 2018 17:12:56 -0200</pubDate>
@@ -133,15 +142,6 @@
       <pubDate>Fri, 02 Dec 2016 02:09:09 -0300</pubDate>
       
       <guid>https://kleinnerfarias.github.io/publication/ijcsse-2016-2/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Towards an Architecture for Integration of Feature Models</title>
-      <link>https://kleinnerfarias.github.io/publication/ijcsse-2016-1/</link>
-      <pubDate>Thu, 01 Dec 2016 02:09:05 -0300</pubDate>
-      
-      <guid>https://kleinnerfarias.github.io/publication/ijcsse-2016-1/</guid>
       <description></description>
     </item>
     
