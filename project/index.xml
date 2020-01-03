@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Academic</title>
+    <link>https://kleinnerfarias.github.io/project/</link>
+    <description>Recent content in Projects on Academic</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Mon, 23 Dec 2019 14:42:33 -0200</lastBuildDate>
+    
+	<atom:link href="https://kleinnerfarias.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Model Merging</title>
+      <link>https://kleinnerfarias.github.io/project/model-merging/</link>
+      <pubDate>Mon, 23 Dec 2019 14:42:33 -0200</pubDate>
+      
+      <guid>https://kleinnerfarias.github.io/project/model-merging/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

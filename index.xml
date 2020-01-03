@@ -7,8 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Tue, 17 Jul 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jan 2020 00:00:00 +0000</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Model Merging</title>
+      <link>https://kleinnerfarias.github.io/project/model-merging/</link>
+      <pubDate>Mon, 23 Dec 2019 14:42:33 -0200</pubDate>
+      
+      <guid>https://kleinnerfarias.github.io/project/model-merging/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>MIND OVERFLOW: Uma proposta de processo para decomposição de aplicações monolíticas em microsserviços</title>
@@ -29,11 +38,29 @@
     </item>
     
     <item>
-      <title>PARTHENOS: Uma Abordagem de Injenção de Código-fonte para Transformação de Software</title>
+      <title>PARTHENOS: Uma Abordagem de Injeção de Código-fonte para Transformação de Software</title>
       <link>https://kleinnerfarias.github.io/publication/tcc-gabriel-2019-1/</link>
       <pubDate>Wed, 10 Jul 2019 08:10:58 -0200</pubDate>
       
       <guid>https://kleinnerfarias.github.io/publication/tcc-gabriel-2019-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Uma Arquitetura Baseada em Microserviços para Aplicações IoT em Fazendas Inteligentes</title>
+      <link>https://kleinnerfarias.github.io/publication/tcc-rodrigo-2018-2/</link>
+      <pubDate>Sun, 23 Dec 2018 15:10:25 -0200</pubDate>
+      
+      <guid>https://kleinnerfarias.github.io/publication/tcc-rodrigo-2018-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HERMES: Um Modelo de Interface de Linguagem Natural para Transformção em Software</title>
+      <link>https://kleinnerfarias.github.io/publication/tcc-michael-2018-2/</link>
+      <pubDate>Sun, 23 Dec 2018 14:47:27 -0200</pubDate>
+      
+      <guid>https://kleinnerfarias.github.io/publication/tcc-michael-2018-2/</guid>
       <description></description>
     </item>
     
@@ -43,6 +70,15 @@
       <pubDate>Wed, 07 Nov 2018 17:12:56 -0200</pubDate>
       
       <guid>https://kleinnerfarias.github.io/publication/ietsoft-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Big Data Analytics no Gerenciamento da Cadeia de Suprimentos: Um Estudo Qualitativo</title>
+      <link>https://kleinnerfarias.github.io/publication/tcc-thiago-2018-1/</link>
+      <pubDate>Tue, 03 Jul 2018 14:59:58 -0200</pubDate>
+      
+      <guid>https://kleinnerfarias.github.io/publication/tcc-thiago-2018-1/</guid>
       <description></description>
     </item>
     
@@ -106,42 +142,6 @@
       <pubDate>Mon, 21 May 2018 00:40:54 -0300</pubDate>
       
       <guid>https://kleinnerfarias.github.io/publication/ieeela-2018/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>BRCode: An Interpretive Model-driven Engineering Approach for Enterprise Applications</title>
-      <link>https://kleinnerfarias.github.io/publication/compind-2018/</link>
-      <pubDate>Mon, 05 Feb 2018 23:50:23 -0300</pubDate>
-      
-      <guid>https://kleinnerfarias.github.io/publication/compind-2018/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Toward an Architecture for Comparing UML Design Models</title>
-      <link>https://kleinnerfarias.github.io/publication/jsw-2017/</link>
-      <pubDate>Sat, 01 Jul 2017 01:54:38 -0300</pubDate>
-      
-      <guid>https://kleinnerfarias.github.io/publication/jsw-2017/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Personal Health Records: A Systematic Literature Review</title>
-      <link>https://kleinnerfarias.github.io/publication/jmir-2017/</link>
-      <pubDate>Thu, 01 Jun 2017 00:47:22 -0300</pubDate>
-      
-      <guid>https://kleinnerfarias.github.io/publication/jmir-2017/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Modeling Composition of UML Profiles with Alloy</title>
-      <link>https://kleinnerfarias.github.io/publication/ijcsse-2017/</link>
-      <pubDate>Mon, 20 Mar 2017 01:28:27 -0300</pubDate>
-      
-      <guid>https://kleinnerfarias.github.io/publication/ijcsse-2017/</guid>
       <description></description>
     </item>
     

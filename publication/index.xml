@@ -31,11 +31,29 @@
     </item>
     
     <item>
-      <title>PARTHENOS: Uma Abordagem de Injenção de Código-fonte para Transformação de Software</title>
+      <title>PARTHENOS: Uma Abordagem de Injeção de Código-fonte para Transformação de Software</title>
       <link>https://kleinnerfarias.github.io/publication/tcc-gabriel-2019-1/</link>
       <pubDate>Wed, 10 Jul 2019 08:10:58 -0200</pubDate>
       
       <guid>https://kleinnerfarias.github.io/publication/tcc-gabriel-2019-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Uma Arquitetura Baseada em Microserviços para Aplicações IoT em Fazendas Inteligentes</title>
+      <link>https://kleinnerfarias.github.io/publication/tcc-rodrigo-2018-2/</link>
+      <pubDate>Sun, 23 Dec 2018 15:10:25 -0200</pubDate>
+      
+      <guid>https://kleinnerfarias.github.io/publication/tcc-rodrigo-2018-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HERMES: Um Modelo de Interface de Linguagem Natural para Transformção em Software</title>
+      <link>https://kleinnerfarias.github.io/publication/tcc-michael-2018-2/</link>
+      <pubDate>Sun, 23 Dec 2018 14:47:27 -0200</pubDate>
+      
+      <guid>https://kleinnerfarias.github.io/publication/tcc-michael-2018-2/</guid>
       <description></description>
     </item>
     
@@ -45,6 +63,15 @@
       <pubDate>Wed, 07 Nov 2018 17:12:56 -0200</pubDate>
       
       <guid>https://kleinnerfarias.github.io/publication/ietsoft-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Big Data Analytics no Gerenciamento da Cadeia de Suprimentos: Um Estudo Qualitativo</title>
+      <link>https://kleinnerfarias.github.io/publication/tcc-thiago-2018-1/</link>
+      <pubDate>Tue, 03 Jul 2018 14:59:58 -0200</pubDate>
+      
+      <guid>https://kleinnerfarias.github.io/publication/tcc-thiago-2018-1/</guid>
       <description></description>
     </item>
     
@@ -121,6 +148,33 @@
     </item>
     
     <item>
+      <title>Engenharia Reversa Contínua: Automatizando Diagramas UML como Parte da Integração Contínua Através da UMLRev</title>
+      <link>https://kleinnerfarias.github.io/publication/tcc-lucas-2017-2/</link>
+      <pubDate>Sat, 23 Dec 2017 15:26:40 -0200</pubDate>
+      
+      <guid>https://kleinnerfarias.github.io/publication/tcc-lucas-2017-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Análise de Impacto da Utilização de Entrega Contínua em uma Organização: Um Estudo Experimental</title>
+      <link>https://kleinnerfarias.github.io/publication/tcc-maluane-2017-2/</link>
+      <pubDate>Sat, 23 Dec 2017 15:16:36 -0200</pubDate>
+      
+      <guid>https://kleinnerfarias.github.io/publication/tcc-maluane-2017-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Uma Arquitetura  de Software para Aplicações de Larga Escala e de Tempo Real</title>
+      <link>https://kleinnerfarias.github.io/publication/tcc-miguel-2017-1/</link>
+      <pubDate>Sun, 23 Jul 2017 16:33:45 -0200</pubDate>
+      
+      <guid>https://kleinnerfarias.github.io/publication/tcc-miguel-2017-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Toward an Architecture for Comparing UML Design Models</title>
       <link>https://kleinnerfarias.github.io/publication/jsw-2017/</link>
       <pubDate>Sat, 01 Jul 2017 01:54:38 -0300</pubDate>
@@ -157,6 +211,15 @@
     </item>
     
     <item>
+      <title>Melhorias no Processo de Identificação de Componentes Vulneráveis: Decidindo sobre Atualizações</title>
+      <link>https://kleinnerfarias.github.io/publication/tcc-bruna-2016-2/</link>
+      <pubDate>Fri, 23 Dec 2016 16:38:13 -0200</pubDate>
+      
+      <guid>https://kleinnerfarias.github.io/publication/tcc-bruna-2016-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Detecting Inconsistencies in Multi-view UML Models</title>
       <link>https://kleinnerfarias.github.io/publication/ijcsse-2016-2/</link>
       <pubDate>Fri, 02 Dec 2016 02:09:09 -0300</pubDate>
@@ -184,11 +247,29 @@
     </item>
     
     <item>
+      <title>Especificação Colaborativa de Software utilizando Exemplos: Um Estudo de Caso Aplicado à Manutenção de um Sistema ERP</title>
+      <link>https://kleinnerfarias.github.io/publication/tcc-richard-2015-2/</link>
+      <pubDate>Sun, 20 Dec 2015 07:01:59 -0200</pubDate>
+      
+      <guid>https://kleinnerfarias.github.io/publication/tcc-richard-2015-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Evaluating the Effort of Composing Design Models: A Controlled Experiment</title>
       <link>https://kleinnerfarias.github.io/publication/sosym-2015/</link>
       <pubDate>Thu, 01 Oct 2015 03:07:14 -0300</pubDate>
       
       <guid>https://kleinnerfarias.github.io/publication/sosym-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Uma Ferramenta de Suporte à Modelagem Colaborativa de Software</title>
+      <link>https://kleinnerfarias.github.io/publication/tcc-raul-2015-1/</link>
+      <pubDate>Mon, 20 Jul 2015 07:11:55 -0200</pubDate>
+      
+      <guid>https://kleinnerfarias.github.io/publication/tcc-raul-2015-1/</guid>
       <description></description>
     </item>
     
@@ -207,6 +288,15 @@
       <pubDate>Mon, 20 Jul 2015 02:41:45 -0300</pubDate>
       
       <guid>https://kleinnerfarias.github.io/publication/ijseke-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>REVERSEJ: Uma Ferramenta para Engenharia Reversa Baseada em Features</title>
+      <link>https://kleinnerfarias.github.io/publication/tcc-lucas-2015-1/</link>
+      <pubDate>Fri, 17 Jul 2015 07:18:10 -0200</pubDate>
+      
+      <guid>https://kleinnerfarias.github.io/publication/tcc-lucas-2015-1/</guid>
       <description></description>
     </item>
     
@@ -247,11 +337,65 @@
     </item>
     
     <item>
+      <title>Um Algoritmo para Cálculo de Distância entre Diagramas de Sequência da UML</title>
+      <link>https://kleinnerfarias.github.io/publication/tcc-joni-2014-2/</link>
+      <pubDate>Wed, 17 Dec 2014 07:28:29 -0200</pubDate>
+      
+      <guid>https://kleinnerfarias.github.io/publication/tcc-joni-2014-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Uma Ferramenta para Composição de Diagramas de Componentes da UML</title>
+      <link>https://kleinnerfarias.github.io/publication/tcc-guilherme-2014-2/</link>
+      <pubDate>Wed, 17 Dec 2014 07:22:03 -0200</pubDate>
+      
+      <guid>https://kleinnerfarias.github.io/publication/tcc-guilherme-2014-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Effects of Stability on Model Composition Effort: An Exploratory Study</title>
       <link>https://kleinnerfarias.github.io/publication/sosym-2014/</link>
       <pubDate>Wed, 01 Oct 2014 11:29:24 -0300</pubDate>
       
       <guid>https://kleinnerfarias.github.io/publication/sosym-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Avaliação de Esforço de Composição de Modelos de Software: Um Estudo Baseado em Neurociência</title>
+      <link>https://kleinnerfarias.github.io/publication/tcc-mateus-2014-1/</link>
+      <pubDate>Thu, 17 Jul 2014 08:48:54 -0200</pubDate>
+      
+      <guid>https://kleinnerfarias.github.io/publication/tcc-mateus-2014-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Uma Linha de Produto de Software para Aplicações Web</title>
+      <link>https://kleinnerfarias.github.io/publication/tcc-maicon-2014-1/</link>
+      <pubDate>Thu, 17 Jul 2014 07:37:29 -0200</pubDate>
+      
+      <guid>https://kleinnerfarias.github.io/publication/tcc-maicon-2014-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Monitoramento de Infraestrutura de TI: Métricas e Estudos Experimentais</title>
+      <link>https://kleinnerfarias.github.io/publication/tcc-felipe-2014-1/</link>
+      <pubDate>Tue, 15 Jul 2014 08:53:11 -0200</pubDate>
+      
+      <guid>https://kleinnerfarias.github.io/publication/tcc-felipe-2014-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Uma Linha de Produto de Software para Sistemas Integrados de Gestão Empresarial: Um Estudo de Caso na Indústria </title>
+      <link>https://kleinnerfarias.github.io/publication/tcc-moises-2014-1/</link>
+      <pubDate>Tue, 15 Jul 2014 08:40:18 -0200</pubDate>
+      
+      <guid>https://kleinnerfarias.github.io/publication/tcc-moises-2014-1/</guid>
       <description></description>
     </item>
     
