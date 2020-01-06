@@ -11,6 +11,15 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Effects of Contextual Information on Maintenance Effort: A Controlled Experiment</title>
+      <link>https://kleinnerfarias.github.io/publication/jss-2020/</link>
+      <pubDate>Sun, 05 Jan 2020 16:54:24 -0200</pubDate>
+      
+      <guid>https://kleinnerfarias.github.io/publication/jss-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Model Merging</title>
       <link>https://kleinnerfarias.github.io/project/model-merging/</link>
       <pubDate>Mon, 23 Dec 2019 14:42:33 -0200</pubDate>
@@ -29,11 +38,29 @@
     </item>
     
     <item>
-      <title>Effects of Contextual Information on Maintenance Effort: A Controlled Experiment</title>
-      <link>https://kleinnerfarias.github.io/publication/jss-2019/</link>
-      <pubDate>Fri, 11 Oct 2019 15:58:16 -0300</pubDate>
+      <title>UML2Merge: a UML extension for model merging</title>
+      <link>https://kleinnerfarias.github.io/publication/iet-2019/</link>
+      <pubDate>Thu, 05 Dec 2019 17:07:19 -0200</pubDate>
       
-      <guid>https://kleinnerfarias.github.io/publication/jss-2019/</guid>
+      <guid>https://kleinnerfarias.github.io/publication/iet-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Supporting Collaborative Modelling in UML Class Diagrams</title>
+      <link>https://kleinnerfarias.github.io/publication/rbca-2019/</link>
+      <pubDate>Tue, 05 Nov 2019 16:45:24 -0200</pubDate>
+      
+      <guid>https://kleinnerfarias.github.io/publication/rbca-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CMFRAME: a Framework for Managing Dynamic and Hierarchical Context Histories</title>
+      <link>https://kleinnerfarias.github.io/publication/clei-2019/</link>
+      <pubDate>Thu, 05 Sep 2019 17:29:50 -0200</pubDate>
+      
+      <guid>https://kleinnerfarias.github.io/publication/clei-2019/</guid>
       <description></description>
     </item>
     
@@ -47,101 +74,74 @@
     </item>
     
     <item>
-      <title>Uma Arquitetura Baseada em Microserviços para Aplicações IoT em Fazendas Inteligentes</title>
-      <link>https://kleinnerfarias.github.io/publication/tcc-rodrigo-2018-2/</link>
-      <pubDate>Sun, 23 Dec 2018 15:10:25 -0200</pubDate>
+      <title>Comparison of So ware Design Models: An Extended Systematic Mapping Study</title>
+      <link>https://kleinnerfarias.github.io/publication/acs-2019/</link>
+      <pubDate>Fri, 05 Jul 2019 17:50:34 -0200</pubDate>
       
-      <guid>https://kleinnerfarias.github.io/publication/tcc-rodrigo-2018-2/</guid>
+      <guid>https://kleinnerfarias.github.io/publication/acs-2019/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>HERMES: Um Modelo de Interface de Linguagem Natural para Transformção em Software</title>
-      <link>https://kleinnerfarias.github.io/publication/tcc-michael-2018-2/</link>
-      <pubDate>Sun, 23 Dec 2018 14:47:27 -0200</pubDate>
+      <title>Towards a Hybrid Approach to Measure Similarity Between UML Models</title>
+      <link>https://kleinnerfarias.github.io/publication/sbsi-2019-1/</link>
+      <pubDate>Sun, 05 May 2019 20:32:39 -0200</pubDate>
       
-      <guid>https://kleinnerfarias.github.io/publication/tcc-michael-2018-2/</guid>
+      <guid>https://kleinnerfarias.github.io/publication/sbsi-2019-1/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Questionnaire used to evaluate our study: UML2Merge: a UML Extension for Model Merging</title>
-      <link>https://kleinnerfarias.github.io/publication/ietsoft-2018/</link>
-      <pubDate>Wed, 07 Nov 2018 17:12:56 -0200</pubDate>
+      <title>On the Effects of Developers’ Intuition on Measuring Similarity Between UML Models</title>
+      <link>https://kleinnerfarias.github.io/publication/sbsi-2019-2/</link>
+      <pubDate>Sun, 05 May 2019 20:29:20 -0200</pubDate>
       
-      <guid>https://kleinnerfarias.github.io/publication/ietsoft-2018/</guid>
+      <guid>https://kleinnerfarias.github.io/publication/sbsi-2019-2/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Big Data Analytics no Gerenciamento da Cadeia de Suprimentos: Um Estudo Qualitativo</title>
-      <link>https://kleinnerfarias.github.io/publication/tcc-thiago-2018-1/</link>
-      <pubDate>Tue, 03 Jul 2018 14:59:58 -0200</pubDate>
+      <title>Towards a Semiautomatic Tool to Support the Integration of Feature Models</title>
+      <link>https://kleinnerfarias.github.io/publication/sbsi-2019-3/</link>
+      <pubDate>Sun, 05 May 2019 20:23:17 -0200</pubDate>
       
-      <guid>https://kleinnerfarias.github.io/publication/tcc-thiago-2018-1/</guid>
+      <guid>https://kleinnerfarias.github.io/publication/sbsi-2019-3/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Evaluating the Effort of Integrating Feature Models: A Controlled Experiment</title>
-      <link>https://kleinnerfarias.github.io/publication/seke-2018-3/</link>
-      <pubDate>Tue, 03 Jul 2018 00:40:54 -0300</pubDate>
+      <title>Hermes: A Natural Language Interface Model for So ware Transformation</title>
+      <link>https://kleinnerfarias.github.io/publication/sbsi-2019-4/</link>
+      <pubDate>Sun, 05 May 2019 20:14:50 -0200</pubDate>
       
-      <guid>https://kleinnerfarias.github.io/publication/seke-2018-3/</guid>
+      <guid>https://kleinnerfarias.github.io/publication/sbsi-2019-4/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Effects of Model Composition Techniques on Effort and Affective States: A Controlled Experiment</title>
-      <link>https://kleinnerfarias.github.io/publication/seke-2018-2/</link>
-      <pubDate>Mon, 02 Jul 2018 00:39:24 -0300</pubDate>
+      <title>UMLCollab: A Hybrid Approach for Collaborative Modeling of UML Models</title>
+      <link>https://kleinnerfarias.github.io/publication/sbsi-2019-5/</link>
+      <pubDate>Sun, 05 May 2019 19:58:29 -0200</pubDate>
       
-      <guid>https://kleinnerfarias.github.io/publication/seke-2018-2/</guid>
+      <guid>https://kleinnerfarias.github.io/publication/sbsi-2019-5/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>On the UML Use in the Brazilian Industry: A State of the Practice</title>
-      <link>https://kleinnerfarias.github.io/publication/seke-2018-1/</link>
-      <pubDate>Sun, 01 Jul 2018 00:40:49 -0300</pubDate>
+      <title>A Model for Predicting Disapproval of Apprentices in Distance Education Using Decision Tree</title>
+      <link>https://kleinnerfarias.github.io/publication/sbsi-2019-6/</link>
+      <pubDate>Sun, 05 May 2019 19:46:46 -0200</pubDate>
       
-      <guid>https://kleinnerfarias.github.io/publication/seke-2018-1/</guid>
+      <guid>https://kleinnerfarias.github.io/publication/sbsi-2019-6/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Supporting the Composition of UML Component Diagrams</title>
-      <link>https://kleinnerfarias.github.io/publication/sbsi-2018-3/</link>
-      <pubDate>Wed, 06 Jun 2018 00:03:07 -0300</pubDate>
+      <title>Measuring the Cognitive Load of Software Developers: A Systematic Mapping Study</title>
+      <link>https://kleinnerfarias.github.io/publication/icpc-2019/</link>
+      <pubDate>Sun, 05 May 2019 17:37:57 -0200</pubDate>
       
-      <guid>https://kleinnerfarias.github.io/publication/sbsi-2018-3/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>DORIC: An Architecture for Data-intensive Real-time Applications</title>
-      <link>https://kleinnerfarias.github.io/publication/sbsi-2018-2/</link>
-      <pubDate>Tue, 05 Jun 2018 00:03:01 -0300</pubDate>
-      
-      <guid>https://kleinnerfarias.github.io/publication/sbsi-2018-2/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Melhorias no Processo de Identificação de Componentes Vulneráveis: Decidindo Sobre Atualizações</title>
-      <link>https://kleinnerfarias.github.io/publication/sbsi-2018-1/</link>
-      <pubDate>Mon, 04 Jun 2018 00:02:56 -0300</pubDate>
-      
-      <guid>https://kleinnerfarias.github.io/publication/sbsi-2018-1/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>An Algorithm for Distance Calculation Between UML Sequence Diagrams</title>
-      <link>https://kleinnerfarias.github.io/publication/ieeela-2018/</link>
-      <pubDate>Mon, 21 May 2018 00:40:54 -0300</pubDate>
-      
-      <guid>https://kleinnerfarias.github.io/publication/ieeela-2018/</guid>
+      <guid>https://kleinnerfarias.github.io/publication/icpc-2019/</guid>
       <description></description>
     </item>
     
