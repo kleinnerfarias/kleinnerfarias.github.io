@@ -392,6 +392,15 @@
     
     <url>
     
+      <loc>https://kleinnerfarias.github.io/publication/book-pas-2016/</loc>
+      <lastmod>2016-02-02T22:48:45-02:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://kleinnerfarias.github.io/publication/rbca-2016/</loc>
       <lastmod>2016-01-01T02:28:59-03:00</lastmod>
     </url>
@@ -856,6 +865,16 @@
     
       <loc>https://kleinnerfarias.github.io/publication_types/3/</loc>
       <lastmod>2019-12-23T07:42:47-02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://kleinnerfarias.github.io/publication_types/5/</loc>
+      <lastmod>2016-02-02T22:48:45-02:00</lastmod>
       <priority>0</priority>
     </url>
     
