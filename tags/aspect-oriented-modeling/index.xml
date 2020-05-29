@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Aspect-Oriented Modeling on Academic</title>
+    <link>https://kleinnerfarias.github.io/tags/aspect-oriented-modeling/</link>
+    <description>Recent content in Aspect-Oriented Modeling on Academic</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 02 Mar 2014 03:07:26 -0300</lastBuildDate>
+    
+	<atom:link href="https://kleinnerfarias.github.io/tags/aspect-oriented-modeling/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>On the Impact of Obliviousness and Quantification on Model Composition Effort</title>
+      <link>https://kleinnerfarias.github.io/publication/sac-2014-2/</link>
+      <pubDate>Sun, 02 Mar 2014 03:07:26 -0300</pubDate>
+      
+      <guid>https://kleinnerfarias.github.io/publication/sac-2014-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analyzing the Effects of Aspect Properties on Model Composition Effort: A Replicated Study</title>
+      <link>https://kleinnerfarias.github.io/publication/aom-2010/</link>
+      <pubDate>Wed, 01 Sep 2010 01:18:11 -0300</pubDate>
+      
+      <guid>https://kleinnerfarias.github.io/publication/aom-2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Assessing the Impact of Aspects on Model Composition Effort</title>
+      <link>https://kleinnerfarias.github.io/publication/aosd-2010/</link>
+      <pubDate>Mon, 01 Mar 2010 22:09:53 -0300</pubDate>
+      
+      <guid>https://kleinnerfarias.github.io/publication/aosd-2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the Comparative Evaluation of Aspect-Oriented Model Composition Techniques</title>
+      <link>https://kleinnerfarias.github.io/publication/lawasp-2009/</link>
+      <pubDate>Tue, 01 Sep 2009 01:19:32 -0300</pubDate>
+      
+      <guid>https://kleinnerfarias.github.io/publication/lawasp-2009/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

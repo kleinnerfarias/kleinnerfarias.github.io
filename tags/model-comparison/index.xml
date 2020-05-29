@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Model Comparison on Academic</title>
+    <link>https://kleinnerfarias.github.io/tags/model-comparison/</link>
+    <description>Recent content in Model Comparison on Academic</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Fri, 05 Jul 2019 17:50:34 -0200</lastBuildDate>
+    
+	<atom:link href="https://kleinnerfarias.github.io/tags/model-comparison/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Comparison of So ware Design Models: An Extended Systematic Mapping Study</title>
+      <link>https://kleinnerfarias.github.io/publication/acs-2019/</link>
+      <pubDate>Fri, 05 Jul 2019 17:50:34 -0200</pubDate>
+      
+      <guid>https://kleinnerfarias.github.io/publication/acs-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Toward an Architecture for Comparing UML Design Models</title>
+      <link>https://kleinnerfarias.github.io/publication/jsw-2017/</link>
+      <pubDate>Sat, 01 Jul 2017 01:54:38 -0300</pubDate>
+      
+      <guid>https://kleinnerfarias.github.io/publication/jsw-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comparison of Design Models: A Systematic Mapping Study</title>
+      <link>https://kleinnerfarias.github.io/publication/ijseke-2015/</link>
+      <pubDate>Mon, 20 Jul 2015 02:41:45 -0300</pubDate>
+      
+      <guid>https://kleinnerfarias.github.io/publication/ijseke-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Model Comparison: A Systematic Mapping Study</title>
+      <link>https://kleinnerfarias.github.io/publication/seke-2015-1/</link>
+      <pubDate>Wed, 01 Jul 2015 03:06:52 -0300</pubDate>
+      
+      <guid>https://kleinnerfarias.github.io/publication/seke-2015-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ontology Aided Model Comparison</title>
+      <link>https://kleinnerfarias.github.io/publication/iceccs-2009/</link>
+      <pubDate>Mon, 01 Jun 2009 21:46:59 -0300</pubDate>
+      
+      <guid>https://kleinnerfarias.github.io/publication/iceccs-2009/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Flexible Strategy-Based Model Comparison Approach: Bridging the Syntactic and Semantic Gap</title>
+      <link>https://kleinnerfarias.github.io/publication/jucs-2009/</link>
+      <pubDate>Mon, 01 Jun 2009 20:47:28 -0300</pubDate>
+      
+      <guid>https://kleinnerfarias.github.io/publication/jucs-2009/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Uma Abordagem Flexível para Comparação de Modelos UML</title>
+      <link>https://kleinnerfarias.github.io/publication/sbcars-2008/</link>
+      <pubDate>Tue, 01 Jul 2008 21:47:23 -0300</pubDate>
+      
+      <guid>https://kleinnerfarias.github.io/publication/sbcars-2008/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Model Comparison: A Strategy-Based Approach</title>
+      <link>https://kleinnerfarias.github.io/publication/seke-2008/</link>
+      <pubDate>Tue, 01 Jul 2008 21:47:10 -0300</pubDate>
+      
+      <guid>https://kleinnerfarias.github.io/publication/seke-2008/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

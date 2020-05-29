@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Software Engineering on Academic</title>
+    <link>https://kleinnerfarias.github.io/tags/software-engineering/</link>
+    <description>Recent content in Software Engineering on Academic</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 05 May 2019 20:29:20 -0200</lastBuildDate>
+    
+	<atom:link href="https://kleinnerfarias.github.io/tags/software-engineering/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>On the Effects of Developers’ Intuition on Measuring Similarity Between UML Models</title>
+      <link>https://kleinnerfarias.github.io/publication/sbsi-2019-2/</link>
+      <pubDate>Sun, 05 May 2019 20:29:20 -0200</pubDate>
+      
+      <guid>https://kleinnerfarias.github.io/publication/sbsi-2019-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards a Semiautomatic Tool to Support the Integration of Feature Models</title>
+      <link>https://kleinnerfarias.github.io/publication/sbsi-2019-3/</link>
+      <pubDate>Sun, 05 May 2019 20:23:17 -0200</pubDate>
+      
+      <guid>https://kleinnerfarias.github.io/publication/sbsi-2019-3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Measuring the Cognitive Load of Software Developers: A Systematic Mapping Study</title>
+      <link>https://kleinnerfarias.github.io/publication/icpc-2019/</link>
+      <pubDate>Sun, 05 May 2019 17:37:57 -0200</pubDate>
+      
+      <guid>https://kleinnerfarias.github.io/publication/icpc-2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

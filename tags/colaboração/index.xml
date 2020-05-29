@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Colaboração on Academic</title>
+    <link>https://kleinnerfarias.github.io/tags/colaborac%CC%A7a%CC%83o/</link>
+    <description>Recent content in Colaboração on Academic</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Mon, 20 Jul 2015 07:11:55 -0200</lastBuildDate>
+    
+	<atom:link href="https://kleinnerfarias.github.io/tags/colaborac%CC%A7a%CC%83o/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Uma Ferramenta de Suporte à Modelagem Colaborativa de Software</title>
+      <link>https://kleinnerfarias.github.io/publication/tcc-raul-2015-1/</link>
+      <pubDate>Mon, 20 Jul 2015 07:11:55 -0200</pubDate>
+      
+      <guid>https://kleinnerfarias.github.io/publication/tcc-raul-2015-1/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

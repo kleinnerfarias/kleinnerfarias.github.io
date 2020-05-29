@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Supply Chain Management on Academic</title>
+    <link>https://kleinnerfarias.github.io/tags/supply-chain-management/</link>
+    <description>Recent content in Supply Chain Management on Academic</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Fri, 29 May 2020 15:34:42 -0300</lastBuildDate>
+    
+	<atom:link href="https://kleinnerfarias.github.io/tags/supply-chain-management/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Big Data Analytics in Supply Chain Management: A Systematic Mapping Study</title>
+      <link>https://kleinnerfarias.github.io/publication/sbsi-2020-4/</link>
+      <pubDate>Fri, 29 May 2020 15:34:42 -0300</pubDate>
+      
+      <guid>https://kleinnerfarias.github.io/publication/sbsi-2020-4/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

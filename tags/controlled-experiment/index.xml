@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Controlled Experiment on Academic</title>
+    <link>https://kleinnerfarias.github.io/tags/controlled-experiment/</link>
+    <description>Recent content in Controlled Experiment on Academic</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 05 May 2019 20:29:20 -0200</lastBuildDate>
+    
+	<atom:link href="https://kleinnerfarias.github.io/tags/controlled-experiment/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>On the Effects of Developers’ Intuition on Measuring Similarity Between UML Models</title>
+      <link>https://kleinnerfarias.github.io/publication/sbsi-2019-2/</link>
+      <pubDate>Sun, 05 May 2019 20:29:20 -0200</pubDate>
+      
+      <guid>https://kleinnerfarias.github.io/publication/sbsi-2019-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards a Semiautomatic Tool to Support the Integration of Feature Models</title>
+      <link>https://kleinnerfarias.github.io/publication/sbsi-2019-3/</link>
+      <pubDate>Sun, 05 May 2019 20:23:17 -0200</pubDate>
+      
+      <guid>https://kleinnerfarias.github.io/publication/sbsi-2019-3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluating the Effort of Composing Design Models: A Controlled Experiment</title>
+      <link>https://kleinnerfarias.github.io/publication/models-2012-2/</link>
+      <pubDate>Sun, 02 Sep 2012 21:11:52 -0300</pubDate>
+      
+      <guid>https://kleinnerfarias.github.io/publication/models-2012-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluating the Impact of Aspects on Inconsistency Detection Effort: A Controlled Experiment</title>
+      <link>https://kleinnerfarias.github.io/publication/models-2012-1/</link>
+      <pubDate>Sat, 01 Sep 2012 21:11:47 -0300</pubDate>
+      
+      <guid>https://kleinnerfarias.github.io/publication/models-2012-1/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

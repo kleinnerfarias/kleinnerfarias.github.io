@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>UML on Academic</title>
+    <link>https://kleinnerfarias.github.io/tags/uml/</link>
+    <description>Recent content in UML on Academic</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Fri, 05 Jul 2019 17:50:34 -0200</lastBuildDate>
+    
+	<atom:link href="https://kleinnerfarias.github.io/tags/uml/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Comparison of So ware Design Models: An Extended Systematic Mapping Study</title>
+      <link>https://kleinnerfarias.github.io/publication/acs-2019/</link>
+      <pubDate>Fri, 05 Jul 2019 17:50:34 -0200</pubDate>
+      
+      <guid>https://kleinnerfarias.github.io/publication/acs-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the Effects of Developers’ Intuition on Measuring Similarity Between UML Models</title>
+      <link>https://kleinnerfarias.github.io/publication/sbsi-2019-2/</link>
+      <pubDate>Sun, 05 May 2019 20:29:20 -0200</pubDate>
+      
+      <guid>https://kleinnerfarias.github.io/publication/sbsi-2019-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Questionnaire used to evaluate our study: UML2Merge: a UML Extension for Model Merging</title>
+      <link>https://kleinnerfarias.github.io/publication/ietsoft-2018/</link>
+      <pubDate>Wed, 07 Nov 2018 17:12:56 -0200</pubDate>
+      
+      <guid>https://kleinnerfarias.github.io/publication/ietsoft-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the UML Use in the Brazilian Industry: A State of the Practice</title>
+      <link>https://kleinnerfarias.github.io/publication/seke-2018-1/</link>
+      <pubDate>Sun, 01 Jul 2018 00:40:49 -0300</pubDate>
+      
+      <guid>https://kleinnerfarias.github.io/publication/seke-2018-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Engenharia Reversa Contínua: Automatizando Diagramas UML como Parte da Integração Contínua Através da UMLRev</title>
+      <link>https://kleinnerfarias.github.io/publication/tcc-lucas-2017-2/</link>
+      <pubDate>Sat, 23 Dec 2017 15:26:40 -0200</pubDate>
+      
+      <guid>https://kleinnerfarias.github.io/publication/tcc-lucas-2017-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Toward an Architecture for Comparing UML Design Models</title>
+      <link>https://kleinnerfarias.github.io/publication/jsw-2017/</link>
+      <pubDate>Sat, 01 Jul 2017 01:54:38 -0300</pubDate>
+      
+      <guid>https://kleinnerfarias.github.io/publication/jsw-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Detecting Inconsistencies in Multi-view UML Models</title>
+      <link>https://kleinnerfarias.github.io/publication/ijcsse-2016-2/</link>
+      <pubDate>Fri, 02 Dec 2016 02:09:09 -0300</pubDate>
+      
+      <guid>https://kleinnerfarias.github.io/publication/ijcsse-2016-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Uma Extensão da UML para Modelagem de Contexto</title>
+      <link>https://kleinnerfarias.github.io/publication/sbcup-2015/</link>
+      <pubDate>Mon, 20 Jul 2015 02:47:39 -0300</pubDate>
+      
+      <guid>https://kleinnerfarias.github.io/publication/sbcup-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comparison of Design Models: A Systematic Mapping Study</title>
+      <link>https://kleinnerfarias.github.io/publication/ijseke-2015/</link>
+      <pubDate>Mon, 20 Jul 2015 02:41:45 -0300</pubDate>
+      
+      <guid>https://kleinnerfarias.github.io/publication/ijseke-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Toward an Architecture for Model Composition Techniques</title>
+      <link>https://kleinnerfarias.github.io/publication/seke-2015-2/</link>
+      <pubDate>Thu, 02 Jul 2015 03:06:48 -0300</pubDate>
+      
+      <guid>https://kleinnerfarias.github.io/publication/seke-2015-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Model Comparison: A Systematic Mapping Study</title>
+      <link>https://kleinnerfarias.github.io/publication/seke-2015-1/</link>
+      <pubDate>Wed, 01 Jul 2015 03:06:52 -0300</pubDate>
+      
+      <guid>https://kleinnerfarias.github.io/publication/seke-2015-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Um Algoritmo para Cálculo de Distância entre Diagramas de Sequência da UML</title>
+      <link>https://kleinnerfarias.github.io/publication/tcc-joni-2014-2/</link>
+      <pubDate>Wed, 17 Dec 2014 07:28:29 -0200</pubDate>
+      
+      <guid>https://kleinnerfarias.github.io/publication/tcc-joni-2014-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ontology Aided Model Comparison</title>
+      <link>https://kleinnerfarias.github.io/publication/iceccs-2009/</link>
+      <pubDate>Mon, 01 Jun 2009 21:46:59 -0300</pubDate>
+      
+      <guid>https://kleinnerfarias.github.io/publication/iceccs-2009/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Flexible Strategy-Based Model Comparison Approach: Bridging the Syntactic and Semantic Gap</title>
+      <link>https://kleinnerfarias.github.io/publication/jucs-2009/</link>
+      <pubDate>Mon, 01 Jun 2009 20:47:28 -0300</pubDate>
+      
+      <guid>https://kleinnerfarias.github.io/publication/jucs-2009/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Derivação de Casos de Testes Funcionais: Uma Abordagem Baseada em Modelos UML</title>
+      <link>https://kleinnerfarias.github.io/publication/sbsi-2009/</link>
+      <pubDate>Fri, 01 May 2009 21:46:41 -0300</pubDate>
+      
+      <guid>https://kleinnerfarias.github.io/publication/sbsi-2009/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Uma Abordagem Flexível para Comparação de Modelos UML</title>
+      <link>https://kleinnerfarias.github.io/publication/sbcars-2008/</link>
+      <pubDate>Tue, 01 Jul 2008 21:47:23 -0300</pubDate>
+      
+      <guid>https://kleinnerfarias.github.io/publication/sbcars-2008/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Model Comparison: A Strategy-Based Approach</title>
+      <link>https://kleinnerfarias.github.io/publication/seke-2008/</link>
+      <pubDate>Tue, 01 Jul 2008 21:47:10 -0300</pubDate>
+      
+      <guid>https://kleinnerfarias.github.io/publication/seke-2008/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

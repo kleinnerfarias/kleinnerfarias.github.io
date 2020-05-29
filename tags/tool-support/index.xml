@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tool Support on Academic</title>
+    <link>https://kleinnerfarias.github.io/tags/tool-support/</link>
+    <description>Recent content in Tool Support on Academic</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Tue, 01 Jul 2008 21:47:23 -0300</lastBuildDate>
+    
+	<atom:link href="https://kleinnerfarias.github.io/tags/tool-support/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Uma Abordagem Flexível para Comparação de Modelos UML</title>
+      <link>https://kleinnerfarias.github.io/publication/sbcars-2008/</link>
+      <pubDate>Tue, 01 Jul 2008 21:47:23 -0300</pubDate>
+      
+      <guid>https://kleinnerfarias.github.io/publication/sbcars-2008/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Composição de UML Profiles</title>
+      <link>https://kleinnerfarias.github.io/publication/wtdes-2007/</link>
+      <pubDate>Sat, 01 Sep 2007 01:19:56 -0300</pubDate>
+      
+      <guid>https://kleinnerfarias.github.io/publication/wtdes-2007/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

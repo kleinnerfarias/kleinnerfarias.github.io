@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Model Similarity on Academic</title>
+    <link>https://kleinnerfarias.github.io/tags/model-similarity/</link>
+    <description>Recent content in Model Similarity on Academic</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Fri, 05 Jul 2019 17:50:34 -0200</lastBuildDate>
+    
+	<atom:link href="https://kleinnerfarias.github.io/tags/model-similarity/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Comparison of So ware Design Models: An Extended Systematic Mapping Study</title>
+      <link>https://kleinnerfarias.github.io/publication/acs-2019/</link>
+      <pubDate>Fri, 05 Jul 2019 17:50:34 -0200</pubDate>
+      
+      <guid>https://kleinnerfarias.github.io/publication/acs-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards a Hybrid Approach to Measure Similarity Between UML Models</title>
+      <link>https://kleinnerfarias.github.io/publication/sbsi-2019-1/</link>
+      <pubDate>Sun, 05 May 2019 20:32:39 -0200</pubDate>
+      
+      <guid>https://kleinnerfarias.github.io/publication/sbsi-2019-1/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

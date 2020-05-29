@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Software Metrics on Academic</title>
+    <link>https://kleinnerfarias.github.io/tags/software-metrics/</link>
+    <description>Recent content in Software Metrics on Academic</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Fri, 01 Jul 2011 01:17:47 -0300</lastBuildDate>
+    
+	<atom:link href="https://kleinnerfarias.github.io/tags/software-metrics/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Evaluating the Effects of Stability on Model Composition Effort: an Exploratory Study</title>
+      <link>https://kleinnerfarias.github.io/publication/eselaw-2011/</link>
+      <pubDate>Fri, 01 Jul 2011 01:17:47 -0300</pubDate>
+      
+      <guid>https://kleinnerfarias.github.io/publication/eselaw-2011/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

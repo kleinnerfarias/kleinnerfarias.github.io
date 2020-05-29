@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Especificação de software on Academic</title>
+    <link>https://kleinnerfarias.github.io/tags/especificac%CC%A7a%CC%83o-de-software/</link>
+    <description>Recent content in Especificação de software on Academic</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 20 Dec 2015 07:01:59 -0200</lastBuildDate>
+    
+	<atom:link href="https://kleinnerfarias.github.io/tags/especificac%CC%A7a%CC%83o-de-software/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Especificação Colaborativa de Software utilizando Exemplos: Um Estudo de Caso Aplicado à Manutenção de um Sistema ERP</title>
+      <link>https://kleinnerfarias.github.io/publication/tcc-richard-2015-2/</link>
+      <pubDate>Sun, 20 Dec 2015 07:01:59 -0200</pubDate>
+      
+      <guid>https://kleinnerfarias.github.io/publication/tcc-richard-2015-2/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

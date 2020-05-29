@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Model Merge on Academic</title>
+    <link>https://kleinnerfarias.github.io/tags/model-merge/</link>
+    <description>Recent content in Model Merge on Academic</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 07 Nov 2018 17:12:56 -0200</lastBuildDate>
+    
+	<atom:link href="https://kleinnerfarias.github.io/tags/model-merge/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Questionnaire used to evaluate our study: UML2Merge: a UML Extension for Model Merging</title>
+      <link>https://kleinnerfarias.github.io/publication/ietsoft-2018/</link>
+      <pubDate>Wed, 07 Nov 2018 17:12:56 -0200</pubDate>
+      
+      <guid>https://kleinnerfarias.github.io/publication/ietsoft-2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

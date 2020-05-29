@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Diagrama de classes on Academic</title>
+    <link>https://kleinnerfarias.github.io/tags/diagrama-de-classes/</link>
+    <description>Recent content in Diagrama de classes on Academic</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Fri, 17 Jul 2015 07:18:10 -0200</lastBuildDate>
+    
+	<atom:link href="https://kleinnerfarias.github.io/tags/diagrama-de-classes/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>REVERSEJ: Uma Ferramenta para Engenharia Reversa Baseada em Features</title>
+      <link>https://kleinnerfarias.github.io/publication/tcc-lucas-2015-1/</link>
+      <pubDate>Fri, 17 Jul 2015 07:18:10 -0200</pubDate>
+      
+      <guid>https://kleinnerfarias.github.io/publication/tcc-lucas-2015-1/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

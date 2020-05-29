@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Component Diagram on Academic</title>
+    <link>https://kleinnerfarias.github.io/tags/component-diagram/</link>
+    <description>Recent content in Component Diagram on Academic</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 06 Jun 2018 00:03:07 -0300</lastBuildDate>
+    
+	<atom:link href="https://kleinnerfarias.github.io/tags/component-diagram/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Supporting the Composition of UML Component Diagrams</title>
+      <link>https://kleinnerfarias.github.io/publication/sbsi-2018-3/</link>
+      <pubDate>Wed, 06 Jun 2018 00:03:07 -0300</pubDate>
+      
+      <guid>https://kleinnerfarias.github.io/publication/sbsi-2018-3/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

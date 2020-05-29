@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publication_types on Academic</title>
+    <link>https://kleinnerfarias.github.io/publication_types/</link>
+    <description>Recent content in Publication_types on Academic</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Fri, 29 May 2020 15:34:42 -0300</lastBuildDate>
+    
+	<atom:link href="https://kleinnerfarias.github.io/publication_types/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>1</title>
+      <link>https://kleinnerfarias.github.io/publication_types/1/</link>
+      <pubDate>Fri, 29 May 2020 15:34:42 -0300</pubDate>
+      
+      <guid>https://kleinnerfarias.github.io/publication_types/1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2</title>
+      <link>https://kleinnerfarias.github.io/publication_types/2/</link>
+      <pubDate>Fri, 29 May 2020 17:28:01 -0300</pubDate>
+      
+      <guid>https://kleinnerfarias.github.io/publication_types/2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>3</title>
+      <link>https://kleinnerfarias.github.io/publication_types/3/</link>
+      <pubDate>Mon, 23 Dec 2019 07:42:47 -0200</pubDate>
+      
+      <guid>https://kleinnerfarias.github.io/publication_types/3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>5</title>
+      <link>https://kleinnerfarias.github.io/publication_types/5/</link>
+      <pubDate>Tue, 02 Feb 2016 22:48:45 -0200</pubDate>
+      
+      <guid>https://kleinnerfarias.github.io/publication_types/5/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

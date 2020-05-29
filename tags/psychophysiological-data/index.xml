@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Psychophysiological Data on Academic</title>
+    <link>https://kleinnerfarias.github.io/tags/psychophysiological-data/</link>
+    <description>Recent content in Psychophysiological Data on Academic</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Fri, 29 May 2020 15:34:22 -0300</lastBuildDate>
+    
+	<atom:link href="https://kleinnerfarias.github.io/tags/psychophysiological-data/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Usage of Psychophysiological Data as an Improvement in the Context of So ware Engineering: A Systematic Mapping Study</title>
+      <link>https://kleinnerfarias.github.io/publication/sbsi-2020-1/</link>
+      <pubDate>Fri, 29 May 2020 15:34:22 -0300</pubDate>
+      
+      <guid>https://kleinnerfarias.github.io/publication/sbsi-2020-1/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

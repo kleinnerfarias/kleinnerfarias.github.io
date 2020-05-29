@@ -14,6 +14,69 @@
     
     <url>
     
+      <loc>https://kleinnerfarias.github.io/publication/iet-2020/</loc>
+      <lastmod>2020-05-29T17:28:01-03:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://kleinnerfarias.github.io/publication/ijca-2020/</loc>
+      <lastmod>2020-05-29T17:17:37-03:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://kleinnerfarias.github.io/publication/bit-2020/</loc>
+      <lastmod>2020-05-29T16:52:50-03:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://kleinnerfarias.github.io/publication/sbsi-2020-4/</loc>
+      <lastmod>2020-05-29T15:34:42-03:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://kleinnerfarias.github.io/publication/sbsi-2020-3/</loc>
+      <lastmod>2020-05-29T15:34:36-03:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://kleinnerfarias.github.io/publication/sbsi-2020-2/</loc>
+      <lastmod>2020-05-29T15:34:30-03:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://kleinnerfarias.github.io/publication/sbsi-2020-1/</loc>
+      <lastmod>2020-05-29T15:34:22-03:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://kleinnerfarias.github.io/publication/jss-2020/</loc>
       <lastmod>2020-01-05T16:54:24-02:00</lastmod>
     </url>
@@ -844,7 +907,7 @@
     <url>
     
       <loc>https://kleinnerfarias.github.io/publication_types/1/</loc>
-      <lastmod>2019-09-05T17:29:50-02:00</lastmod>
+      <lastmod>2020-05-29T15:34:42-03:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -854,7 +917,7 @@
     <url>
     
       <loc>https://kleinnerfarias.github.io/publication_types/2/</loc>
-      <lastmod>2020-01-05T16:54:24-02:00</lastmod>
+      <lastmod>2020-05-29T17:28:01-03:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -985,6 +1048,26 @@
     
       <loc>https://kleinnerfarias.github.io/tags/avaliac%CC%A7a%CC%83o-de-esforc%CC%A7o/</loc>
       <lastmod>2014-07-17T08:48:54-02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://kleinnerfarias.github.io/tags/biometric-data/</loc>
+      <lastmod>2020-05-29T16:52:50-03:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://kleinnerfarias.github.io/tags/blockcahin/</loc>
+      <lastmod>2020-05-29T15:34:36-03:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -1282,6 +1365,16 @@
     
     <url>
     
+      <loc>https://kleinnerfarias.github.io/tags/diseases/</loc>
+      <lastmod>2020-05-29T15:34:30-03:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://kleinnerfarias.github.io/tags/dista%CC%82ncia-entre-modelos/</loc>
       <lastmod>2014-12-17T07:28:29-02:00</lastmod>
       <priority>0</priority>
@@ -1314,6 +1407,16 @@
     
       <loc>https://kleinnerfarias.github.io/tags/educational-data-mining/</loc>
       <lastmod>2019-05-05T19:46:46-02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://kleinnerfarias.github.io/tags/effort-estimation/</loc>
+      <lastmod>2020-05-29T17:28:01-03:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -1512,6 +1615,16 @@
     
     <url>
     
+      <loc>https://kleinnerfarias.github.io/tags/financial/</loc>
+      <lastmod>2020-05-29T15:34:36-03:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://kleinnerfarias.github.io/tags/framework/</loc>
       <lastmod>2017-01-31T01:20:34-03:00</lastmod>
       <priority>0</priority>
@@ -1642,6 +1755,16 @@
     
     <url>
     
+      <loc>https://kleinnerfarias.github.io/tags/iot-approach/</loc>
+      <lastmod>2020-05-29T15:34:30-03:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://kleinnerfarias.github.io/tags/java/</loc>
       <lastmod>2014-07-17T07:37:29-02:00</lastmod>
       <priority>0</priority>
@@ -1754,6 +1877,16 @@
     
       <loc>https://kleinnerfarias.github.io/tags/measurement/</loc>
       <lastmod>2014-03-02T03:07:26-03:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://kleinnerfarias.github.io/tags/microservices/</loc>
+      <lastmod>2020-05-29T17:17:37-03:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -1962,6 +2095,16 @@
     
     <url>
     
+      <loc>https://kleinnerfarias.github.io/tags/monolithic-applications/</loc>
+      <lastmod>2020-05-29T17:17:37-03:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://kleinnerfarias.github.io/tags/multi-agent-systems/</loc>
       <lastmod>2011-09-01T21:46:12-03:00</lastmod>
       <priority>0</priority>
@@ -2092,8 +2235,18 @@
     
     <url>
     
+      <loc>https://kleinnerfarias.github.io/tags/psychophysiological-data/</loc>
+      <lastmod>2020-05-29T15:34:22-03:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://kleinnerfarias.github.io/publication_types/</loc>
-      <lastmod>2019-09-05T17:29:50-02:00</lastmod>
+      <lastmod>2020-05-29T15:34:42-03:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -2312,6 +2465,16 @@
     
     <url>
     
+      <loc>https://kleinnerfarias.github.io/tags/supply-chain-management/</loc>
+      <lastmod>2020-05-29T15:34:42-03:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://kleinnerfarias.github.io/tags/support-tool/</loc>
       <lastmod>2019-11-05T16:45:24-02:00</lastmod>
       <priority>0</priority>
@@ -2333,7 +2496,7 @@
     <url>
     
       <loc>https://kleinnerfarias.github.io/tags/systematic-mapping-study/</loc>
-      <lastmod>2019-05-05T17:37:57-02:00</lastmod>
+      <lastmod>2020-05-29T17:28:01-03:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -2474,6 +2637,16 @@
     
       <loc>https://kleinnerfarias.github.io/tags/unit-tests/</loc>
       <lastmod>2014-03-03T03:07:26-03:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://kleinnerfarias.github.io/tags/vineyard/</loc>
+      <lastmod>2020-05-29T15:34:30-03:00</lastmod>
       <priority>0</priority>
     </url>
     

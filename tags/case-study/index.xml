@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Case Study on Academic</title>
+    <link>https://kleinnerfarias.github.io/tags/case-study/</link>
+    <description>Recent content in Case Study on Academic</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 05 May 2019 20:32:39 -0200</lastBuildDate>
+    
+	<atom:link href="https://kleinnerfarias.github.io/tags/case-study/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Towards a Hybrid Approach to Measure Similarity Between UML Models</title>
+      <link>https://kleinnerfarias.github.io/publication/sbsi-2019-1/</link>
+      <pubDate>Sun, 05 May 2019 20:32:39 -0200</pubDate>
+      
+      <guid>https://kleinnerfarias.github.io/publication/sbsi-2019-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analyzing the Effort of Composing Design Models of Large-Scale Software in Industrial Case Studies</title>
+      <link>https://kleinnerfarias.github.io/publication/models-2013/</link>
+      <pubDate>Sun, 01 Sep 2013 11:34:56 -0300</pubDate>
+      
+      <guid>https://kleinnerfarias.github.io/publication/models-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analyzing the Effort on Composing Design Models in Industrial Case Studies</title>
+      <link>https://kleinnerfarias.github.io/publication/aosd-2011/</link>
+      <pubDate>Tue, 01 Mar 2011 21:29:51 -0300</pubDate>
+      
+      <guid>https://kleinnerfarias.github.io/publication/aosd-2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analyzing the Effort on Composing Design Models in Industrial Case Studies</title>
+      <link>https://kleinnerfarias.github.io/publication/aosd-2011/</link>
+      <pubDate>Tue, 01 Mar 2011 21:29:51 -0300</pubDate>
+      
+      <guid>https://kleinnerfarias.github.io/publication/aosd-2011/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

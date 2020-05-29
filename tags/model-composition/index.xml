@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Model composition on Academic</title>
+    <link>https://kleinnerfarias.github.io/tags/model-composition/</link>
+    <description>Recent content in Model composition on Academic</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sat, 01 Mar 2014 03:07:23 -0300</lastBuildDate>
+    
+	<atom:link href="https://kleinnerfarias.github.io/tags/model-composition/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Towards a Quality Model for Model Composition Effort</title>
+      <link>https://kleinnerfarias.github.io/publication/sac-2014-1/</link>
+      <pubDate>Sat, 01 Mar 2014 03:07:23 -0300</pubDate>
+      
+      <guid>https://kleinnerfarias.github.io/publication/sac-2014-1/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

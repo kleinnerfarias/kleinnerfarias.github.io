@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Financial on Academic</title>
+    <link>https://kleinnerfarias.github.io/tags/financial/</link>
+    <description>Recent content in Financial on Academic</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Fri, 29 May 2020 15:34:36 -0300</lastBuildDate>
+    
+	<atom:link href="https://kleinnerfarias.github.io/tags/financial/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Use of Blockchain in Financial Area: A Systematic Mapping Study</title>
+      <link>https://kleinnerfarias.github.io/publication/sbsi-2020-3/</link>
+      <pubDate>Fri, 29 May 2020 15:34:36 -0300</pubDate>
+      
+      <guid>https://kleinnerfarias.github.io/publication/sbsi-2020-3/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
