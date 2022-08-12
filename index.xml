@@ -11,6 +11,24 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Event-driven Architecture and REST Architectural Style: An Exploratory Study on Modularity</title>
+      <link>https://kleinnerfarias.github.io/publication/jart-2022-2/</link>
+      <pubDate>Fri, 12 Aug 2022 15:08:00 -0300</pubDate>
+      
+      <guid>https://kleinnerfarias.github.io/publication/jart-2022-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the prediction of source code design problems: A systematic mapping study</title>
+      <link>https://kleinnerfarias.github.io/publication/jart-2022-1/</link>
+      <pubDate>Fri, 12 Aug 2022 15:07:51 -0300</pubDate>
+      
+      <guid>https://kleinnerfarias.github.io/publication/jart-2022-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Avaliação dos impactos da decomposição de uma aplicação monolítica para microsserviços: Um estudo de caso</title>
       <link>https://kleinnerfarias.github.io/publication/tcc-tulio-2021-2/</link>
       <pubDate>Sun, 12 Dec 2021 12:03:04 -0300</pubDate>
@@ -124,24 +142,6 @@
       <pubDate>Thu, 05 Dec 2019 17:07:19 -0200</pubDate>
       
       <guid>https://kleinnerfarias.github.io/publication/iet-2019/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Supporting Collaborative Modelling in UML Class Diagrams</title>
-      <link>https://kleinnerfarias.github.io/publication/rbca-2019/</link>
-      <pubDate>Tue, 05 Nov 2019 16:45:24 -0200</pubDate>
-      
-      <guid>https://kleinnerfarias.github.io/publication/rbca-2019/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>CMFRAME: a Framework for Managing Dynamic and Hierarchical Context Histories</title>
-      <link>https://kleinnerfarias.github.io/publication/clei-2019/</link>
-      <pubDate>Thu, 05 Sep 2019 17:29:50 -0200</pubDate>
-      
-      <guid>https://kleinnerfarias.github.io/publication/clei-2019/</guid>
       <description></description>
     </item>
     

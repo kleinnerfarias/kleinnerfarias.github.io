@@ -14,6 +14,24 @@
     
     <url>
     
+      <loc>https://kleinnerfarias.github.io/publication/jart-2022-2/</loc>
+      <lastmod>2022-08-12T15:08:00-03:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://kleinnerfarias.github.io/publication/jart-2022-1/</loc>
+      <lastmod>2022-08-12T15:07:51-03:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://kleinnerfarias.github.io/publication/tcc-tulio-2021-2/</loc>
       <lastmod>2021-12-12T12:03:04-03:00</lastmod>
     </url>
@@ -935,7 +953,7 @@
     <url>
     
       <loc>https://kleinnerfarias.github.io/publication_types/2/</loc>
-      <lastmod>2020-05-29T17:28:01-03:00</lastmod>
+      <lastmod>2022-08-12T15:08:00-03:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -1066,6 +1084,16 @@
     
       <loc>https://kleinnerfarias.github.io/tags/avaliac%CC%A7a%CC%83o-de-esforc%CC%A7o/</loc>
       <lastmod>2014-07-17T08:48:54-02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://kleinnerfarias.github.io/tags/bad-smell/</loc>
+      <lastmod>2022-08-12T15:07:51-03:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -1343,6 +1371,16 @@
     
     <url>
     
+      <loc>https://kleinnerfarias.github.io/tags/design-problems/</loc>
+      <lastmod>2022-08-12T15:07:51-03:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://kleinnerfarias.github.io/tags/development-effort/</loc>
       <lastmod>2018-07-02T00:39:24-03:00</lastmod>
       <priority>0</priority>
@@ -1415,6 +1453,16 @@
     
       <loc>https://kleinnerfarias.github.io/tags/dynamic-programming/</loc>
       <lastmod>2014-03-01T03:07:23-03:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://kleinnerfarias.github.io/tags/eda/</loc>
+      <lastmod>2022-08-12T15:08:00-03:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -1504,7 +1552,7 @@
     <url>
     
       <loc>https://kleinnerfarias.github.io/tags/empirical-study/</loc>
-      <lastmod>2020-01-05T16:54:24-02:00</lastmod>
+      <lastmod>2022-08-12T15:08:00-03:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -1595,6 +1643,16 @@
     
       <loc>https://kleinnerfarias.github.io/tags/especificac%CC%A7a%CC%83o-por-exemplos/</loc>
       <lastmod>2015-12-20T07:01:59-02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://kleinnerfarias.github.io/tags/event-driven-architecture/</loc>
+      <lastmod>2022-08-12T15:08:00-03:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -1813,6 +1871,16 @@
     
     <url>
     
+      <loc>https://kleinnerfarias.github.io/tags/kafka/</loc>
+      <lastmod>2022-08-12T15:08:00-03:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://kleinnerfarias.github.io/tags/linha-de-produto-de-software/</loc>
       <lastmod>2014-07-17T07:37:29-02:00</lastmod>
       <priority>0</priority>
@@ -1825,6 +1893,16 @@
     
       <loc>https://kleinnerfarias.github.io/tags/linha-de-produtos-de-software/</loc>
       <lastmod>2014-07-15T08:40:18-02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://kleinnerfarias.github.io/tags/literature-review/</loc>
+      <lastmod>2022-08-12T15:07:51-03:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -2104,7 +2182,7 @@
     <url>
     
       <loc>https://kleinnerfarias.github.io/tags/modularity/</loc>
-      <lastmod>2014-03-02T03:07:26-03:00</lastmod>
+      <lastmod>2022-08-12T15:08:00-03:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -2214,7 +2292,7 @@
     <url>
     
       <loc>https://kleinnerfarias.github.io/tags/prediction/</loc>
-      <lastmod>2019-05-05T19:46:46-02:00</lastmod>
+      <lastmod>2022-08-12T15:07:51-03:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -2275,6 +2353,16 @@
     
       <loc>https://kleinnerfarias.github.io/tags/qualitative-dashboard/</loc>
       <lastmod>2020-01-05T16:54:24-02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://kleinnerfarias.github.io/tags/rest/</loc>
+      <lastmod>2022-08-12T15:08:00-03:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -2515,6 +2603,16 @@
     
       <loc>https://kleinnerfarias.github.io/tags/systematic-mapping-study/</loc>
       <lastmod>2020-05-29T17:28:01-03:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://kleinnerfarias.github.io/tags/systematic-mapping-study/</loc>
+      <lastmod>2022-08-12T15:07:51-03:00</lastmod>
       <priority>0</priority>
     </url>
     
