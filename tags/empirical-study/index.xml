@@ -1,32 +1,95 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Empirical study on Academic</title>
+    <title>Empirical Study on Academic</title>
     <link>https://kleinnerfarias.github.io/tags/empirical-study/</link>
-    <description>Recent content in Empirical study on Academic</description>
+    <description>Recent content in Empirical Study on Academic</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Fri, 12 Aug 2022 15:08:00 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 05 Dec 2019 17:07:19 -0200</lastBuildDate>
     
 	<atom:link href="https://kleinnerfarias.github.io/tags/empirical-study/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Event-driven Architecture and REST Architectural Style: An Exploratory Study on Modularity</title>
-      <link>https://kleinnerfarias.github.io/publication/jart-2022-2/</link>
-      <pubDate>Fri, 12 Aug 2022 15:08:00 -0300</pubDate>
+      <title>UML2Merge: a UML extension for model merging</title>
+      <link>https://kleinnerfarias.github.io/publication/iet-2019/</link>
+      <pubDate>Thu, 05 Dec 2019 17:07:19 -0200</pubDate>
       
-      <guid>https://kleinnerfarias.github.io/publication/jart-2022-2/</guid>
+      <guid>https://kleinnerfarias.github.io/publication/iet-2019/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Effects of Contextual Information on Maintenance Effort: A Controlled Experiment</title>
-      <link>https://kleinnerfarias.github.io/publication/jss-2020/</link>
-      <pubDate>Sun, 05 Jan 2020 16:54:24 -0200</pubDate>
+      <title>Evaluating the Effort of Integrating Feature Models: A Controlled Experiment</title>
+      <link>https://kleinnerfarias.github.io/publication/seke-2018-3/</link>
+      <pubDate>Tue, 03 Jul 2018 00:40:54 -0300</pubDate>
       
-      <guid>https://kleinnerfarias.github.io/publication/jss-2020/</guid>
+      <guid>https://kleinnerfarias.github.io/publication/seke-2018-3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the UML Use in the Brazilian Industry: A State of the Practice</title>
+      <link>https://kleinnerfarias.github.io/publication/seke-2018-1/</link>
+      <pubDate>Sun, 01 Jul 2018 00:40:49 -0300</pubDate>
+      
+      <guid>https://kleinnerfarias.github.io/publication/seke-2018-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Algorithm for Distance Calculation Between UML Sequence Diagrams</title>
+      <link>https://kleinnerfarias.github.io/publication/ieeela-2018/</link>
+      <pubDate>Mon, 21 May 2018 00:40:54 -0300</pubDate>
+      
+      <guid>https://kleinnerfarias.github.io/publication/ieeela-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BRCode: An Interpretive Model-driven Engineering Approach for Enterprise Applications</title>
+      <link>https://kleinnerfarias.github.io/publication/compind-2018/</link>
+      <pubDate>Mon, 05 Feb 2018 23:50:23 -0300</pubDate>
+      
+      <guid>https://kleinnerfarias.github.io/publication/compind-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Detecting Inconsistencies in Multi-view UML Models</title>
+      <link>https://kleinnerfarias.github.io/publication/ijcsse-2016-2/</link>
+      <pubDate>Fri, 02 Dec 2016 02:09:09 -0300</pubDate>
+      
+      <guid>https://kleinnerfarias.github.io/publication/ijcsse-2016-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluating the Effects of Stability on Model Composition Effort: an Exploratory Study</title>
+      <link>https://kleinnerfarias.github.io/publication/eselaw-2011/</link>
+      <pubDate>Fri, 01 Jul 2011 01:17:47 -0300</pubDate>
+      
+      <guid>https://kleinnerfarias.github.io/publication/eselaw-2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Empirical Evaluation of Effort on Composing Design Models</title>
+      <link>https://kleinnerfarias.github.io/publication/icse-2010/</link>
+      <pubDate>Sat, 01 May 2010 21:46:25 -0300</pubDate>
+      
+      <guid>https://kleinnerfarias.github.io/publication/icse-2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Assessing the Impact of Aspects on Model Composition Effort</title>
+      <link>https://kleinnerfarias.github.io/publication/aosd-2010/</link>
+      <pubDate>Mon, 01 Mar 2010 22:09:53 -0300</pubDate>
+      
+      <guid>https://kleinnerfarias.github.io/publication/aosd-2010/</guid>
       <description></description>
     </item>
     
