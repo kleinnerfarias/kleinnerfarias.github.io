@@ -11,6 +11,15 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>A Software Product Line for Web Applications</title>
+      <link>https://kleinnerfarias.github.io/publication/webspl-2022/</link>
+      <pubDate>Fri, 30 Sep 2022 16:54:24 -0300</pubDate>
+      
+      <guid>https://kleinnerfarias.github.io/publication/webspl-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Event-driven Architecture and REST Architectural Style: An Exploratory Study on Modularity</title>
       <link>https://kleinnerfarias.github.io/publication/jart-2022-2/</link>
       <pubDate>Fri, 12 Aug 2022 15:08:00 -0300</pubDate>
@@ -133,15 +142,6 @@
       <pubDate>Mon, 23 Dec 2019 07:42:47 -0200</pubDate>
       
       <guid>https://kleinnerfarias.github.io/publication/tcc-tcharles-2019-2/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>UML2Merge: a UML extension for model merging</title>
-      <link>https://kleinnerfarias.github.io/publication/iet-2019/</link>
-      <pubDate>Thu, 05 Dec 2019 17:07:19 -0200</pubDate>
-      
-      <guid>https://kleinnerfarias.github.io/publication/iet-2019/</guid>
       <description></description>
     </item>
     
