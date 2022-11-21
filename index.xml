@@ -11,6 +11,51 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Comparative Performance Analysis between Spring Boot and Quarkus: An Empirical Study</title>
+      <link>https://kleinnerfarias.github.io/publication/quarkus-2022/</link>
+      <pubDate>Mon, 21 Nov 2022 15:11:06 -0300</pubDate>
+      
+      <guid>https://kleinnerfarias.github.io/publication/quarkus-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the Effort to Integrate Feature Models: An Empirical Study</title>
+      <link>https://kleinnerfarias.github.io/publication/features-2022/</link>
+      <pubDate>Mon, 21 Nov 2022 15:03:40 -0300</pubDate>
+      
+      <guid>https://kleinnerfarias.github.io/publication/features-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effects of Event-driven Architecture on Modularity Software: A Research Agenda</title>
+      <link>https://kleinnerfarias.github.io/publication/eda-agenda-2022/</link>
+      <pubDate>Mon, 21 Nov 2022 15:00:26 -0300</pubDate>
+      
+      <guid>https://kleinnerfarias.github.io/publication/eda-agenda-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the impact of event-driven architecture on performance: An exploratory study</title>
+      <link>https://kleinnerfarias.github.io/publication/eda-2022/</link>
+      <pubDate>Mon, 21 Nov 2022 14:56:18 -0300</pubDate>
+      
+      <guid>https://kleinnerfarias.github.io/publication/eda-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DeclaraRS: A multi-platform approach to herd declaration by rural producers in the context of Agriculture 4.0</title>
+      <link>https://kleinnerfarias.github.io/publication/declarars-2022/</link>
+      <pubDate>Mon, 21 Nov 2022 14:51:14 -0300</pubDate>
+      
+      <guid>https://kleinnerfarias.github.io/publication/declarars-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>A Software Product Line for Web Applications</title>
       <link>https://kleinnerfarias.github.io/publication/webspl-2022/</link>
       <pubDate>Fri, 30 Sep 2022 16:54:24 -0300</pubDate>
@@ -97,51 +142,6 @@
       <pubDate>Fri, 29 May 2020 15:34:36 -0300</pubDate>
       
       <guid>https://kleinnerfarias.github.io/publication/sbsi-2020-3/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>VitForecast: an IoT approach to predict diseases in vineyard</title>
-      <link>https://kleinnerfarias.github.io/publication/sbsi-2020-2/</link>
-      <pubDate>Fri, 29 May 2020 15:34:30 -0300</pubDate>
-      
-      <guid>https://kleinnerfarias.github.io/publication/sbsi-2020-2/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Usage of Psychophysiological Data as an Improvement in the Context of So ware Engineering: A Systematic Mapping Study</title>
-      <link>https://kleinnerfarias.github.io/publication/sbsi-2020-1/</link>
-      <pubDate>Fri, 29 May 2020 15:34:22 -0300</pubDate>
-      
-      <guid>https://kleinnerfarias.github.io/publication/sbsi-2020-1/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Effects of Contextual Information on Maintenance Effort: A Controlled Experiment</title>
-      <link>https://kleinnerfarias.github.io/publication/jss-2020/</link>
-      <pubDate>Sun, 05 Jan 2020 16:54:24 -0200</pubDate>
-      
-      <guid>https://kleinnerfarias.github.io/publication/jss-2020/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Model Merging</title>
-      <link>https://kleinnerfarias.github.io/project/model-merging/</link>
-      <pubDate>Mon, 23 Dec 2019 14:42:33 -0200</pubDate>
-      
-      <guid>https://kleinnerfarias.github.io/project/model-merging/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>MIND OVERFLOW: Uma proposta de processo para decomposição de aplicações monolíticas em microsserviços</title>
-      <link>https://kleinnerfarias.github.io/publication/tcc-tcharles-2019-2/</link>
-      <pubDate>Mon, 23 Dec 2019 07:42:47 -0200</pubDate>
-      
-      <guid>https://kleinnerfarias.github.io/publication/tcc-tcharles-2019-2/</guid>
       <description></description>
     </item>
     

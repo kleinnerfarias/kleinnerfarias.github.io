@@ -22,6 +22,15 @@
     </item>
     
     <item>
+      <title>Agriculture 4.0</title>
+      <link>https://kleinnerfarias.github.io/tags/agriculture-4.0/</link>
+      <pubDate>Mon, 21 Nov 2022 14:51:14 -0300</pubDate>
+      
+      <guid>https://kleinnerfarias.github.io/tags/agriculture-4.0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Algoritmo Levenshtein</title>
       <link>https://kleinnerfarias.github.io/tags/algoritmo-levenshtein/</link>
       <pubDate>Wed, 17 Dec 2014 07:28:29 -0200</pubDate>
@@ -153,6 +162,15 @@
       <pubDate>Sun, 05 May 2019 20:32:39 -0200</pubDate>
       
       <guid>https://kleinnerfarias.github.io/tags/case-study/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Challenges</title>
+      <link>https://kleinnerfarias.github.io/tags/challenges/</link>
+      <pubDate>Mon, 21 Nov 2022 15:00:26 -0300</pubDate>
+      
+      <guid>https://kleinnerfarias.github.io/tags/challenges/</guid>
       <description></description>
     </item>
     
@@ -303,7 +321,7 @@
     <item>
       <title>Controlled Experiment</title>
       <link>https://kleinnerfarias.github.io/tags/controlled-experiment/</link>
-      <pubDate>Sun, 05 May 2019 20:29:20 -0200</pubDate>
+      <pubDate>Mon, 21 Nov 2022 15:03:40 -0300</pubDate>
       
       <guid>https://kleinnerfarias.github.io/tags/controlled-experiment/</guid>
       <description></description>
@@ -418,6 +436,15 @@
     </item>
     
     <item>
+      <title>Distributed Applications</title>
+      <link>https://kleinnerfarias.github.io/tags/distributed-applications/</link>
+      <pubDate>Mon, 21 Nov 2022 14:56:18 -0300</pubDate>
+      
+      <guid>https://kleinnerfarias.github.io/tags/distributed-applications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Distributed Systems</title>
       <link>https://kleinnerfarias.github.io/tags/distributed-systems/</link>
       <pubDate>Wed, 01 Apr 2015 03:07:14 -0300</pubDate>
@@ -490,9 +517,18 @@
     </item>
     
     <item>
+      <title>Empirical Studies</title>
+      <link>https://kleinnerfarias.github.io/tags/empirical-studies/</link>
+      <pubDate>Mon, 21 Nov 2022 15:03:40 -0300</pubDate>
+      
+      <guid>https://kleinnerfarias.github.io/tags/empirical-studies/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Empirical Study</title>
       <link>https://kleinnerfarias.github.io/tags/empirical-study/</link>
-      <pubDate>Thu, 05 Dec 2019 17:07:19 -0200</pubDate>
+      <pubDate>Mon, 21 Nov 2022 14:56:18 -0300</pubDate>
       
       <guid>https://kleinnerfarias.github.io/tags/empirical-study/</guid>
       <description></description>
@@ -625,6 +661,15 @@
     </item>
     
     <item>
+      <title>Event-driven Architecture</title>
+      <link>https://kleinnerfarias.github.io/tags/event-driven-architecture/</link>
+      <pubDate>Mon, 21 Nov 2022 15:00:26 -0300</pubDate>
+      
+      <guid>https://kleinnerfarias.github.io/tags/event-driven-architecture/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Event-driven architecture</title>
       <link>https://kleinnerfarias.github.io/tags/event-driven-architecture/</link>
       <pubDate>Fri, 12 Aug 2022 15:08:00 -0300</pubDate>
@@ -654,7 +699,7 @@
     <item>
       <title>Feature Models</title>
       <link>https://kleinnerfarias.github.io/tags/feature-models/</link>
-      <pubDate>Fri, 30 Sep 2022 16:54:24 -0300</pubDate>
+      <pubDate>Mon, 21 Nov 2022 15:03:40 -0300</pubDate>
       
       <guid>https://kleinnerfarias.github.io/tags/feature-models/</guid>
       <description></description>
@@ -675,6 +720,15 @@
       <pubDate>Tue, 31 Jan 2017 01:20:34 -0300</pubDate>
       
       <guid>https://kleinnerfarias.github.io/tags/framework/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Future Works</title>
+      <link>https://kleinnerfarias.github.io/tags/future-works/</link>
+      <pubDate>Mon, 21 Nov 2022 15:00:26 -0300</pubDate>
+      
+      <guid>https://kleinnerfarias.github.io/tags/future-works/</guid>
       <description></description>
     </item>
     
@@ -769,6 +823,15 @@
     </item>
     
     <item>
+      <title>Integration Effort</title>
+      <link>https://kleinnerfarias.github.io/tags/integration-effort/</link>
+      <pubDate>Mon, 21 Nov 2022 15:03:40 -0300</pubDate>
+      
+      <guid>https://kleinnerfarias.github.io/tags/integration-effort/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Integration Tests</title>
       <link>https://kleinnerfarias.github.io/tags/integration-tests/</link>
       <pubDate>Mon, 03 Mar 2014 03:07:26 -0300</pubDate>
@@ -828,6 +891,15 @@
       <pubDate>Fri, 12 Aug 2022 15:08:00 -0300</pubDate>
       
       <guid>https://kleinnerfarias.github.io/tags/kafka/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Layer-based Architecture</title>
+      <link>https://kleinnerfarias.github.io/tags/layer-based-architecture/</link>
+      <pubDate>Mon, 21 Nov 2022 14:51:14 -0300</pubDate>
+      
+      <guid>https://kleinnerfarias.github.io/tags/layer-based-architecture/</guid>
       <description></description>
     </item>
     
@@ -940,6 +1012,15 @@
     </item>
     
     <item>
+      <title>Mobile Application</title>
+      <link>https://kleinnerfarias.github.io/tags/mobile-application/</link>
+      <pubDate>Mon, 21 Nov 2022 14:51:14 -0300</pubDate>
+      
+      <guid>https://kleinnerfarias.github.io/tags/mobile-application/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Model Comparison</title>
       <link>https://kleinnerfarias.github.io/tags/model-comparison/</link>
       <pubDate>Fri, 05 Jul 2019 17:50:34 -0200</pubDate>
@@ -978,7 +1059,7 @@
     <item>
       <title>Model Integration</title>
       <link>https://kleinnerfarias.github.io/tags/model-integration/</link>
-      <pubDate>Sat, 05 Jan 2019 16:35:03 -0200</pubDate>
+      <pubDate>Mon, 21 Nov 2022 15:03:40 -0300</pubDate>
       
       <guid>https://kleinnerfarias.github.io/tags/model-integration/</guid>
       <description></description>
@@ -1111,6 +1192,15 @@
     </item>
     
     <item>
+      <title>Monolithic Application</title>
+      <link>https://kleinnerfarias.github.io/tags/monolithic-application/</link>
+      <pubDate>Mon, 21 Nov 2022 14:56:18 -0300</pubDate>
+      
+      <guid>https://kleinnerfarias.github.io/tags/monolithic-application/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Monolithic Applications</title>
       <link>https://kleinnerfarias.github.io/tags/monolithic-applications/</link>
       <pubDate>Fri, 29 May 2020 17:17:37 -0300</pubDate>
@@ -1134,6 +1224,15 @@
       <pubDate>Fri, 12 Jun 2015 03:06:12 -0300</pubDate>
       
       <guid>https://kleinnerfarias.github.io/tags/multi-agent-system/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Native</title>
+      <link>https://kleinnerfarias.github.io/tags/native/</link>
+      <pubDate>Mon, 21 Nov 2022 15:11:06 -0300</pubDate>
+      
+      <guid>https://kleinnerfarias.github.io/tags/native/</guid>
       <description></description>
     </item>
     
@@ -1194,7 +1293,7 @@
     <item>
       <title>Performance</title>
       <link>https://kleinnerfarias.github.io/tags/performance/</link>
-      <pubDate>Wed, 01 Apr 2015 03:07:14 -0300</pubDate>
+      <pubDate>Mon, 21 Nov 2022 15:11:06 -0300</pubDate>
       
       <guid>https://kleinnerfarias.github.io/tags/performance/</guid>
       <description></description>
@@ -1246,11 +1345,38 @@
     </item>
     
     <item>
+      <title>Quarkus</title>
+      <link>https://kleinnerfarias.github.io/tags/quarkus/</link>
+      <pubDate>Mon, 21 Nov 2022 15:11:06 -0300</pubDate>
+      
+      <guid>https://kleinnerfarias.github.io/tags/quarkus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>REST</title>
       <link>https://kleinnerfarias.github.io/tags/rest/</link>
       <pubDate>Fri, 12 Aug 2022 15:08:00 -0300</pubDate>
       
       <guid>https://kleinnerfarias.github.io/tags/rest/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RabbitMQ</title>
+      <link>https://kleinnerfarias.github.io/tags/rabbitmq/</link>
+      <pubDate>Mon, 21 Nov 2022 15:11:06 -0300</pubDate>
+      
+      <guid>https://kleinnerfarias.github.io/tags/rabbitmq/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Research Agenda</title>
+      <link>https://kleinnerfarias.github.io/tags/research-agenda/</link>
+      <pubDate>Mon, 21 Nov 2022 15:00:26 -0300</pubDate>
+      
+      <guid>https://kleinnerfarias.github.io/tags/research-agenda/</guid>
       <description></description>
     </item>
     
@@ -1392,9 +1518,18 @@
     <item>
       <title>Software Modeling</title>
       <link>https://kleinnerfarias.github.io/tags/software-modeling/</link>
-      <pubDate>Wed, 07 Nov 2018 17:12:56 -0200</pubDate>
+      <pubDate>Mon, 21 Nov 2022 15:03:40 -0300</pubDate>
       
       <guid>https://kleinnerfarias.github.io/tags/software-modeling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Software Modularity</title>
+      <link>https://kleinnerfarias.github.io/tags/software-modularity/</link>
+      <pubDate>Mon, 21 Nov 2022 14:56:18 -0300</pubDate>
+      
+      <guid>https://kleinnerfarias.github.io/tags/software-modularity/</guid>
       <description></description>
     </item>
     
@@ -1431,6 +1566,15 @@
       <pubDate>Thu, 02 Sep 2010 01:18:51 -0300</pubDate>
       
       <guid>https://kleinnerfarias.github.io/tags/software-tool/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spring Boot</title>
+      <link>https://kleinnerfarias.github.io/tags/spring-boot/</link>
+      <pubDate>Mon, 21 Nov 2022 15:11:06 -0300</pubDate>
+      
+      <guid>https://kleinnerfarias.github.io/tags/spring-boot/</guid>
       <description></description>
     </item>
     

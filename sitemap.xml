@@ -14,6 +14,51 @@
     
     <url>
     
+      <loc>https://kleinnerfarias.github.io/publication/quarkus-2022/</loc>
+      <lastmod>2022-11-21T15:11:06-03:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://kleinnerfarias.github.io/publication/features-2022/</loc>
+      <lastmod>2022-11-21T15:03:40-03:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://kleinnerfarias.github.io/publication/eda-agenda-2022/</loc>
+      <lastmod>2022-11-21T15:00:26-03:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://kleinnerfarias.github.io/publication/eda-2022/</loc>
+      <lastmod>2022-11-21T14:56:18-03:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://kleinnerfarias.github.io/publication/declarars-2022/</loc>
+      <lastmod>2022-11-21T14:51:14-03:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://kleinnerfarias.github.io/publication/webspl-2022/</loc>
       <lastmod>2022-09-30T16:54:24-03:00</lastmod>
     </url>
@@ -981,7 +1026,7 @@
     <url>
     
       <loc>https://kleinnerfarias.github.io/publication_types/3/</loc>
-      <lastmod>2022-09-30T16:54:24-03:00</lastmod>
+      <lastmod>2022-11-21T15:11:06-03:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -1002,6 +1047,16 @@
     
       <loc>https://kleinnerfarias.github.io/</loc>
       <lastmod>2020-01-03T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://kleinnerfarias.github.io/tags/agriculture-4.0/</loc>
+      <lastmod>2022-11-21T14:51:14-03:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -1161,6 +1216,16 @@
     <url>
     
       <loc>https://kleinnerfarias.github.io/categories/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://kleinnerfarias.github.io/tags/challenges/</loc>
+      <lastmod>2022-11-21T15:00:26-03:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -1330,7 +1395,7 @@
     <url>
     
       <loc>https://kleinnerfarias.github.io/tags/controlled-experiment/</loc>
-      <lastmod>2019-05-05T20:29:20-02:00</lastmod>
+      <lastmod>2022-11-21T15:03:40-03:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -1459,6 +1524,16 @@
     
     <url>
     
+      <loc>https://kleinnerfarias.github.io/tags/distributed-applications/</loc>
+      <lastmod>2022-11-21T14:56:18-03:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://kleinnerfarias.github.io/tags/distributed-systems/</loc>
       <lastmod>2015-04-01T03:07:14-03:00</lastmod>
       <priority>0</priority>
@@ -1539,8 +1614,18 @@
     
     <url>
     
+      <loc>https://kleinnerfarias.github.io/tags/empirical-studies/</loc>
+      <lastmod>2022-11-21T15:03:40-03:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://kleinnerfarias.github.io/tags/empirical-study/</loc>
-      <lastmod>2019-12-05T17:07:19-02:00</lastmod>
+      <lastmod>2022-11-21T14:56:18-03:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -1690,6 +1775,16 @@
     <url>
     
       <loc>https://kleinnerfarias.github.io/tags/event-driven-architecture/</loc>
+      <lastmod>2022-11-21T15:00:26-03:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://kleinnerfarias.github.io/tags/event-driven-architecture/</loc>
       <lastmod>2022-08-12T15:08:00-03:00</lastmod>
       <priority>0</priority>
     </url>
@@ -1720,7 +1815,7 @@
     <url>
     
       <loc>https://kleinnerfarias.github.io/tags/feature-models/</loc>
-      <lastmod>2022-09-30T16:54:24-03:00</lastmod>
+      <lastmod>2022-11-21T15:03:40-03:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -1741,6 +1836,16 @@
     
       <loc>https://kleinnerfarias.github.io/tags/framework/</loc>
       <lastmod>2017-01-31T01:20:34-03:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://kleinnerfarias.github.io/tags/future-works/</loc>
+      <lastmod>2022-11-21T15:00:26-03:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -1849,6 +1954,16 @@
     
     <url>
     
+      <loc>https://kleinnerfarias.github.io/tags/integration-effort/</loc>
+      <lastmod>2022-11-21T15:03:40-03:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://kleinnerfarias.github.io/tags/integration-tests/</loc>
       <lastmod>2014-03-03T03:07:26-03:00</lastmod>
       <priority>0</priority>
@@ -1911,6 +2026,16 @@
     
       <loc>https://kleinnerfarias.github.io/tags/kafka/</loc>
       <lastmod>2022-08-12T15:08:00-03:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://kleinnerfarias.github.io/tags/layer-based-architecture/</loc>
+      <lastmod>2022-11-21T14:51:14-03:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -2039,6 +2164,16 @@
     
     <url>
     
+      <loc>https://kleinnerfarias.github.io/tags/mobile-application/</loc>
+      <lastmod>2022-11-21T14:51:14-03:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://kleinnerfarias.github.io/tags/model-comparison/</loc>
       <lastmod>2019-07-05T17:50:34-02:00</lastmod>
       <priority>0</priority>
@@ -2080,7 +2215,7 @@
     <url>
     
       <loc>https://kleinnerfarias.github.io/tags/model-integration/</loc>
-      <lastmod>2019-01-05T16:35:03-02:00</lastmod>
+      <lastmod>2022-11-21T15:03:40-03:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -2229,6 +2364,16 @@
     
     <url>
     
+      <loc>https://kleinnerfarias.github.io/tags/monolithic-application/</loc>
+      <lastmod>2022-11-21T14:56:18-03:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://kleinnerfarias.github.io/tags/monolithic-applications/</loc>
       <lastmod>2020-05-29T17:17:37-03:00</lastmod>
       <priority>0</priority>
@@ -2251,6 +2396,16 @@
     
       <loc>https://kleinnerfarias.github.io/tags/multi-agent-system/</loc>
       <lastmod>2015-06-12T03:06:12-03:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://kleinnerfarias.github.io/tags/native/</loc>
+      <lastmod>2022-11-21T15:11:06-03:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -2320,7 +2475,7 @@
     <url>
     
       <loc>https://kleinnerfarias.github.io/tags/performance/</loc>
-      <lastmod>2015-04-01T03:07:14-03:00</lastmod>
+      <lastmod>2022-11-21T15:11:06-03:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -2399,8 +2554,38 @@
     
     <url>
     
+      <loc>https://kleinnerfarias.github.io/tags/quarkus/</loc>
+      <lastmod>2022-11-21T15:11:06-03:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://kleinnerfarias.github.io/tags/rest/</loc>
       <lastmod>2022-08-12T15:08:00-03:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://kleinnerfarias.github.io/tags/rabbitmq/</loc>
+      <lastmod>2022-11-21T15:11:06-03:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://kleinnerfarias.github.io/tags/research-agenda/</loc>
+      <lastmod>2022-11-21T15:00:26-03:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -2560,7 +2745,17 @@
     <url>
     
       <loc>https://kleinnerfarias.github.io/tags/software-modeling/</loc>
-      <lastmod>2018-11-07T17:12:56-02:00</lastmod>
+      <lastmod>2022-11-21T15:03:40-03:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://kleinnerfarias.github.io/tags/software-modularity/</loc>
+      <lastmod>2022-11-21T14:56:18-03:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -2601,6 +2796,16 @@
     
       <loc>https://kleinnerfarias.github.io/tags/software-tool/</loc>
       <lastmod>2010-09-02T01:18:51-03:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://kleinnerfarias.github.io/tags/spring-boot/</loc>
+      <lastmod>2022-11-21T15:11:06-03:00</lastmod>
       <priority>0</priority>
     </url>
     

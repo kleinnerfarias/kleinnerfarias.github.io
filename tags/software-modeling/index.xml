@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Wed, 07 Nov 2018 17:12:56 -0200</lastBuildDate>
+    <lastBuildDate>Mon, 21 Nov 2022 15:03:40 -0300</lastBuildDate>
     
 	<atom:link href="https://kleinnerfarias.github.io/tags/software-modeling/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>On the Effort to Integrate Feature Models: An Empirical Study</title>
+      <link>https://kleinnerfarias.github.io/publication/features-2022/</link>
+      <pubDate>Mon, 21 Nov 2022 15:03:40 -0300</pubDate>
+      
+      <guid>https://kleinnerfarias.github.io/publication/features-2022/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Questionnaire used to evaluate our study: UML2Merge: a UML Extension for Model Merging</title>

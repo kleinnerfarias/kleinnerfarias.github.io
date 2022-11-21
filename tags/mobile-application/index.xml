@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mobile Application on Academic</title>
+    <link>https://kleinnerfarias.github.io/tags/mobile-application/</link>
+    <description>Recent content in Mobile Application on Academic</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Mon, 21 Nov 2022 14:51:14 -0300</lastBuildDate>
+    
+	<atom:link href="https://kleinnerfarias.github.io/tags/mobile-application/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>DeclaraRS: A multi-platform approach to herd declaration by rural producers in the context of Agriculture 4.0</title>
+      <link>https://kleinnerfarias.github.io/publication/declarars-2022/</link>
+      <pubDate>Mon, 21 Nov 2022 14:51:14 -0300</pubDate>
+      
+      <guid>https://kleinnerfarias.github.io/publication/declarars-2022/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
