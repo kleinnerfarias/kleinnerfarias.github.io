@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Software Context on Academic</title>
+    <link>https://kleinnerfarias.github.io/tags/software-context/</link>
+    <description>Recent content in Software Context on Academic</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Mon, 15 Jun 2015 23:15:16 -0300</lastBuildDate>
+    
+	<atom:link href="https://kleinnerfarias.github.io/tags/software-context/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>UML2Context: Uma Extensão da UML para Modelagem de Contexto</title>
+      <link>https://kleinnerfarias.github.io/publication/dissertation-vivian-2015-2/</link>
+      <pubDate>Mon, 15 Jun 2015 23:15:16 -0300</pubDate>
+      
+      <guid>https://kleinnerfarias.github.io/publication/dissertation-vivian-2015-2/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

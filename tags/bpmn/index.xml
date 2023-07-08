@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>BPMN on Academic</title>
+    <link>https://kleinnerfarias.github.io/tags/bpmn/</link>
+    <description>Recent content in BPMN on Academic</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Thu, 28 Jul 2016 23:31:30 -0300</lastBuildDate>
+    
+	<atom:link href="https://kleinnerfarias.github.io/tags/bpmn/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>COMMON: Uma Ferramenta para Composição Semiautomática de Modelos de Processos de Negócio</title>
+      <link>https://kleinnerfarias.github.io/publication/dissertation-mauricio-2016-1/</link>
+      <pubDate>Thu, 28 Jul 2016 23:31:30 -0300</pubDate>
+      
+      <guid>https://kleinnerfarias.github.io/publication/dissertation-mauricio-2016-1/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
