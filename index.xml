@@ -7,8 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Fri, 03 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 Dec 2023 00:00:00 +0000</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Model 2</title>
+      <link>https://kleinnerfarias.github.io/project/model-2/</link>
+      <pubDate>Thu, 21 Dec 2023 19:11:52 -0300</pubDate>
+      
+      <guid>https://kleinnerfarias.github.io/project/model-2/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Accorsi Airlines: Um modelo arquitetural dirigido a eventos e ciente de contexto para compra de passagens aéreas</title>
@@ -20,7 +29,7 @@
     </item>
     
     <item>
-      <title>Uma Análise do Entendimento de Conceitos sobre Micro-Frontend na Indústria: Um Estudo Exploratório </title>
+      <title>Uma Análise do Entendimento de Conceitos sobre Micro-Frontend na Indústria: Um Estudo Exploratório</title>
       <link>https://kleinnerfarias.github.io/publication/tcc-felipe-2023-2/</link>
       <pubDate>Tue, 19 Dec 2023 22:40:58 -0300</pubDate>
       
@@ -74,11 +83,20 @@
     </item>
     
     <item>
-      <title>Análise do Impacto de Sistemas de Controle de Versão Centralizados e Distribuídos no Esforço de Integração de Código-Fonte: Um Estudo Empírico </title>
+      <title>Análise do Impacto de Sistemas de Controle de Versão Centralizados e Distribuídos no Esforço de Integração de Código-Fonte: Um Estudo Empírico</title>
       <link>https://kleinnerfarias.github.io/publication/tcc-vinicius-2023-2/</link>
       <pubDate>Sun, 10 Dec 2023 22:02:29 -0300</pubDate>
       
       <guid>https://kleinnerfarias.github.io/publication/tcc-vinicius-2023-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>API SLICER: Uma Abordagem Baseada em Features para Decomposição de APIs monolíticas em Microsserviços</title>
+      <link>https://kleinnerfarias.github.io/publication/tcc-carlos-2022-2/</link>
+      <pubDate>Wed, 21 Dec 2022 18:26:55 -0300</pubDate>
+      
+      <guid>https://kleinnerfarias.github.io/publication/tcc-carlos-2022-2/</guid>
       <description></description>
     </item>
     
@@ -124,24 +142,6 @@
       <pubDate>Mon, 21 Nov 2022 14:51:14 -0300</pubDate>
       
       <guid>https://kleinnerfarias.github.io/publication/declarars-2022/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A Software Product Line for Web Applications</title>
-      <link>https://kleinnerfarias.github.io/publication/webspl-2022/</link>
-      <pubDate>Fri, 30 Sep 2022 16:54:24 -0300</pubDate>
-      
-      <guid>https://kleinnerfarias.github.io/publication/webspl-2022/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Event-driven Architecture and REST Architectural Style: An Exploratory Study on Modularity</title>
-      <link>https://kleinnerfarias.github.io/publication/jart-2022-2/</link>
-      <pubDate>Fri, 12 Aug 2022 15:08:00 -0300</pubDate>
-      
-      <guid>https://kleinnerfarias.github.io/publication/jart-2022-2/</guid>
       <description></description>
     </item>
     

@@ -22,7 +22,7 @@
     </item>
     
     <item>
-      <title>Uma Análise do Entendimento de Conceitos sobre Micro-Frontend na Indústria: Um Estudo Exploratório </title>
+      <title>Uma Análise do Entendimento de Conceitos sobre Micro-Frontend na Indústria: Um Estudo Exploratório</title>
       <link>https://kleinnerfarias.github.io/publication/tcc-felipe-2023-2/</link>
       <pubDate>Tue, 19 Dec 2023 22:40:58 -0300</pubDate>
       
@@ -76,11 +76,20 @@
     </item>
     
     <item>
-      <title>Análise do Impacto de Sistemas de Controle de Versão Centralizados e Distribuídos no Esforço de Integração de Código-Fonte: Um Estudo Empírico </title>
+      <title>Análise do Impacto de Sistemas de Controle de Versão Centralizados e Distribuídos no Esforço de Integração de Código-Fonte: Um Estudo Empírico</title>
       <link>https://kleinnerfarias.github.io/publication/tcc-vinicius-2023-2/</link>
       <pubDate>Sun, 10 Dec 2023 22:02:29 -0300</pubDate>
       
       <guid>https://kleinnerfarias.github.io/publication/tcc-vinicius-2023-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>API SLICER: Uma Abordagem Baseada em Features para Decomposição de APIs monolíticas em Microsserviços</title>
+      <link>https://kleinnerfarias.github.io/publication/tcc-carlos-2022-2/</link>
+      <pubDate>Wed, 21 Dec 2022 18:26:55 -0300</pubDate>
+      
+      <guid>https://kleinnerfarias.github.io/publication/tcc-carlos-2022-2/</guid>
       <description></description>
     </item>
     
@@ -139,11 +148,20 @@
     </item>
     
     <item>
-      <title>MODELGURU: Uma Abordagem Baseada em Métricas para Avaliação de Diagrama de Classes da UML</title>
+      <title>ModelGuru: Uma Abordagem Baseada em Métricas para Avaliação de Diagrama de Classes da UML</title>
       <link>https://kleinnerfarias.github.io/publication/tcc-cristiano-2022-1/</link>
       <pubDate>Thu, 30 Jun 2022 21:48:50 -0300</pubDate>
       
       <guid>https://kleinnerfarias.github.io/publication/tcc-cristiano-2022-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Análise comparativa de performance entre Spring Boot e Quarkus: Um estudo de caso</title>
+      <link>https://kleinnerfarias.github.io/publication/tcc-gabriel-2022-1/</link>
+      <pubDate>Tue, 21 Jun 2022 18:09:27 -0300</pubDate>
+      
+      <guid>https://kleinnerfarias.github.io/publication/tcc-gabriel-2022-1/</guid>
       <description></description>
     </item>
     
@@ -162,6 +180,15 @@
       <pubDate>Thu, 12 Aug 2021 12:02:55 -0300</pubDate>
       
       <guid>https://kleinnerfarias.github.io/publication/tcc-luan-2021-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Impacto da Arquitetura Dirigida a Eventos na Performance: Um Estudo Exploratório</title>
+      <link>https://kleinnerfarias.github.io/publication/tcc-hebert-2021-2/</link>
+      <pubDate>Sun, 21 Mar 2021 17:59:13 -0300</pubDate>
+      
+      <guid>https://kleinnerfarias.github.io/publication/tcc-hebert-2021-2/</guid>
       <description></description>
     </item>
     
