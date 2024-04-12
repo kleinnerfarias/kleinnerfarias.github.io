@@ -11,6 +11,15 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>On the impact of event-driven architecture on performance: An exploratory study</title>
+      <link>https://kleinnerfarias.github.io/publication/fgcs-2024/</link>
+      <pubDate>Fri, 12 Apr 2024 19:06:38 -0300</pubDate>
+      
+      <guid>https://kleinnerfarias.github.io/publication/fgcs-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Model 2</title>
       <link>https://kleinnerfarias.github.io/project/model-2/</link>
       <pubDate>Thu, 21 Dec 2023 19:11:52 -0300</pubDate>
@@ -133,15 +142,6 @@
       <pubDate>Mon, 21 Nov 2022 14:56:18 -0300</pubDate>
       
       <guid>https://kleinnerfarias.github.io/publication/eda-2022/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>DeclaraRS: A multi-platform approach to herd declaration by rural producers in the context of Agriculture 4.0</title>
-      <link>https://kleinnerfarias.github.io/publication/declarars-2022/</link>
-      <pubDate>Mon, 21 Nov 2022 14:51:14 -0300</pubDate>
-      
-      <guid>https://kleinnerfarias.github.io/publication/declarars-2022/</guid>
       <description></description>
     </item>
     
