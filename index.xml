@@ -11,6 +11,15 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>An Empirical Study on the Correctness and Effort to Integrate Feature Models</title>
+      <link>https://kleinnerfarias.github.io/publication/jucs-2024/</link>
+      <pubDate>Sat, 13 Apr 2024 15:13:29 -0300</pubDate>
+      
+      <guid>https://kleinnerfarias.github.io/publication/jucs-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>On the impact of event-driven architecture on performance: An exploratory study</title>
       <link>https://kleinnerfarias.github.io/publication/fgcs-2024/</link>
       <pubDate>Fri, 12 Apr 2024 19:06:38 -0300</pubDate>
@@ -133,15 +142,6 @@
       <pubDate>Mon, 21 Nov 2022 15:00:26 -0300</pubDate>
       
       <guid>https://kleinnerfarias.github.io/publication/eda-agenda-2022/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>On the impact of event-driven architecture on performance: An exploratory study</title>
-      <link>https://kleinnerfarias.github.io/publication/eda-2022/</link>
-      <pubDate>Mon, 21 Nov 2022 14:56:18 -0300</pubDate>
-      
-      <guid>https://kleinnerfarias.github.io/publication/eda-2022/</guid>
       <description></description>
     </item>
     
