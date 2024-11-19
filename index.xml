@@ -11,6 +11,15 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Arquitetura de Software</title>
+      <link>https://kleinnerfarias.github.io/publication/book-arqsoft-2016/</link>
+      <pubDate>Tue, 19 Nov 2024 01:52:44 -0300</pubDate>
+      
+      <guid>https://kleinnerfarias.github.io/publication/book-arqsoft-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Uma Teoria Empiricamente Fundamentada sobre os Efeitos do Método Low-code no Desenvolvimento de Software</title>
       <link>https://kleinnerfarias.github.io/publication/tcc-lucas-2024-1/</link>
       <pubDate>Fri, 19 Jul 2024 00:29:28 -0300</pubDate>
@@ -133,15 +142,6 @@
       <pubDate>Wed, 21 Dec 2022 18:26:55 -0300</pubDate>
       
       <guid>https://kleinnerfarias.github.io/publication/tcc-carlos-2022-2/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Comparative Performance Analysis between Spring Boot and Quarkus: An Empirical Study</title>
-      <link>https://kleinnerfarias.github.io/publication/quarkus-2022/</link>
-      <pubDate>Mon, 21 Nov 2022 15:11:06 -0300</pubDate>
-      
-      <guid>https://kleinnerfarias.github.io/publication/quarkus-2022/</guid>
       <description></description>
     </item>
     
