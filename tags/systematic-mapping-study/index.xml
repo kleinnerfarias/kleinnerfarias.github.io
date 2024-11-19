@@ -1,23 +1,86 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Systematic mapping study on Kleinner Farias</title>
+    <title>Systematic Mapping Study on Kleinner Farias</title>
     <link>https://kleinnerfarias.github.io/tags/systematic-mapping-study/</link>
-    <description>Recent content in Systematic mapping study on Kleinner Farias</description>
+    <description>Recent content in Systematic Mapping Study on Kleinner Farias</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Fri, 12 Aug 2022 15:07:51 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 29 May 2020 17:28:01 -0300</lastBuildDate>
     
 	<atom:link href="https://kleinnerfarias.github.io/tags/systematic-mapping-study/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>On the prediction of source code design problems: A systematic mapping study</title>
-      <link>https://kleinnerfarias.github.io/publication/jart-2022-1/</link>
-      <pubDate>Fri, 12 Aug 2022 15:07:51 -0300</pubDate>
+      <title>Software development effort estimation: A systematic mapping study</title>
+      <link>https://kleinnerfarias.github.io/publication/iet-2020/</link>
+      <pubDate>Fri, 29 May 2020 17:28:01 -0300</pubDate>
       
-      <guid>https://kleinnerfarias.github.io/publication/jart-2022-1/</guid>
+      <guid>https://kleinnerfarias.github.io/publication/iet-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using biometric data in software engineering: a systematic mapping study</title>
+      <link>https://kleinnerfarias.github.io/publication/bit-2020/</link>
+      <pubDate>Fri, 29 May 2020 16:52:50 -0300</pubDate>
+      
+      <guid>https://kleinnerfarias.github.io/publication/bit-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Big Data Analytics in Supply Chain Management: A Systematic Mapping Study</title>
+      <link>https://kleinnerfarias.github.io/publication/sbsi-2020-4/</link>
+      <pubDate>Fri, 29 May 2020 15:34:42 -0300</pubDate>
+      
+      <guid>https://kleinnerfarias.github.io/publication/sbsi-2020-4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Use of Blockchain in Financial Area: A Systematic Mapping Study</title>
+      <link>https://kleinnerfarias.github.io/publication/sbsi-2020-3/</link>
+      <pubDate>Fri, 29 May 2020 15:34:36 -0300</pubDate>
+      
+      <guid>https://kleinnerfarias.github.io/publication/sbsi-2020-3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Usage of Psychophysiological Data as an Improvement in the Context of So ware Engineering: A Systematic Mapping Study</title>
+      <link>https://kleinnerfarias.github.io/publication/sbsi-2020-1/</link>
+      <pubDate>Fri, 29 May 2020 15:34:22 -0300</pubDate>
+      
+      <guid>https://kleinnerfarias.github.io/publication/sbsi-2020-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Measuring the Cognitive Load of Software Developers: A Systematic Mapping Study</title>
+      <link>https://kleinnerfarias.github.io/publication/icpc-2019/</link>
+      <pubDate>Sun, 05 May 2019 17:37:57 -0200</pubDate>
+      
+      <guid>https://kleinnerfarias.github.io/publication/icpc-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comparison of Design Models: A Systematic Mapping Study</title>
+      <link>https://kleinnerfarias.github.io/publication/ijseke-2015/</link>
+      <pubDate>Mon, 20 Jul 2015 02:41:45 -0300</pubDate>
+      
+      <guid>https://kleinnerfarias.github.io/publication/ijseke-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Model Comparison: A Systematic Mapping Study</title>
+      <link>https://kleinnerfarias.github.io/publication/seke-2015-1/</link>
+      <pubDate>Wed, 01 Jul 2015 03:06:52 -0300</pubDate>
+      
+      <guid>https://kleinnerfarias.github.io/publication/seke-2015-1/</guid>
       <description></description>
     </item>
     
