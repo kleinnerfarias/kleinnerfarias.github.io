@@ -1,23 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Event-driven architecture on Kleinner Farias</title>
+    <title>Event-driven Architecture on Kleinner Farias</title>
     <link>https://kleinnerfarias.github.io/tags/event-driven-architecture/</link>
-    <description>Recent content in Event-driven architecture on Kleinner Farias</description>
+    <description>Recent content in Event-driven Architecture on Kleinner Farias</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Fri, 12 Aug 2022 15:08:00 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 21 Nov 2022 15:00:26 -0300</lastBuildDate>
     
 	<atom:link href="https://kleinnerfarias.github.io/tags/event-driven-architecture/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Event-driven Architecture and REST Architectural Style: An Exploratory Study on Modularity</title>
-      <link>https://kleinnerfarias.github.io/publication/jart-2022-2/</link>
-      <pubDate>Fri, 12 Aug 2022 15:08:00 -0300</pubDate>
+      <title>Effects of Event-driven Architecture on Modularity Software: A Research Agenda</title>
+      <link>https://kleinnerfarias.github.io/publication/eda-agenda-2022/</link>
+      <pubDate>Mon, 21 Nov 2022 15:00:26 -0300</pubDate>
       
-      <guid>https://kleinnerfarias.github.io/publication/jart-2022-2/</guid>
+      <guid>https://kleinnerfarias.github.io/publication/eda-agenda-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the impact of event-driven architecture on performance: An exploratory study</title>
+      <link>https://kleinnerfarias.github.io/publication/eda-2022/</link>
+      <pubDate>Mon, 21 Nov 2022 14:56:18 -0300</pubDate>
+      
+      <guid>https://kleinnerfarias.github.io/publication/eda-2022/</guid>
       <description></description>
     </item>
     

@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Wed, 20 Dec 2023 15:43:30 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jul 2024 00:29:28 -0300</lastBuildDate>
     
 	<atom:link href="https://kleinnerfarias.github.io/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Uma Teoria Empiricamente Fundamentada sobre os Efeitos do Método Low-code no Desenvolvimento de Software</title>
+      <link>https://kleinnerfarias.github.io/publication/tcc-lucas-2024-1/</link>
+      <pubDate>Fri, 19 Jul 2024 00:29:28 -0300</pubDate>
+      
+      <guid>https://kleinnerfarias.github.io/publication/tcc-lucas-2024-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ProMerge: uma abordagem para auxiliar desenvolvedores na detecção e resolução proativa de conflitos de integração de código fontes</title>
+      <link>https://kleinnerfarias.github.io/publication/dissertation-carlos-2024-1/</link>
+      <pubDate>Tue, 19 Mar 2024 01:12:55 -0300</pubDate>
+      
+      <guid>https://kleinnerfarias.github.io/publication/dissertation-carlos-2024-1/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Accorsi Airlines: Um modelo arquitetural dirigido a eventos e ciente de contexto para compra de passagens aéreas</title>
