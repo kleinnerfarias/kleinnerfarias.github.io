@@ -238,66 +238,364 @@ window.PUBLICATIONS = [
   },
   
   {
-    "id": "keemps2025smelldsl",
-    "title": "SmellDSL: A domain-specific language to assist developers in specifying code smell patterns",
-    "authors": [
-      [
-        "Robson",
-        "Keemps"
-      ],
-      [
-        "Kleinner",
-        "Farias"
-      ],
-      [
-        "Rafael",
-        "Kunst"
-      ],
-      [
-        "Carlos",
-        "Carbonera"
-      ],
-      [
-        "Willian",
-        "Bolzan"
-      ]
+  "id": "brito2025llmsurvey",
+  "title": "Understanding the Role of Large Language Models in Software Engineering: Evidence from an Industry Survey",
+  "authors": [
+    [
+      "Vítor Mateus de",
+      "Brito"
     ],
-    "year": 2025,
-    "venue": "Information and Software Technology",
-    "volume": "184",
-    "article": "107760",
-    "type": "Periódico",
-    "topic": "Qualidade de software",
-    "doi": "10.1016/j.infsof.2025.107760",
-    "pdf": "",
-    "url": "https://doi.org/10.1016/j.infsof.2025.107760",
-    "summary": "Linguagem específica de domínio para explicitar padrões de anomalias de código sensíveis às necessidades dos desenvolvedores."
-  },
-  {
-    "id": "vieira2025cognide",
-    "title": "A tool-supported approach to integrate cognitive indicators into the Visual Studio Code",
-    "authors": [
-      [
-        "Roger",
-        "Vieira"
-      ],
-      [
-        "Kleinner",
-        "Farias"
-      ]
+    [
+      "Kleinner",
+      "Farias"
+    ]
+  ],
+  "year": 2025,
+  "venue": "arXiv",
+  "type": "Preprint",
+  "topic": "LLMs em engenharia de software",
+  "doi": "10.48550/arXiv.2512.21347",
+  "pdf": "https://arxiv.org/pdf/2512.21347",
+  "url": "https://arxiv.org/abs/2512.21347",
+  "note": "Preprint disponibilizado no arXiv em 19 de dezembro de 2025.",
+  "summary": "Apresenta evidências de um survey com 46 profissionais sobre benefícios, riscos e formas de utilização de modelos de linguagem em atividades de desenvolvimento de software."
+},
+
+{
+  "id": "welter2025mot",
+  "title": "MoT: A Model-Driven Low-Code Approach for Simplifying Cloud-of-Things Application Development",
+  "authors": [
+    [
+      "Cristiano",
+      "Welter"
     ],
-    "year": 2025,
-    "venue": "Journal of Universal Computer Science",
-    "volume": "31",
-    "number": "7",
-    "pages": "683–712",
-    "type": "Periódico",
-    "topic": "Cognição e EEG",
-    "doi": "10.3897/jucs.124812",
-    "pdf": "",
-    "url": "https://lib.jucs.org/article/124812/",
-    "summary": "CognIDE conecta indicadores psicofisiológicos ao código-fonte para apoiar a análise de tarefas de desenvolvimento."
-  },
+    [
+      "Kleinner",
+      "Farias"
+    ]
+  ],
+  "year": 2025,
+  "venue": "arXiv",
+  "type": "Preprint",
+  "topic": "Engenharia dirigida por modelos e IoT",
+  "doi": "10.48550/arXiv.2512.14613",
+  "pdf": "https://arxiv.org/pdf/2512.14613",
+  "url": "https://arxiv.org/abs/2512.14613",
+  "note": "Preprint disponibilizado no arXiv em 16 de dezembro de 2025; versão posteriormente publicada no Journal of Universal Computer Science.",
+  "summary": "Apresenta uma abordagem dirigida por modelos e baseada em princípios low-code para reduzir a complexidade do desenvolvimento e da implantação de aplicações Cloud-of-Things."
+},
+
+{
+  "id": "lazzari2025harmonyvalidator",
+  "title": "Event-Driven Inconsistency Detection Between UML Class and Sequence Diagrams",
+  "authors": [
+    [
+      "Luan",
+      "Lazzari"
+    ],
+    [
+      "Kleinner",
+      "Farias"
+    ]
+  ],
+  "year": 2025,
+  "venue": "arXiv",
+  "type": "Preprint",
+  "topic": "Consistência de modelos UML",
+  "doi": "10.48550/arXiv.2511.07742",
+  "pdf": "https://arxiv.org/pdf/2511.07742",
+  "url": "https://arxiv.org/abs/2511.07742",
+  "note": "Preprint disponibilizado no arXiv em 11 de novembro de 2025.",
+  "summary": "Apresenta o Harmony Validator, um plugin para o Papyrus que utiliza uma arquitetura orientada a eventos para detectar e comunicar inconsistências entre diagramas UML de classes e de sequência."
+},
+
+{
+  "id": "martinsjunior2025tekohagame",
+  "title": "TEKOHÁ: A Virtual Reality Game for Teaching the History of the Jesuit Missions in Rio Grande do Sul",
+  "authors": [
+    [
+      "Renato da Veiga Martins",
+      "Júnior"
+    ],
+    [
+      "Vinicius Costa de",
+      "Souza"
+    ],
+    [
+      "Kleinner Silva Farias",
+      "de Oliveira"
+    ],
+    [
+      "Gabriel",
+      "Ponzoni"
+    ],
+    [
+      "João Francisco",
+      "Birck"
+    ],
+    [
+      "Daniel M.",
+      "Machado"
+    ],
+    [
+      "Igor",
+      "Flores"
+    ]
+  ],
+  "year": 2025,
+  "venue": "Simpósio Brasileiro de Jogos e Entretenimento Digital (SBGames)",
+  "type": "Artigo em conferência",
+  "topic": "Realidade virtual e educação",
+  "doi": "10.5753/sbgames.2025.10337",
+  "pdf": "https://sol.sbc.org.br/index.php/sbgames/article/download/37480/37262/",
+  "url": "https://sol.sbc.org.br/index.php/sbgames/article/view/37480",
+  "note": "Publicado nos anais do SBGames 2025, páginas 1877–1887.",
+  "summary": "Apresenta um jogo educacional de realidade virtual que permite a estudantes do ensino fundamental explorar a história das Missões Jesuítico-Guarani no Rio Grande do Sul."
+},
+
+{
+  "id": "martinsjunior2025tekoha",
+  "title": "TEKOHÁ: Um Ambiente Virtual para o Ensino da História das Missões Jesuíticas no Rio Grande do Sul",
+  "authors": [
+    [
+      "Renato da Veiga Martins",
+      "Júnior"
+    ],
+    [
+      "Vinicius Costa de",
+      "Souza"
+    ],
+    [
+      "Kleinner Silva Farias",
+      "de Oliveira"
+    ]
+  ],
+  "year": 2025,
+  "venue": "Simpósio de Realidade Virtual e Aumentada (SVR)",
+  "type": "Artigo em conferência",
+  "topic": "Realidade virtual e educação",
+  "doi": null,
+  "pdf": null,
+  "url": "https://sol.sbc.org.br/index.php/svr_estendido/article/view/40741",
+  "note": "Publicado nos anais estendidos do SVR 2025, páginas 139–145.",
+  "summary": "Descreve um ambiente virtual desenvolvido para apoiar o ensino da história das Missões Jesuíticas no Rio Grande do Sul por meio de uma experiência educacional imersiva."
+},
+
+{
+  "id": "keemps2025brainmergeeeg",
+  "title": "BrainMergeEEG: An Open EEG Microstate Dataset for Studying Developers' Brain Network Dynamics",
+  "authors": [
+    [
+      "Robson",
+      "Keemps"
+    ],
+    [
+      "Kleinner",
+      "Farias"
+    ]
+  ],
+  "year": 2025,
+  "venue": "Zenodo",
+  "type": "Dataset",
+  "topic": "Engenharia de software cognitiva",
+  "doi": "10.5281/zenodo.17386293",
+  "pdf": null,
+  "url": "https://doi.org/10.5281/zenodo.17386293",
+  "note": "Dataset aberto depositado no Zenodo; versão associada ao artigo posteriormente publicado no IEEE Access.",
+  "summary": "Disponibiliza sinais de EEG e recursos de processamento para investigar microestados cerebrais e dinâmica neural durante tarefas de integração de código refatorado."
+},
+
+{
+  "id": "keemps2025smelldsl",
+  "title": "SmellDSL: A Domain-Specific Language to Assist Developers in Specifying Code Smell Patterns",
+  "authors": [
+    [
+      "Robson",
+      "Keemps"
+    ],
+    [
+      "Kleinner",
+      "Farias"
+    ],
+    [
+      "Rafael",
+      "Kunst"
+    ],
+    [
+      "Carlos Eduardo",
+      "Carbonera"
+    ],
+    [
+      "Willian",
+      "Bolzan"
+    ]
+  ],
+  "year": 2025,
+  "venue": "Information and Software Technology",
+  "type": "Artigo de periódico",
+  "topic": "Qualidade de software",
+  "doi": "10.1016/j.infsof.2025.107760",
+  "pdf": null,
+  "url": "https://doi.org/10.1016/j.infsof.2025.107760",
+  "note": "Information and Software Technology, volume 184, artigo 107760.",
+  "summary": "Apresenta uma linguagem específica de domínio integrada ao Eclipse para permitir que desenvolvedores especifiquem padrões de code smells por meio de regras e métricas explícitas."
+},
+
+{
+  "id": "bolzan2025modelmergeeeg",
+  "title": "Effects of Model Merge on Developers' Brain Dynamics: An EEG Microstate Analysis",
+  "authors": [
+    [
+      "Willian",
+      "Bolzan"
+    ],
+    [
+      "Robson",
+      "Keemps"
+    ],
+    [
+      "Kleinner",
+      "Farias"
+    ]
+  ],
+  "year": 2025,
+  "venue": "ACM/IEEE 28th International Conference on Model Driven Engineering Languages and Systems (MODELS)",
+  "type": "Artigo em conferência",
+  "topic": "Engenharia de software cognitiva",
+  "doi": "10.1109/MODELS67397.2025.00029",
+  "pdf": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11245366",
+  "url": "https://doi.org/10.1109/MODELS67397.2025.00029",
+  "note": "Publicado nos anais da ACM/IEEE MODELS 2025, páginas 246–252.",
+  "summary": "Investiga, por meio de EEG e análise de microestados, como representações sentenciais e diagramáticas utilizadas em tarefas de merge afetam a dinâmica cerebral dos desenvolvedores."
+},
+
+{
+  "id": "vieira2025cognide",
+  "title": "A Tool-Supported Approach to Integrate Cognitive Indicators into the Visual Studio Code",
+  "authors": [
+    [
+      "Roger Denis",
+      "Vieira"
+    ],
+    [
+      "Kleinner",
+      "Farias"
+    ]
+  ],
+  "year": 2025,
+  "venue": "Journal of Universal Computer Science",
+  "type": "Artigo de periódico",
+  "topic": "Engenharia de software cognitiva",
+  "doi": "10.3897/jucs.124812",
+  "pdf": "https://lib.jucs.org/article/124812/download/pdf/",
+  "url": "https://doi.org/10.3897/jucs.124812",
+  "note": "Journal of Universal Computer Science, volume 31, número 7, páginas 683–712.",
+  "summary": "Apresenta o CognIDE, uma abordagem apoiada por ferramenta que integra indicadores psicofisiológicos e informações contextuais ao Visual Studio Code."
+},
+
+{
+  "id": "marco2025microfrontends",
+  "title": "Micro-Frontend Architectures for Modern User Interfaces in Enterprise Systems: A Systematic Mapping Study",
+  "authors": [
+    [
+      "Vítor",
+      "Marco"
+    ],
+    [
+      "Kleinner",
+      "Farias"
+    ],
+    [
+      "Carlos Eduardo",
+      "Carbonera"
+    ]
+  ],
+  "year": 2025,
+  "venue": "SSRN",
+  "type": "Preprint",
+  "topic": "Arquitetura de software",
+  "doi": "10.2139/ssrn.5312102",
+  "pdf": null,
+  "url": "https://doi.org/10.2139/ssrn.5312102",
+  "note": "Preprint disponibilizado na plataforma SSRN.",
+  "summary": "Sistematiza as evidências sobre arquiteturas de micro-frontends, incluindo benefícios, desafios, estratégias de composição e implicações para interfaces de sistemas empresariais."
+},
+
+{
+  "id": "bolzan2025eegmicrostates",
+  "title": "Investigating EEG Microstate Analysis in Cognitive Software Engineering Tasks: A Systematic Mapping Study and Taxonomy",
+  "authors": [
+    [
+      "Willian",
+      "Bolzan"
+    ],
+    [
+      "Kleinner",
+      "Farias"
+    ]
+  ],
+  "year": 2025,
+  "venue": "ACM Computing Surveys",
+  "type": "Artigo de periódico",
+  "topic": "Engenharia de software cognitiva",
+  "doi": "10.1145/3742899",
+  "pdf": "https://dl.acm.org/doi/pdf/10.1145/3742899",
+  "url": "https://doi.org/10.1145/3742899",
+  "note": "ACM Computing Surveys, volume 57, número 12, páginas 1–36.",
+  "summary": "Classifica 54 estudos sobre análise de microestados de EEG, apresenta uma taxonomia e identifica oportunidades para aplicar essa técnica a tarefas cognitivas de engenharia de software."
+},
+{
+  "id": "carbonera2025promerge",
+  "title": "ProMerge: Enhancing Software Merging Through Conflict Proactive Detection",
+  "authors": [
+    [
+      "Carlos Eduardo",
+      "Carbonera"
+    ],
+    [
+      "Kleinner",
+      "Farias"
+    ],
+    [
+      "Toacy",
+      "Oliveira"
+    ]
+  ],
+  "year": 2025,
+  "venue": "SSRN",
+  "type": "Preprint",
+  "topic": "Integração de software",
+  "doi": "10.2139/ssrn.5082741",
+  "pdf": null,
+  "url": "https://doi.org/10.2139/ssrn.5082741",
+  "note": "Preprint disponibilizado na plataforma SSRN.",
+  "summary": "Apresenta o ProMerge, uma abordagem para detectar proativamente conflitos durante o desenvolvimento paralelo, permitindo antecipar problemas de integração antes da realização do merge."
+},
+
+ {
+  "id": "luz2024webspl",
+  "title": "WebSPL: A Software Product Line for Web Applications",
+  "authors": [
+    [
+      "M. A.",
+      "da Luz"
+    ],
+    [
+      "Kleinner",
+      "Farias"
+    ]
+  ],
+  "year": 2024,
+  "venue": "arXiv",
+  "type": "Preprint",
+  "topic": "Linhas de produtos de software",
+  "doi": "10.48550/arXiv.2404.03061",
+  "pdf": "https://arxiv.org/pdf/2404.03061",
+  "url": "https://arxiv.org/abs/2404.03061",
+  "note": "Preprint disponibilizado no arXiv.",
+  "summary": "Apresenta a WebSPL, uma linha de produtos de software voltada ao desenvolvimento sistemático e reutilizável de aplicações web."
+},
+
   {
     "id": "import-book-arqsoft-2016",
     "title": "Arquitetura de Software",
@@ -441,6 +739,29 @@ window.PUBLICATIONS = [
     "pages": "52–69"
   },
   {
+  "id": "marco2024microfrontendtechnologies",
+  "title": "Exploring the Technologies and Architectures Used to Develop Micro-Frontend Applications: A Systematic Mapping and Emerging Perspectives",
+  "authors": [
+    [
+      "V.",
+      "Marco"
+    ],
+    [
+      "Kleinner",
+      "Farias"
+    ]
+  ],
+  "year": 2024,
+  "venue": "SSRN",
+  "type": "Preprint",
+  "topic": "Arquitetura de micro-frontends",
+  "doi": null,
+  "pdf": null,
+  "url": null,
+  "note": "Preprint disponibilizado na plataforma SSRN.",
+  "summary": "Mapeia sistematicamente as tecnologias e arquiteturas empregadas no desenvolvimento de aplicações baseadas em micro-frontends e identifica perspectivas emergentes de pesquisa."
+},
+  {
     "id": "import-dissertation-carlos-2024-1",
     "title": "ProMerge: uma abordagem para auxiliar desenvolvedores na detecção e resolução proativa de conflitos de integração de código fontes",
     "authors": [
@@ -471,6 +792,227 @@ window.PUBLICATIONS = [
     "sourceReference": "Carlos Eduardo Carbonera. ProMerge: uma abordagem para auxiliar desenvolvedores na detecção e resolução proativa de conflitos de integração de código fontes. Master Dissertation, Universidade do Vale do Rio dos Sinos, São Leopoldo, Brazil, 2024.",
     "summary": ""
   },
+  {
+  "id": "junior2023modelgame",
+  "title": "ModelGame: Bridging the Gap Between Gamification and Software Modeling Teaching—A Quality Model for Objective Evaluation and Enhanced Learning Experiences",
+  "authors": [
+    [
+      "E. W.",
+      "Júnior"
+    ],
+    [
+      "Kleinner",
+      "Farias"
+    ],
+    [
+      "Willian",
+      "Bolzan"
+    ]
+  ],
+  "year": 2023,
+  "venue": "SSRN",
+  "type": "Preprint",
+  "topic": "Ensino de modelagem de software",
+  "doi": "10.2139/ssrn.4655011",
+  "pdf": null,
+  "url": "https://doi.org/10.2139/ssrn.4655011",
+  "note": "Preprint disponibilizado na plataforma SSRN.",
+  "summary": "Propõe um modelo de qualidade para avaliar objetivamente o emprego de gamificação no ensino de modelagem de software e apoiar experiências de aprendizagem mais efetivas."
+},
+{
+  "id": "dalcin2023umlconflicts",
+  "title": "Recommendation of UML Model Conflicts: Unveiling the Biometric Lens for Conflict Resolution",
+  "authors": [
+    [
+      "G.",
+      "Dalcin"
+    ],
+    [
+      "Willian",
+      "Bolzan"
+    ],
+    [
+      "Luan",
+      "Lazzari"
+    ],
+    [
+      "Kleinner",
+      "Farias"
+    ]
+  ],
+  "year": 2023,
+  "venue": "XXXVII Brazilian Symposium on Software Engineering",
+  "type": "Artigo em conferência",
+  "topic": "Conflitos em modelos UML",
+  "doi": null,
+  "pdf": null,
+  "url": null,
+  "note": "Publicado nos anais do XXXVII Brazilian Symposium on Software Engineering, páginas 83–88.",
+  "summary": "Investiga o uso de dados biométricos para recomendar conflitos em modelos UML e apoiar desenvolvedores durante a resolução de conflitos de integração."
+},
+{
+  "id": "carbonera2023softwaremerge",
+  "title": "Software Merge: A Two-Decade Systematic Mapping Study",
+  "authors": [
+    [
+      "Carlos Eduardo",
+      "Carbonera"
+    ],
+    [
+      "Kleinner",
+      "Farias"
+    ],
+    [
+      "C. S.",
+      "Graeff"
+    ],
+    [
+      "R.",
+      "Silva"
+    ]
+  ],
+  "year": 2023,
+  "venue": "XXXVII Brazilian Symposium on Software Engineering",
+  "type": "Artigo em conferência",
+  "topic": "Integração de software",
+  "doi": null,
+  "pdf": null,
+  "url": null,
+  "note": "Publicado nos anais do XXXVII Brazilian Symposium on Software Engineering, páginas 99–108.",
+  "summary": "Apresenta um mapeamento sistemático de duas décadas de pesquisas sobre merge de software, caracterizando abordagens, ferramentas, conflitos investigados e oportunidades de pesquisa."
+},
+{
+  "id": "segalotto2023modularization",
+  "title": "Effects of Modularization on Developers' Cognitive Effort in Code Comprehension Tasks: A Controlled Experiment",
+  "authors": [
+    [
+      "M.",
+      "Segalotto"
+    ],
+    [
+      "Willian",
+      "Bolzan"
+    ],
+    [
+      "Kleinner",
+      "Farias"
+    ]
+  ],
+  "year": 2023,
+  "venue": "XXXVII Brazilian Symposium on Software Engineering",
+  "type": "Artigo em conferência",
+  "topic": "Cognição em engenharia de software",
+  "doi": null,
+  "pdf": null,
+  "url": null,
+  "note": "Publicado nos anais do XXXVII Brazilian Symposium on Software Engineering, páginas 206–215.",
+  "summary": "Relata um experimento controlado sobre os efeitos da modularização no esforço cognitivo de desenvolvedores durante tarefas de compreensão de código."
+},
+{
+  "id": "lazzari2023eventdrivenagenda",
+  "title": "Uncovering the Hidden Potential of Event-Driven Architecture: A Research Agenda",
+  "authors": [
+    [
+      "Luan",
+      "Lazzari"
+    ],
+    [
+      "Kleinner",
+      "Farias"
+    ]
+  ],
+  "year": 2023,
+  "venue": "arXiv",
+  "type": "Preprint",
+  "topic": "Arquitetura orientada a eventos",
+  "doi": "10.48550/arXiv.2308.05270",
+  "pdf": "https://arxiv.org/pdf/2308.05270",
+  "url": "https://arxiv.org/abs/2308.05270",
+  "note": "Preprint disponibilizado no arXiv.",
+  "summary": "Discute o potencial ainda pouco explorado da arquitetura orientada a eventos e propõe uma agenda de pesquisa para orientar futuras investigações teóricas e empíricas."
+},
+{
+  "id": "silva2023mlsoftwaredesign",
+  "title": "An Approach Based on Machine Learning for Predicting Software Design Problems",
+  "authors": [
+    [
+      "Robson Keemps",
+      "Silva"
+    ],
+    [
+      "Kleinner",
+      "Farias"
+    ],
+    [
+      "R.",
+      "Kunst"
+    ],
+    [
+      "J.",
+      "Dalzochio"
+    ]
+  ],
+  "year": 2023,
+  "venue": "XIX Brazilian Symposium on Information Systems",
+  "type": "Artigo em conferência",
+  "topic": "Qualidade de software",
+  "doi": null,
+  "pdf": null,
+  "url": null,
+  "note": "Publicado nos anais do XIX Brazilian Symposium on Information Systems, páginas 53–60.",
+  "summary": "Propõe uma abordagem baseada em aprendizado de máquina para prever problemas de projeto de software a partir de informações extraídas de artefatos de desenvolvimento."
+},
+{
+  "id": "graeff2023mergeconflictprediction",
+  "title": "On the Prediction of Software Merge Conflicts: A Systematic Review and Meta-Analysis",
+  "authors": [
+    [
+      "C. A.",
+      "Graeff"
+    ],
+    [
+      "Kleinner",
+      "Farias"
+    ],
+    [
+      "Carlos Eduardo",
+      "Carbonera"
+    ]
+  ],
+  "year": 2023,
+  "venue": "XIX Brazilian Symposium on Information Systems",
+  "type": "Artigo em conferência",
+  "topic": "Predição de conflitos de merge",
+  "doi": null,
+  "pdf": null,
+  "url": null,
+  "note": "Publicado nos anais do XIX Brazilian Symposium on Information Systems, páginas 404–411.",
+  "summary": "Sintetiza evidências sobre a predição de conflitos de merge por meio de uma revisão sistemática e uma meta-análise dos resultados empíricos reportados na literatura."
+},
+{
+  "id": "menzen2023fourexperts",
+  "title": "4Experts: A Task Recommendation Approach Using Machine Learning and Biometric Data",
+  "authors": [
+    [
+      "J. P.",
+      "Menzen"
+    ],
+    [
+      "Kleinner Silva Farias",
+      "de Oliveira"
+    ]
+  ],
+  "year": 2023,
+  "venue": "XIX Brazilian Symposium on Information Systems",
+  "type": "Artigo em conferência",
+  "topic": "Recomendação de tarefas",
+  "doi": null,
+  "pdf": null,
+  "url": null,
+  "note": "Publicado nos anais do XIX Brazilian Symposium on Information Systems, páginas 1–8.",
+  "summary": "Apresenta uma abordagem que combina aprendizado de máquina e dados biométricos para recomendar tarefas de desenvolvimento de acordo com características cognitivas e comportamentais dos profissionais."
+},
+
   {
     "id": "import-tcc-pedro-2023-2",
     "title": "Accorsi Airlines: Um modelo arquitetural dirigido a eventos e ciente de contexto para compra de passagens aéreas",
@@ -735,6 +1277,49 @@ window.PUBLICATIONS = [
     "sourceReference": "Anderson da Silva Cossul, Kleinner Farias. Estudo Empírico sobre Degradação Arquitetural na Indústria Brasileira: Um Survey. Graduation Work, Computer Science, Universidade do Vale do Rio do Sinos (Unisinos), São Leopoldo, Brazil, June, 2023.",
     "summary": ""
   },
+  {
+  "id": "wiedemann2023simcop",
+  "title": "SIMCOP: A Framework for Similarity Analysis of Context Histories",
+  "authors": [
+    [
+      "T.",
+      "Wiedemann"
+    ],
+    [
+      "João Luis Vieira",
+      "Barbosa"
+    ],
+    [
+      "V. K.",
+      "Matter"
+    ],
+    [
+      "L.",
+      "Gonçales"
+    ],
+    [
+      "L. C.",
+      "Nesi"
+    ],
+    [
+      "S. J.",
+      "Rigo"
+    ],
+    [
+      "K. S.",
+      "Oliveira"
+    ]
+  ],
+  "year": 2023,
+  "venue": "International Journal of Business Information Systems",
+  "type": "Artigo em periódico",
+  "topic": "Computação sensível ao contexto",
+  "doi": null,
+  "pdf": null,
+  "url": null,
+  "note": "Publicado no International Journal of Business Information Systems, volume 44, número 3, páginas 339–367. A lista de autores fornecida estava incompleta.",
+  "summary": "Apresenta o SIMCOP, um framework para analisar a similaridade entre históricos de contexto e apoiar aplicações inteligentes e sensíveis ao contexto."
+},
   {
     "id": "import-tcc-vinicius-2023-2",
     "title": "Análise do Impacto de Sistemas de Controle de Versão Centralizados e Distribuídos no Esforço de Integração de Código-Fonte: Um Estudo Empírico",
@@ -1045,12 +1630,12 @@ window.PUBLICATIONS = [
       "Luan Lazzari",
       "Kleinner Farias"
     ],
-    "year": 2022,
+    "year": 2023,
     "venue": "Journal of Applied Research and Technology (JART)",
-    "venueRaw": "Journal of Applied Research and Technology (JART), (to appear)",
+    "venueRaw": "Journal of Applied Research and Technology (JART)",
     "type": "Periódico",
     "entryType": "article",
-    "topic": "Periódico",
+    "topic": "Arquitetura de software",
     "doi": "",
     "pdf": "https://kleinnerfarias.github.io/pdf/articles/jart-2022-2.pdf",
     "url": "https://kleinnerfarias.github.io/publication/jart-2022-2/",
@@ -1062,11 +1647,13 @@ window.PUBLICATIONS = [
     ],
     "sourceUrl": "https://kleinnerfarias.github.io/publication/",
     "sourceReference": "Luan Lazzari, Kleinner Farias. Event-driven Architecture and REST Architectural Style: An Exploratory Study on Modularity. Journal of Applied Research and Technology (JART), (to appear), 2022.",
-    "summary": "",
-    "statusNote": "Status informado na fonte: a publicar"
+    "summary": "Compara, de maneira exploratória, os efeitos da arquitetura orientada a eventos e do estilo arquitetural REST sobre a modularidade de sistemas de software.",
+    "statusNote": "",
+    "volume": "21",
+    "pages": "338-351"
   },
   {
-    "id": "import-jart-2022-1",
+    "id": "silva2023designproblemsprediction",
     "title": "On the prediction of source code design problems: A systematic mapping study",
     "authors": [
       [
@@ -1087,15 +1674,16 @@ window.PUBLICATIONS = [
       "Kleinner Farias",
       "Rafael Kunst"
     ],
-    "year": 2022,
+    "year": 2023,
     "venue": "Journal of Applied Research and Technology (JART)",
-    "venueRaw": "Journal of Applied Research and Technology (JART), (to appear)",
+    "venueRaw": "Journal of Applied Research and Technology (JART)",
     "type": "Periódico",
     "entryType": "article",
-    "topic": "Periódico",
-    "doi": "",
+    "topic": "Qualidade de software",
+    "doi": "https://doi.org/10.22201/icat.24486736e.2023.21.3.1749",
     "pdf": "https://kleinnerfarias.github.io/pdf/articles/jart-2022-1.pdf",
     "url": "https://kleinnerfarias.github.io/publication/jart-2022-1/",
+    "note": "Journal of Applied Research and Technology, volume 21, número 3, páginas 319–337.",
     "links": [
       {
         "label": "PDF",
@@ -1104,8 +1692,9 @@ window.PUBLICATIONS = [
     ],
     "sourceUrl": "https://kleinnerfarias.github.io/publication/",
     "sourceReference": "Robson Keeemps, Kleinner Farias, Rafael Kunst. On the prediction of source code design problems: A systematic mapping study. Journal of Applied Research and Technology (JART), (to appear), 2022.",
-    "summary": "",
-    "statusNote": "Status informado na fonte: a publicar"
+    "summary": "Mapeia sistematicamente abordagens utilizadas para prever problemas de projeto no código-fonte, incluindo técnicas, métricas, conjuntos de dados e estratégias de avaliação.",
+    "volume": "21",
+    "pages": "319–337"
   },
   {
     "id": "import-tcc-cristiano-2022-1",
