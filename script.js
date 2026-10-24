@@ -30,7 +30,7 @@ function joinAuthors(names, conjunction) {
   return names.length < 2 ? names[0] : names.slice(0,-1).join(', ') + ', ' + conjunction + ' ' + names.at(-1);
 }
 function cite(p, format) {
-  const link = p.doi ? 'https://doi.org/' + p.doi : p.url;
+  const link = p.doi ? 'https://doi.org/' + p.doi : (p.url || p.pdf || '');
   const sourceType = p.entryType || (p.type === 'Preprint' ? 'misc' : 'article');
   if (format === 'bibtex') {
     const tex = value => String(value).replace(/&/g, '\\&').replace(/%/g, '\\%').replace(/#/g, '\\#').replace(/_/g, '\\_');
@@ -40,7 +40,27 @@ function cite(p, format) {
     else if(sourceType === 'book') fields.publisher=tex(p.venue);
     else if(sourceType === 'mastersthesis' || sourceType === 'phdthesis') fields.school=tex(p.venue);
     else if(sourceType === 'techreport') fields.institution=tex('Universidade do Vale do Rio dos Sinos');
-    if(p.type === 'Preprint') Object.assign(fields, {eprint:p.eprint || p.url.split('/').at(-1),archivePrefix:'arXiv',primaryClass:p.primaryClass});
+    if (p.type === 'Preprint') {
+    const isArxiv = String(p.venue || '').toLowerCase() === 'arxiv';
+
+    const eprint = p.eprint || (
+        isArxiv && p.url
+            ? p.url.split('/').filter(Boolean).at(-1)
+            : null
+    );
+
+    if (eprint) {
+        fields.eprint = eprint;
+    }
+
+    if (isArxiv) {
+        fields.archivePrefix = 'arXiv';
+
+        if (p.primaryClass) {
+            fields.primaryClass = p.primaryClass;
+        }
+    }
+}
     const notes = [p.type === 'TCC' ? 'Trabalho de conclusão de curso' : '',p.type === 'Preprint' ? 'Preprint' : '',p.venueRaw || '',p.statusNote || ''].filter(Boolean);
     if(notes.length) fields.note=tex(notes.join('. '));
     Object.assign(fields,{doi:p.doi,url:p.url});
@@ -102,5 +122,25 @@ dialog.addEventListener('click',event=>{if(event.target!==dialog)return;const bo
 document.querySelectorAll('[data-format]').forEach(b=>b.addEventListener('click',()=>{selectedFormat=b.dataset.format;updateCitation();}));
 document.getElementById('copy-citation').addEventListener('click',async()=>{try{await navigator.clipboard.writeText(citationText.value);document.getElementById('citation-status').textContent='Referência copiada.';}catch{citationText.focus();citationText.select();document.getElementById('citation-status').textContent='Selecionei a referência. Use Ctrl+C ou ⌘C para copiar.';}});
 document.getElementById('download-citation').addEventListener('click',()=>downloadText(cite(selectedPublication,'bibtex'),selectedPublication.id+'.bib'));
-document.getElementById('export-bib').addEventListener('click',()=>downloadText(publications.map(p=>cite(p,'bibtex')).join('\n\n'),'kleinner-farias-publicacoes.bib'));
+const exportBibButton = document.getElementById('export-bib');
+
+if (exportBibButton) {
+    exportBibButton.addEventListener('click', () => {
+        try {
+            const bibtex = publications
+                .map(publication => cite(publication, 'bibtex'))
+                .join('\n\n');
+
+            downloadText(
+                bibtex,
+                'kleinner-farias-publicacoes.bib'
+            );
+        } catch (error) {
+            console.error('Erro ao gerar o arquivo BibTeX:', error);
+            alert(
+                'Não foi possível gerar o arquivo BibTeX. Consulte o console do navegador.'
+            );
+        }
+    });
+}
 renderPublications();
