@@ -1,0 +1,1309 @@
+{
+  "source": "https://kleinnerfarias.github.io/publication/",
+  "importedAt": "2026-10-05",
+  "sourceCount": 126,
+  "importedCount": 126,
+  "preservedAdditional": 3,
+  "totalCount": 129,
+  "types": {
+    "Preprint": 1,
+    "Periódico": 31,
+    "Livro": 3,
+    "TCC": 33,
+    "Dissertação": 5,
+    "Relatório técnico": 6,
+    "Conferência": 49,
+    "Material suplementar": 1
+  },
+  "records": [
+    {
+      "title": "Arquitetura de Software",
+      "url": "https://kleinnerfarias.github.io/publication/book-arqsoft-2016/",
+      "links": [
+        {
+          "label": "PDF",
+          "url": "https://kleinnerfarias.github.io/pdf/books/book-arqsoft-2016.pdf"
+        }
+      ]
+    },
+    {
+      "title": "Uma Teoria Empiricamente Fundamentada sobre os Efeitos do Método Low-code no Desenvolvimento de Software",
+      "url": "https://kleinnerfarias.github.io/publication/tcc-lucas-2024-1/",
+      "links": [
+        {
+          "label": "PDF",
+          "url": "https://kleinnerfarias.github.io/pdf/graduation-work/tcc-lucas-2024-1.pdf"
+        }
+      ]
+    },
+    {
+      "title": "An Empirical Study on the Correctness and Effort to Integrate Feature Models",
+      "url": "https://kleinnerfarias.github.io/publication/jucs-2024/",
+      "links": [
+        {
+          "label": "PDF",
+          "url": "https://kleinnerfarias.github.io/pdf/articles/jucs-2024.pdf"
+        }
+      ]
+    },
+    {
+      "title": "On the impact of event-driven architecture on performance: An exploratory study",
+      "url": "https://kleinnerfarias.github.io/publication/fgcs-2024/",
+      "links": [
+        {
+          "label": "PDF",
+          "url": "https://www.sciencedirect.com/science/article/abs/pii/S0167739X23003977"
+        }
+      ]
+    },
+    {
+      "title": "ProMerge: uma abordagem para auxiliar desenvolvedores na detecção e resolução proativa de conflitos de integração de código fontes",
+      "url": "https://kleinnerfarias.github.io/publication/dissertation-carlos-2024-1/",
+      "links": [
+        {
+          "label": "PDF",
+          "url": "https://kleinnerfarias.github.io/pdf/master-dissertation/dissertation-carlos-2024-1.pdf"
+        }
+      ]
+    },
+    {
+      "title": "Accorsi Airlines: Um modelo arquitetural dirigido a eventos e ciente de contexto para compra de passagens aéreas",
+      "url": "https://kleinnerfarias.github.io/publication/tcc-pedro-2023-2/",
+      "links": [
+        {
+          "label": "PDF",
+          "url": "https://kleinnerfarias.github.io/pdf/graduation-work/tcc-pedro-2023-2.pdf"
+        }
+      ]
+    },
+    {
+      "title": "Uma Análise do Entendimento de Conceitos sobre Micro-Frontend na Indústria: Um Estudo Exploratório",
+      "url": "https://kleinnerfarias.github.io/publication/tcc-felipe-2023-2/",
+      "links": [
+        {
+          "label": "PDF",
+          "url": "https://kleinnerfarias.github.io/pdf/graduation-work/tcc-felipe-2023-2.pdf"
+        }
+      ]
+    },
+    {
+      "title": "Explorando as tecnologias e arquiteturas utilizadas para o desenvolvimento de aplicações micro-frontends: Um mapeamento sistemático e perspectivas emergentes",
+      "url": "https://kleinnerfarias.github.io/publication/tcc-vitor-2023-2/",
+      "links": [
+        {
+          "label": "Preprint",
+          "url": "https://kleinnerfarias.github.io/pdf/graduation-work/tcc-vitor-2023-2-preprint.pdf"
+        },
+        {
+          "label": "PDF",
+          "url": "https://kleinnerfarias.github.io/pdf/graduation-work/tcc-vitor-2023-2.pdf"
+        }
+      ]
+    },
+    {
+      "title": "Guidelines para Auxiliar Designers na Construção Colaborativa de Protótipos de Interfaces Sensíveis a Dimensões Cognitivas de Notação: Um Estudo Empírico Usando Figma",
+      "url": "https://kleinnerfarias.github.io/publication/tcc-luan-2023-2/",
+      "links": [
+        {
+          "label": "PDF",
+          "url": "https://kleinnerfarias.github.io/pdf/graduation-work/tcc-luan-2023-2.pdf"
+        }
+      ]
+    },
+    {
+      "title": "Evidências Empíricas sobre a Efetividade da SmellDSL para Especificar Anomalias de Código: Um Estudo Controlado e Perspectivas Futuras",
+      "url": "https://kleinnerfarias.github.io/publication/tcc-arthur-2023-2/",
+      "links": [
+        {
+          "label": "Preprint",
+          "url": "https://kleinnerfarias.github.io/pdf/graduation-work/tcc-arthur-2023-2-preprint.pdf"
+        },
+        {
+          "label": "PDF",
+          "url": "https://kleinnerfarias.github.io/pdf/graduation-work/tcc-arthur-2023-2.pdf"
+        }
+      ]
+    },
+    {
+      "title": "ENTIDARE: Um Modelo Inteligente para Auxiliar Aprendizes na Elaboração de Modelos Conceituais de Software",
+      "url": "https://kleinnerfarias.github.io/publication/tcc-lucas-2023-2/",
+      "links": [
+        {
+          "label": "PDF",
+          "url": "https://kleinnerfarias.github.io/pdf/graduation-work/tcc-lucas-2023-2.pdf"
+        }
+      ]
+    },
+    {
+      "title": "Estudo Empírico sobre Degradação Arquitetural na Indústria Brasileira: Um Survey",
+      "url": "https://kleinnerfarias.github.io/publication/tcc-anderson-2023-1/",
+      "links": [
+        {
+          "label": "Preprint",
+          "url": "https://kleinnerfarias.github.io/pdf/graduation-work/tcc-anderson-2023-1-preprint.pdf"
+        },
+        {
+          "label": "PDF",
+          "url": "https://kleinnerfarias.github.io/pdf/graduation-work/tcc-anderson-2023-1.pdf"
+        }
+      ]
+    },
+    {
+      "title": "Análise do Impacto de Sistemas de Controle de Versão Centralizados e Distribuídos no Esforço de Integração de Código-Fonte: Um Estudo Empírico",
+      "url": "https://kleinnerfarias.github.io/publication/tcc-vinicius-2023-2/",
+      "links": [
+        {
+          "label": "PDF",
+          "url": "https://kleinnerfarias.github.io/pdf/graduation-work/tcc-vinicius-2023-2.pdf"
+        }
+      ]
+    },
+    {
+      "title": "API SLICER: Uma Abordagem Baseada em Features para Decomposição de APIs monolíticas em Microsserviços",
+      "url": "https://kleinnerfarias.github.io/publication/tcc-carlos-2022-2/",
+      "links": [
+        {
+          "label": "PDF",
+          "url": "https://kleinnerfarias.github.io/pdf/graduation-work/tcc-carlos-2022-2.pdf"
+        }
+      ]
+    },
+    {
+      "title": "Comparative Performance Analysis between Spring Boot and Quarkus: An Empirical Study",
+      "url": "https://kleinnerfarias.github.io/publication/quarkus-2022/",
+      "links": [
+        {
+          "label": "PDF",
+          "url": "https://kleinnerfarias.github.io/pdf/manuscript/quarkus-2022.pdf"
+        }
+      ]
+    },
+    {
+      "title": "On the Effort to Integrate Feature Models: An Empirical Study",
+      "url": "https://kleinnerfarias.github.io/publication/features-2022/",
+      "links": [
+        {
+          "label": "PDF",
+          "url": "https://kleinnerfarias.github.io/pdf/manuscript/features-2022.pdf"
+        }
+      ]
+    },
+    {
+      "title": "Effects of Event-driven Architecture on Modularity Software: A Research Agenda",
+      "url": "https://kleinnerfarias.github.io/publication/eda-agenda-2022/",
+      "links": [
+        {
+          "label": "PDF",
+          "url": "https://kleinnerfarias.github.io/pdf/manuscript/eda-agenda-2022.pdf"
+        }
+      ]
+    },
+    {
+      "title": "On the impact of event-driven architecture on performance: An exploratory study",
+      "url": "https://kleinnerfarias.github.io/publication/eda-2022/",
+      "links": [
+        {
+          "label": "PDF",
+          "url": "https://kleinnerfarias.github.io/pdf/manuscript/eda-2022.pdf"
+        }
+      ]
+    },
+    {
+      "title": "DeclaraRS: A multi-platform approach to herd declaration by rural producers in the context of Agriculture 4.0",
+      "url": "https://kleinnerfarias.github.io/publication/declarars-2022/",
+      "links": [
+        {
+          "label": "PDF",
+          "url": "https://kleinnerfarias.github.io/pdf/manuscript/declarars-2022.pdf"
+        }
+      ]
+    },
+    {
+      "title": "A Software Product Line for Web Applications",
+      "url": "https://kleinnerfarias.github.io/publication/webspl-2022/",
+      "links": [
+        {
+          "label": "PDF",
+          "url": "https://kleinnerfarias.github.io/pdf/manuscript/webspl-2022.pdf"
+        }
+      ]
+    },
+    {
+      "title": "Event-driven Architecture and REST Architectural Style: An Exploratory Study on Modularity",
+      "url": "https://kleinnerfarias.github.io/publication/jart-2022-2/",
+      "links": [
+        {
+          "label": "PDF",
+          "url": "https://kleinnerfarias.github.io/pdf/articles/jart-2022-2.pdf"
+        }
+      ]
+    },
+    {
+      "title": "On the prediction of source code design problems: A systematic mapping study",
+      "url": "https://kleinnerfarias.github.io/publication/jart-2022-1/",
+      "links": [
+        {
+          "label": "PDF",
+          "url": "https://kleinnerfarias.github.io/pdf/articles/jart-2022-1.pdf"
+        }
+      ]
+    },
+    {
+      "title": "ModelGuru: Uma Abordagem Baseada em Métricas para Avaliação de Diagrama de Classes da UML",
+      "url": "https://kleinnerfarias.github.io/publication/tcc-cristiano-2022-1/",
+      "links": [
+        {
+          "label": "PDF",
+          "url": "https://kleinnerfarias.github.io/pdf/graduation-work/tcc-cristiano-2022-1.pdf"
+        }
+      ]
+    },
+    {
+      "title": "Análise comparativa de performance entre Spring Boot e Quarkus: Um estudo de caso",
+      "url": "https://kleinnerfarias.github.io/publication/tcc-gabriel-2022-1/",
+      "links": [
+        {
+          "label": "PDF",
+          "url": "https://kleinnerfarias.github.io/pdf/graduation-work/tcc-gabriel-2022-1.pdf"
+        }
+      ]
+    },
+    {
+      "title": "Avaliação dos impactos da decomposição de uma aplicação monolítica para microsserviços: Um estudo de caso",
+      "url": "https://kleinnerfarias.github.io/publication/tcc-tulio-2021-2/",
+      "links": [
+        {
+          "label": "PDF",
+          "url": "https://kleinnerfarias.github.io/pdf/graduation-work/tcc-tulio-2021-2.pdf"
+        }
+      ]
+    },
+    {
+      "title": "Os efeitos da arquitetura dirigida a eventos na modularidade de software: Um estudo exploratório",
+      "url": "https://kleinnerfarias.github.io/publication/tcc-luan-2021-1/",
+      "links": [
+        {
+          "label": "PDF",
+          "url": "https://kleinnerfarias.github.io/pdf/graduation-work/tcc-luan-2021-1.pdf"
+        }
+      ]
+    },
+    {
+      "title": "Impacto da Arquitetura Dirigida a Eventos na Performance: Um Estudo Exploratório",
+      "url": "https://kleinnerfarias.github.io/publication/tcc-hebert-2021-2/",
+      "links": [
+        {
+          "label": "PDF",
+          "url": "https://kleinnerfarias.github.io/pdf/graduation-work/tcc-hebert-2021-2.pdf"
+        }
+      ]
+    },
+    {
+      "title": "Software development effort estimation: A systematic mapping study",
+      "url": "https://kleinnerfarias.github.io/publication/iet-2020/",
+      "links": [
+        {
+          "label": "PDF",
+          "url": "https://kleinnerfarias.github.io/pdf/articles/iet-2020.pdf"
+        }
+      ]
+    },
+    {
+      "title": "Mind Overflow: A Process Proposal for Decomposing Monolithic Applications in Microservices",
+      "url": "https://kleinnerfarias.github.io/publication/ijca-2020/",
+      "links": [
+        {
+          "label": "PDF",
+          "url": "https://kleinnerfarias.github.io/pdf/articles/ijca-2020.pdf"
+        }
+      ]
+    },
+    {
+      "title": "Using biometric data in software engineering: a systematic mapping study",
+      "url": "https://kleinnerfarias.github.io/publication/bit-2020/",
+      "links": [
+        {
+          "label": "PDF",
+          "url": "https://kleinnerfarias.github.io/pdf/articles/bit-2020.pdf"
+        }
+      ]
+    },
+    {
+      "title": "Big Data Analytics in Supply Chain Management: A Systematic Mapping Study",
+      "url": "https://kleinnerfarias.github.io/publication/sbsi-2020-4/",
+      "links": [
+        {
+          "label": "PDF",
+          "url": "https://kleinnerfarias.github.io/pdf/articles/sbsi-2020-4.pdf"
+        }
+      ]
+    },
+    {
+      "title": "The Use of Blockchain in Financial Area: A Systematic Mapping Study",
+      "url": "https://kleinnerfarias.github.io/publication/sbsi-2020-3/",
+      "links": [
+        {
+          "label": "PDF",
+          "url": "https://kleinnerfarias.github.io/pdf/articles/sbsi-2020-3.pdf"
+        }
+      ]
+    },
+    {
+      "title": "VitForecast: an IoT approach to predict diseases in vineyard",
+      "url": "https://kleinnerfarias.github.io/publication/sbsi-2020-2/",
+      "links": [
+        {
+          "label": "PDF",
+          "url": "https://kleinnerfarias.github.io/pdf/articles/sbsi-2020-2.pdf"
+        }
+      ]
+    },
+    {
+      "title": "Usage of Psychophysiological Data as an Improvement in the Context of So ware Engineering: A Systematic Mapping Study",
+      "url": "https://kleinnerfarias.github.io/publication/sbsi-2020-1/",
+      "links": [
+        {
+          "label": "PDF",
+          "url": "https://kleinnerfarias.github.io/pdf/articles/sbsi-2020-1.pdf"
+        }
+      ]
+    },
+    {
+      "title": "Effects of Contextual Information on Maintenance Effort: A Controlled Experiment",
+      "url": "https://kleinnerfarias.github.io/publication/jss-2020/",
+      "links": [
+        {
+          "label": "PDF",
+          "url": "https://kleinnerfarias.github.io/pdf/articles/jss-2020.pdf"
+        }
+      ]
+    },
+    {
+      "title": "MIND OVERFLOW: Uma proposta de processo para decomposição de aplicações monolíticas em microsserviços",
+      "url": "https://kleinnerfarias.github.io/publication/tcc-tcharles-2019-2/",
+      "links": [
+        {
+          "label": "PDF",
+          "url": "https://kleinnerfarias.github.io/pdf/graduation-work/tcc-tcharles-2019-2.pdf"
+        }
+      ]
+    },
+    {
+      "title": "UML2Merge: a UML extension for model merging",
+      "url": "https://kleinnerfarias.github.io/publication/iet-2019/",
+      "links": [
+        {
+          "label": "PDF",
+          "url": "https://kleinnerfarias.github.io/pdf/articles/iet-2019.pdf"
+        }
+      ]
+    },
+    {
+      "title": "Supporting Collaborative Modelling in UML Class Diagrams",
+      "url": "https://kleinnerfarias.github.io/publication/rbca-2019/",
+      "links": [
+        {
+          "label": "PDF",
+          "url": "https://kleinnerfarias.github.io/pdf/articles/rbca-2019.pdf"
+        }
+      ]
+    },
+    {
+      "title": "CMFRAME: a Framework for Managing Dynamic and Hierarchical Context Histories",
+      "url": "https://kleinnerfarias.github.io/publication/clei-2019/",
+      "links": [
+        {
+          "label": "PDF",
+          "url": "https://kleinnerfarias.github.io/pdf/articles/clei-2019.pdf"
+        }
+      ]
+    },
+    {
+      "title": "PARTHENOS: Uma Abordagem de Injeção de Código-fonte para Transformação de Software",
+      "url": "https://kleinnerfarias.github.io/publication/tcc-gabriel-2019-1/",
+      "links": [
+        {
+          "label": "PDF",
+          "url": "https://kleinnerfarias.github.io/pdf/graduation-work/tcc-gabriel-2019-1.pdf"
+        }
+      ]
+    },
+    {
+      "title": "Comparison of Software Design Models: An Extended Systematic Mapping Study",
+      "url": "https://kleinnerfarias.github.io/publication/acs-2019/",
+      "links": [
+        {
+          "label": "PDF",
+          "url": "https://kleinnerfarias.github.io/pdf/articles/acs-2019.pdf"
+        }
+      ]
+    },
+    {
+      "title": "Towards a Hybrid Approach to Measure Similarity Between UML Models",
+      "url": "https://kleinnerfarias.github.io/publication/sbsi-2019-1/",
+      "links": [
+        {
+          "label": "PDF",
+          "url": "https://kleinnerfarias.github.io/pdf/articles/sbsi-2019-1.pdf"
+        }
+      ]
+    },
+    {
+      "title": "On the Effects of Developers’ Intuition on Measuring Similarity Between UML Models",
+      "url": "https://kleinnerfarias.github.io/publication/sbsi-2019-2/",
+      "links": [
+        {
+          "label": "PDF",
+          "url": "https://kleinnerfarias.github.io/pdf/articles/sbsi-2019-2.pdf"
+        }
+      ]
+    },
+    {
+      "title": "Towards a Semiautomatic Tool to Support the Integration of Feature Models",
+      "url": "https://kleinnerfarias.github.io/publication/sbsi-2019-3/",
+      "links": [
+        {
+          "label": "PDF",
+          "url": "https://kleinnerfarias.github.io/pdf/articles/sbsi-2019-3.pdf"
+        }
+      ]
+    },
+    {
+      "title": "Hermes: A Natural Language Interface Model for Software Transformation",
+      "url": "https://kleinnerfarias.github.io/publication/sbsi-2019-4/",
+      "links": [
+        {
+          "label": "PDF",
+          "url": "https://kleinnerfarias.github.io/pdf/articles/sbsi-2019-4.pdf"
+        }
+      ]
+    },
+    {
+      "title": "UMLCollab: A Hybrid Approach for Collaborative Modeling of UML Models",
+      "url": "https://kleinnerfarias.github.io/publication/sbsi-2019-5/",
+      "links": [
+        {
+          "label": "PDF",
+          "url": "https://kleinnerfarias.github.io/pdf/articles/sbsi-2019-5.pdf"
+        }
+      ]
+    },
+    {
+      "title": "A Model for Predicting Disapproval of Apprentices in Distance Education Using Decision Tree",
+      "url": "https://kleinnerfarias.github.io/publication/sbsi-2019-6/",
+      "links": [
+        {
+          "label": "PDF",
+          "url": "https://kleinnerfarias.github.io/pdf/articles/sbsi-2019-6.pdf"
+        }
+      ]
+    },
+    {
+      "title": "Measuring the Cognitive Load of Software Developers: A Systematic Mapping Study",
+      "url": "https://kleinnerfarias.github.io/publication/icpc-2019/",
+      "links": [
+        {
+          "label": "PDF",
+          "url": "https://kleinnerfarias.github.io/pdf/articles/icpc-2019.pdf"
+        }
+      ]
+    },
+    {
+      "title": "Integration of Feature Models: A Systematic Mapping Study",
+      "url": "https://kleinnerfarias.github.io/publication/ist-2019/",
+      "links": [
+        {
+          "label": "PDF",
+          "url": "https://kleinnerfarias.github.io/pdf/articles/ist-2019.pdf"
+        }
+      ]
+    },
+    {
+      "title": "Uma Arquitetura Baseada em Microserviços para Aplicações IoT em Fazendas Inteligentes",
+      "url": "https://kleinnerfarias.github.io/publication/tcc-rodrigo-2018-2/",
+      "links": [
+        {
+          "label": "PDF",
+          "url": "https://kleinnerfarias.github.io/pdf/graduation-work/tcc-rodrigo-2018-2.pdf"
+        }
+      ]
+    },
+    {
+      "title": "HERMES: Um Modelo de Interface de Linguagem Natural para Transformção em Software",
+      "url": "https://kleinnerfarias.github.io/publication/tcc-michael-2018-2/",
+      "links": [
+        {
+          "label": "PDF",
+          "url": "https://kleinnerfarias.github.io/pdf/graduation-work/tcc-michael-2018-2.pdf"
+        }
+      ]
+    },
+    {
+      "title": "Questionnaire used to evaluate our study: UML2Merge: a UML Extension for Model Merging",
+      "url": "https://kleinnerfarias.github.io/publication/ietsoft-2018/",
+      "links": [
+        {
+          "label": "PDF",
+          "url": "https://kleinnerfarias.github.io/pdf/studies/uml2merge-quest.pdf"
+        }
+      ]
+    },
+    {
+      "title": "A Última Década do Uso de Dispositivos da Internet das Coisas durante a Triagem de Pacientes no Departamento de Emergência - Um Mapeamento Sistemático",
+      "url": "https://kleinnerfarias.github.io/publication/jhi-2018/",
+      "links": [
+        {
+          "label": "PDF",
+          "url": "https://kleinnerfarias.github.io/pdf/articles/jhi-2018.pdf"
+        }
+      ]
+    },
+    {
+      "title": "Big Data Analytics no Gerenciamento da Cadeia de Suprimentos: Um Estudo Qualitativo",
+      "url": "https://kleinnerfarias.github.io/publication/tcc-thiago-2018-1/",
+      "links": [
+        {
+          "label": "PDF",
+          "url": "https://kleinnerfarias.github.io/pdf/graduation-work/tcc-thiago-2018-1.pdf"
+        }
+      ]
+    },
+    {
+      "title": "Evaluating the Effort of Integrating Feature Models: A Controlled Experiment",
+      "url": "https://kleinnerfarias.github.io/publication/seke-2018-3/",
+      "links": [
+        {
+          "label": "PDF",
+          "url": "https://kleinnerfarias.github.io/pdf/articles/seke-2018-3.pdf"
+        },
+        {
+          "label": "Slides",
+          "url": "https://kleinnerfarias.github.io/pdf/slides/seke-2018-3-slides.pdf"
+        }
+      ]
+    },
+    {
+      "title": "Effects of Model Composition Techniques on Effort and Affective States: A Controlled Experiment",
+      "url": "https://kleinnerfarias.github.io/publication/seke-2018-2/",
+      "links": [
+        {
+          "label": "PDF",
+          "url": "https://kleinnerfarias.github.io/pdf/articles/seke-2018-2.pdf"
+        },
+        {
+          "label": "Slides",
+          "url": "https://kleinnerfarias.github.io/pdf/slides/seke-2018-2-slides.pdf"
+        }
+      ]
+    },
+    {
+      "title": "On the UML Use in the Brazilian Industry: A State of the Practice",
+      "url": "https://kleinnerfarias.github.io/publication/seke-2018-1/",
+      "links": [
+        {
+          "label": "PDF",
+          "url": "https://kleinnerfarias.github.io/pdf/articles/seke-2018-1.pdf"
+        },
+        {
+          "label": "Slides",
+          "url": "https://kleinnerfarias.github.io/pdf/slides/seke-2018-1-slides.pdf"
+        }
+      ]
+    },
+    {
+      "title": "Supporting the Composition of UML Component Diagrams",
+      "url": "https://kleinnerfarias.github.io/publication/sbsi-2018-3/",
+      "links": [
+        {
+          "label": "PDF",
+          "url": "https://kleinnerfarias.github.io/pdf/articles/sbsi-2018-3.pdf"
+        },
+        {
+          "label": "Slides",
+          "url": "https://kleinnerfarias.github.io/pdf/slides/sbsi-2018-3-slides.pdf"
+        }
+      ]
+    },
+    {
+      "title": "DORIC: An Architecture for Data-intensive Real-time Applications",
+      "url": "https://kleinnerfarias.github.io/publication/sbsi-2018-2/",
+      "links": [
+        {
+          "label": "PDF",
+          "url": "https://kleinnerfarias.github.io/pdf/articles/sbsi-2018-2.pdf"
+        },
+        {
+          "label": "Slides",
+          "url": "https://kleinnerfarias.github.io/pdf/slides/sbsi-2018-2-slides.pdf"
+        }
+      ]
+    },
+    {
+      "title": "Melhorias no Processo de Identificação de Componentes Vulneráveis: Decidindo Sobre Atualizações",
+      "url": "https://kleinnerfarias.github.io/publication/sbsi-2018-1/",
+      "links": [
+        {
+          "label": "PDF",
+          "url": "https://kleinnerfarias.github.io/pdf/articles/sbsi-2018-1.pdf"
+        },
+        {
+          "label": "Slides",
+          "url": "https://kleinnerfarias.github.io/pdf/slides/sbsi-2018-1-slides.pdf"
+        }
+      ]
+    },
+    {
+      "title": "An Algorithm for Distance Calculation Between UML Sequence Diagrams",
+      "url": "https://kleinnerfarias.github.io/publication/ieeela-2018/",
+      "links": [
+        {
+          "label": "PDF",
+          "url": "https://kleinnerfarias.github.io/pdf/articles/ieeela-2018.pdf"
+        }
+      ]
+    },
+    {
+      "title": "BRCode: An Interpretive Model-driven Engineering Approach for Enterprise Applications",
+      "url": "https://kleinnerfarias.github.io/publication/compind-2018/",
+      "links": [
+        {
+          "label": "PDF",
+          "url": "https://kleinnerfarias.github.io/pdf/articles/compind-2018.pdf"
+        }
+      ]
+    },
+    {
+      "title": "Engenharia Reversa Contínua: Automatizando Diagramas UML como Parte da Integração Contínua Através da UMLRev",
+      "url": "https://kleinnerfarias.github.io/publication/tcc-lucas-2017-2/",
+      "links": [
+        {
+          "label": "PDF",
+          "url": "https://kleinnerfarias.github.io/pdf/graduation-work/tcc-lucas-2017-2.pdf"
+        }
+      ]
+    },
+    {
+      "title": "Análise de Impacto da Utilização de Entrega Contínua em uma Organização: Um Estudo Experimental",
+      "url": "https://kleinnerfarias.github.io/publication/tcc-maluane-2017-2/",
+      "links": [
+        {
+          "label": "PDF",
+          "url": "https://kleinnerfarias.github.io/pdf/graduation-work/tcc-maluane-2017-2.pdf"
+        }
+      ]
+    },
+    {
+      "title": "Uma Arquitetura de Software para Aplicações de Larga Escala e de Tempo Real",
+      "url": "https://kleinnerfarias.github.io/publication/tcc-miguel-2017-1/",
+      "links": [
+        {
+          "label": "PDF",
+          "url": "https://kleinnerfarias.github.io/pdf/graduation-work/tcc-miguel-2017-1.pdf"
+        }
+      ]
+    },
+    {
+      "title": "Toward an Architecture for Comparing UML Design Models",
+      "url": "https://kleinnerfarias.github.io/publication/jsw-2017/",
+      "links": [
+        {
+          "label": "PDF",
+          "url": "https://kleinnerfarias.github.io/pdf/articles/jsw-2017.pdf"
+        }
+      ]
+    },
+    {
+      "title": "Personal Health Records: A Systematic Literature Review",
+      "url": "https://kleinnerfarias.github.io/publication/jmir-2017/",
+      "links": [
+        {
+          "label": "PDF",
+          "url": "https://kleinnerfarias.github.io/pdf/articles/jmir-2017.pdf"
+        }
+      ]
+    },
+    {
+      "title": "Detecção de Inconsistências em Modelos UML: Uma Técnica Baseada em Métricas",
+      "url": "https://kleinnerfarias.github.io/publication/dissertation-vanessa-2017-1/",
+      "links": [
+        {
+          "label": "PDF",
+          "url": "https://kleinnerfarias.github.io/pdf/master-dissertation/dissertation-vanessa-2017-1.pdf"
+        }
+      ]
+    },
+    {
+      "title": "FMIT: Uma Técnica de Integração de Modelos de Features",
+      "url": "https://kleinnerfarias.github.io/publication/dissertation-vinicius-2017-1/",
+      "links": [
+        {
+          "label": "PDF",
+          "url": "https://kleinnerfarias.github.io/pdf/master-dissertation/dissertation-vinicius-2017-1.pdf"
+        }
+      ]
+    },
+    {
+      "title": "Modeling Composition of UML Profiles with Alloy",
+      "url": "https://kleinnerfarias.github.io/publication/ijcsse-2017/",
+      "links": [
+        {
+          "label": "PDF",
+          "url": "https://kleinnerfarias.github.io/pdf/articles/ijcsse-2017.pdf"
+        }
+      ]
+    },
+    {
+      "title": "CollabRDL: A Language to Coordinate Collaborative Reuse",
+      "url": "https://kleinnerfarias.github.io/publication/jss-2017/",
+      "links": [
+        {
+          "label": "PDF",
+          "url": "https://kleinnerfarias.github.io/pdf/articles/jss-2017.pdf"
+        }
+      ]
+    },
+    {
+      "title": "Melhorias no Processo de Identificação de Componentes Vulneráveis: Decidindo sobre Atualizações",
+      "url": "https://kleinnerfarias.github.io/publication/tcc-bruna-2016-2/",
+      "links": [
+        {
+          "label": "PDF",
+          "url": "https://kleinnerfarias.github.io/pdf/graduation-work/tcc-bruna-2016-2.pdf"
+        }
+      ]
+    },
+    {
+      "title": "Detecting Inconsistencies in Multi-view UML Models",
+      "url": "https://kleinnerfarias.github.io/publication/ijcsse-2016-2/",
+      "links": [
+        {
+          "label": "PDF",
+          "url": "https://kleinnerfarias.github.io/pdf/articles/ijcsse-2016-2.pdf"
+        }
+      ]
+    },
+    {
+      "title": "Towards an Architecture for Integration of Feature Models",
+      "url": "https://kleinnerfarias.github.io/publication/ijcsse-2016-1/",
+      "links": [
+        {
+          "label": "PDF",
+          "url": "https://kleinnerfarias.github.io/pdf/articles/ijcsse-2016-1.pdf"
+        }
+      ]
+    },
+    {
+      "title": "Engenharia de Software Experimental: Uma Introdução",
+      "url": "https://kleinnerfarias.github.io/publication/book-ese-2016/",
+      "links": [
+        {
+          "label": "PDF",
+          "url": "https://kleinnerfarias.github.io/pdf/books/book-ese-2016.pdf"
+        }
+      ]
+    },
+    {
+      "title": "COMMON: Uma Ferramenta para Composição Semiautomática de Modelos de Processos de Negócio",
+      "url": "https://kleinnerfarias.github.io/publication/dissertation-mauricio-2016-1/",
+      "links": [
+        {
+          "label": "PDF",
+          "url": "https://kleinnerfarias.github.io/pdf/master-dissertation/dissertation-mauricio-2016-1.pdf"
+        }
+      ]
+    },
+    {
+      "title": "Projeto e Arquitetura de Software: Uma Introdução",
+      "url": "https://kleinnerfarias.github.io/publication/book-pas-2016/",
+      "links": [
+        {
+          "label": "PDF",
+          "url": "https://kleinnerfarias.github.io/pdf/books/book-pas-2016.pdf"
+        }
+      ]
+    },
+    {
+      "title": "Safetrail: um Modelo para Controle de Acesso Baseado em Perfis, Contextos e Trilhas",
+      "url": "https://kleinnerfarias.github.io/publication/rbca-2016/",
+      "links": [
+        {
+          "label": "PDF",
+          "url": "https://kleinnerfarias.github.io/pdf/articles/rbca-2015.pdf"
+        }
+      ]
+    },
+    {
+      "title": "Especificação Colaborativa de Software utilizando Exemplos: Um Estudo de Caso Aplicado à Manutenção de um Sistema ERP",
+      "url": "https://kleinnerfarias.github.io/publication/tcc-richard-2015-2/",
+      "links": [
+        {
+          "label": "PDF",
+          "url": "https://kleinnerfarias.github.io/pdf/graduation-work/tcc-richard-2015-2.pdf"
+        }
+      ]
+    },
+    {
+      "title": "Evaluating the Effort of Composing Design Models: A Controlled Experiment",
+      "url": "https://kleinnerfarias.github.io/publication/sosym-2015/",
+      "links": [
+        {
+          "label": "PDF",
+          "url": "https://kleinnerfarias.github.io/pdf/articles/sosym-2015.pdf"
+        }
+      ]
+    },
+    {
+      "title": "Uma Ferramenta de Suporte à Modelagem Colaborativa de Software",
+      "url": "https://kleinnerfarias.github.io/publication/tcc-raul-2015-1/",
+      "links": [
+        {
+          "label": "PDF",
+          "url": "https://kleinnerfarias.github.io/pdf/graduation-work/tcc-raul-2015-1.pdf"
+        }
+      ]
+    },
+    {
+      "title": "Uma Extensão da UML para Modelagem de Contexto",
+      "url": "https://kleinnerfarias.github.io/publication/sbcup-2015/",
+      "links": [
+        {
+          "label": "PDF",
+          "url": "https://kleinnerfarias.github.io/pdf/articles/sbcup-2015.pdf"
+        }
+      ]
+    },
+    {
+      "title": "Comparison of Design Models: A Systematic Mapping Study",
+      "url": "https://kleinnerfarias.github.io/publication/ijseke-2015/",
+      "links": [
+        {
+          "label": "PDF",
+          "url": "https://kleinnerfarias.github.io/pdf/articles/ijseke-2015.pdf"
+        }
+      ]
+    },
+    {
+      "title": "REVERSEJ: Uma Ferramenta para Engenharia Reversa Baseada em Features",
+      "url": "https://kleinnerfarias.github.io/publication/tcc-lucas-2015-1/",
+      "links": [
+        {
+          "label": "PDF",
+          "url": "https://kleinnerfarias.github.io/pdf/graduation-work/tcc-lucas-2015-1.pdf"
+        }
+      ]
+    },
+    {
+      "title": "Toward an Architecture for Model Composition Techniques",
+      "url": "https://kleinnerfarias.github.io/publication/seke-2015-2/",
+      "links": [
+        {
+          "label": "PDF",
+          "url": "https://kleinnerfarias.github.io/pdf/articles/seke-2015-2.pdf"
+        },
+        {
+          "label": "Slides",
+          "url": "https://kleinnerfarias.github.io/pdf/slides/seke-2015-2-slides.pdf"
+        }
+      ]
+    },
+    {
+      "title": "Model Comparison: A Systematic Mapping Study",
+      "url": "https://kleinnerfarias.github.io/publication/seke-2015-1/",
+      "links": [
+        {
+          "label": "PDF",
+          "url": "https://kleinnerfarias.github.io/pdf/articles/seke-2015-1.pdf"
+        },
+        {
+          "label": "Slides",
+          "url": "https://kleinnerfarias.github.io/pdf/slides/seke-2015-1-slides.pdf"
+        }
+      ]
+    },
+    {
+      "title": "UML2Context: Uma Extensão da UML para Modelagem de Contexto",
+      "url": "https://kleinnerfarias.github.io/publication/dissertation-vivian-2015-2/",
+      "links": [
+        {
+          "label": "PDF",
+          "url": "https://kleinnerfarias.github.io/pdf/master-dissertation/dissertation-vivian-2015-2.pdf"
+        }
+      ]
+    },
+    {
+      "title": "MAS-ML 2.0: Supporting the Modelling of Multi-agent Systems with Different Agent Architectures",
+      "url": "https://kleinnerfarias.github.io/publication/jss-2015/",
+      "links": [
+        {
+          "label": "PDF",
+          "url": "https://kleinnerfarias.github.io/pdf/articles/jss-2015.pdf"
+        }
+      ]
+    },
+    {
+      "title": "Rescheduling and Checkpointing as Strategies to Run Synchronous Parallel Programs on P2P Desktop Grids",
+      "url": "https://kleinnerfarias.github.io/publication/sac-2015/",
+      "links": [
+        {
+          "label": "PDF",
+          "url": "https://kleinnerfarias.github.io/pdf/articles/sac-2015.pdf"
+        }
+      ]
+    },
+    {
+      "title": "Um Algoritmo para Cálculo de Distância entre Diagramas de Sequência da UML",
+      "url": "https://kleinnerfarias.github.io/publication/tcc-joni-2014-2/",
+      "links": [
+        {
+          "label": "PDF",
+          "url": "https://kleinnerfarias.github.io/pdf/graduation-work/tcc-joni-2014-2.pdf"
+        }
+      ]
+    },
+    {
+      "title": "Uma Ferramenta para Composição de Diagramas de Componentes da UML",
+      "url": "https://kleinnerfarias.github.io/publication/tcc-guilherme-2014-2/",
+      "links": [
+        {
+          "label": "PDF",
+          "url": "https://kleinnerfarias.github.io/pdf/graduation-work/tcc-guilherme-2014-2.pdf"
+        }
+      ]
+    },
+    {
+      "title": "Effects of Stability on Model Composition Effort: An Exploratory Study",
+      "url": "https://kleinnerfarias.github.io/publication/sosym-2014/",
+      "links": [
+        {
+          "label": "PDF",
+          "url": "https://kleinnerfarias.github.io/pdf/articles/sosym-2014.pdf"
+        }
+      ]
+    },
+    {
+      "title": "Avaliação de Esforço de Composição de Modelos de Software: Um Estudo Baseado em Neurociência",
+      "url": "https://kleinnerfarias.github.io/publication/tcc-mateus-2014-1/",
+      "links": [
+        {
+          "label": "PDF",
+          "url": "https://kleinnerfarias.github.io/pdf/graduation-work/tcc-mateus-2014-1.pdf"
+        }
+      ]
+    },
+    {
+      "title": "Uma Linha de Produto de Software para Aplicações Web",
+      "url": "https://kleinnerfarias.github.io/publication/tcc-maicon-2014-1/",
+      "links": [
+        {
+          "label": "PDF",
+          "url": "https://kleinnerfarias.github.io/pdf/graduation-work/tcc-maicon-2014-1.pdf"
+        }
+      ]
+    },
+    {
+      "title": "Monitoramento de Infraestrutura de TI: Métricas e Estudos Experimentais",
+      "url": "https://kleinnerfarias.github.io/publication/tcc-felipe-2014-1/",
+      "links": [
+        {
+          "label": "PDF",
+          "url": "https://kleinnerfarias.github.io/pdf/graduation-work/tcc-felipe-2014-1.pdf"
+        }
+      ]
+    },
+    {
+      "title": "Uma Linha de Produto de Software para Sistemas Integrados de Gestão Empresarial: Um Estudo de Caso na Indústria",
+      "url": "https://kleinnerfarias.github.io/publication/tcc-moises-2014-1/",
+      "links": [
+        {
+          "label": "PDF",
+          "url": "https://kleinnerfarias.github.io/pdf/graduation-work/tcc-moises-2014-1.pdf"
+        }
+      ]
+    },
+    {
+      "title": "Redesigning Transaction Load Balancing on Electronic Funds Transfer Scenarios",
+      "url": "https://kleinnerfarias.github.io/publication/sac-2014-5/",
+      "links": [
+        {
+          "label": "PDF",
+          "url": "https://kleinnerfarias.github.io/pdf/articles/sac-2014-5.pdf"
+        }
+      ]
+    },
+    {
+      "title": "Extending JUnit 4 with Java Annotations and Reflection to Test Variant Model Transformation Assets",
+      "url": "https://kleinnerfarias.github.io/publication/sac-2014-3/",
+      "links": [
+        {
+          "label": "PDF",
+          "url": "https://kleinnerfarias.github.io/pdf/articles/sac-2014-3.pdf"
+        }
+      ]
+    },
+    {
+      "title": "On the Impact of Obliviousness and Quantification on Model Composition Effort",
+      "url": "https://kleinnerfarias.github.io/publication/sac-2014-2/",
+      "links": [
+        {
+          "label": "PDF",
+          "url": "https://kleinnerfarias.github.io/pdf/articles/sac-2014-2.pdf"
+        }
+      ]
+    },
+    {
+      "title": "Towards a Quality Model for Model Composition Effort",
+      "url": "https://kleinnerfarias.github.io/publication/sac-2014-1/",
+      "links": [
+        {
+          "label": "PDF",
+          "url": "https://kleinnerfarias.github.io/pdf/articles/sac-2014-1.pdf"
+        }
+      ]
+    },
+    {
+      "title": "Faster Seam Carving with Minimum Energy Windows",
+      "url": "https://kleinnerfarias.github.io/publication/sac-2014-4/",
+      "links": [
+        {
+          "label": "PDF",
+          "url": "https://kleinnerfarias.github.io/pdf/articles/sac-2014-4.pdf"
+        }
+      ]
+    },
+    {
+      "title": "Analyzing the Effort of Composing Design Models of Large-Scale Software in Industrial Case Studies",
+      "url": "https://kleinnerfarias.github.io/publication/models-2013/",
+      "links": [
+        {
+          "label": "PDF",
+          "url": "https://kleinnerfarias.github.io/pdf/articles/models-2013.pdf"
+        }
+      ]
+    },
+    {
+      "title": "Evaluating the Effort of Composing Design Models: A Controlled Experiment",
+      "url": "https://kleinnerfarias.github.io/publication/models-2012-2/",
+      "links": [
+        {
+          "label": "PDF",
+          "url": "https://kleinnerfarias.github.io/pdf/articles/models-2012-2.pdf"
+        }
+      ]
+    },
+    {
+      "title": "Evaluating the Impact of Aspects on Inconsistency Detection Effort: A Controlled Experiment",
+      "url": "https://kleinnerfarias.github.io/publication/models-2012-1/",
+      "links": [
+        {
+          "label": "PDF",
+          "url": "https://kleinnerfarias.github.io/pdf/articles/models-2012-1.pdf"
+        }
+      ]
+    },
+    {
+      "title": "MAS-ML Tool: A Modeling Environment for Multi-Agent Systems",
+      "url": "https://kleinnerfarias.github.io/publication/iceis-2011/",
+      "links": [
+        {
+          "label": "PDF",
+          "url": "https://kleinnerfarias.github.io/pdf/articles/iceis-2011.pdf"
+        }
+      ]
+    },
+    {
+      "title": "Evaluating the Effects of Stability on Model Composition Effort: an Exploratory Study",
+      "url": "https://kleinnerfarias.github.io/publication/eselaw-2011/",
+      "links": [
+        {
+          "label": "PDF",
+          "url": "https://kleinnerfarias.github.io/pdf/articles/eselaw-2011.pdf"
+        }
+      ]
+    },
+    {
+      "title": "Analyzing the Effort on Composing Design Models in Industrial Case Studies",
+      "url": "https://kleinnerfarias.github.io/publication/aosd-2011/",
+      "links": [
+        {
+          "label": "PDF",
+          "url": "https://kleinnerfarias.github.io/pdf/articles/aosd-2011.pdf"
+        }
+      ]
+    },
+    {
+      "title": "Modelagem de Organizações de Agentes Inteligentes: uma Extensão da MAS-ML Tool",
+      "url": "https://kleinnerfarias.github.io/publication/autosoft-2010/",
+      "links": [
+        {
+          "label": "PDF",
+          "url": "https://kleinnerfarias.github.io/pdf/articles/autosoft-2010.pdf"
+        }
+      ]
+    },
+    {
+      "title": "Analyzing the Effects of Aspect Properties on Model Composition Effort: A Replicated Study",
+      "url": "https://kleinnerfarias.github.io/publication/aom-2010/",
+      "links": [
+        {
+          "label": "PDF",
+          "url": "https://kleinnerfarias.github.io/pdf/articles/aom-2010.pdf"
+        }
+      ]
+    },
+    {
+      "title": "Empirical Evaluation of Effort on Composing Design Models",
+      "url": "https://kleinnerfarias.github.io/publication/icse-2010/",
+      "links": [
+        {
+          "label": "PDF",
+          "url": "https://kleinnerfarias.github.io/pdf/articles/icse-2010.pdf"
+        }
+      ]
+    },
+    {
+      "title": "Assessing the Impact of Aspects on Model Composition Effort",
+      "url": "https://kleinnerfarias.github.io/publication/aosd-2010/",
+      "links": [
+        {
+          "label": "PDF",
+          "url": "https://kleinnerfarias.github.io/pdf/articles/aosd-2010.pdf"
+        }
+      ]
+    },
+    {
+      "title": "Evaluating Composition Techniques for Architectural Specifications: A Comparative Study",
+      "url": "https://kleinnerfarias.github.io/publication/escot-2010/",
+      "links": [
+        {
+          "label": "PDF",
+          "url": "https://kleinnerfarias.github.io/pdf/articles/escot-2010.pdf"
+        }
+      ]
+    },
+    {
+      "title": "MAS-ML Tool: Um Ambiente de Modelagem de Sistemas Multi-Agentes",
+      "url": "https://kleinnerfarias.github.io/publication/seas-2009/",
+      "links": [
+        {
+          "label": "PDF",
+          "url": "https://kleinnerfarias.github.io/pdf/articles/seas-2009.pdf"
+        }
+      ]
+    },
+    {
+      "title": "On the Comparative Evaluation of Aspect-Oriented Model Composition Techniques",
+      "url": "https://kleinnerfarias.github.io/publication/lawasp-2009/",
+      "links": [
+        {
+          "label": "PDF",
+          "url": "https://kleinnerfarias.github.io/pdf/articles/lawasp-2009.pdf"
+        }
+      ]
+    },
+    {
+      "title": "Ontology Aided Model Comparison",
+      "url": "https://kleinnerfarias.github.io/publication/iceccs-2009/",
+      "links": [
+        {
+          "label": "PDF",
+          "url": "https://kleinnerfarias.github.io/pdf/articles/iceccs-2009.pdf"
+        }
+      ]
+    },
+    {
+      "title": "A Flexible Strategy-Based Model Comparison Approach: Bridging the Syntactic and Semantic Gap",
+      "url": "https://kleinnerfarias.github.io/publication/jucs-2009/",
+      "links": [
+        {
+          "label": "PDF",
+          "url": "https://kleinnerfarias.github.io/pdf/articles/jucs-2009.pdf"
+        }
+      ]
+    },
+    {
+      "title": "Derivação de Casos de Testes Funcionais: Uma Abordagem Baseada em Modelos UML",
+      "url": "https://kleinnerfarias.github.io/publication/sbsi-2009/",
+      "links": [
+        {
+          "label": "PDF",
+          "url": "https://kleinnerfarias.github.io/pdf/articles/sbsi-2009.pdf"
+        }
+      ]
+    },
+    {
+      "title": "Derivação de Casos de Testes Funcionais: um Abordagem Baseada em Modelos UML",
+      "url": "https://kleinnerfarias.github.io/publication/resi-2009/",
+      "links": [
+        {
+          "label": "PDF",
+          "url": "https://kleinnerfarias.github.io/pdf/articles/resi-2009.pdf"
+        }
+      ]
+    },
+    {
+      "title": "On the Quantitative Assessment of Class Model Compositions: An Exploratory Study",
+      "url": "https://kleinnerfarias.github.io/publication/esmde-2008/",
+      "links": [
+        {
+          "label": "PDF",
+          "url": "https://kleinnerfarias.github.io/pdf/articles/esmde-2008.pdf"
+        }
+      ]
+    },
+    {
+      "title": "Uma Abordagem Flexível para Comparação de Modelos UML",
+      "url": "https://kleinnerfarias.github.io/publication/sbcars-2008/",
+      "links": [
+        {
+          "label": "PDF",
+          "url": "https://kleinnerfarias.github.io/pdf/articles/sbcars-2008.pdf"
+        }
+      ]
+    },
+    {
+      "title": "Model Comparison: A Strategy-Based Approach",
+      "url": "https://kleinnerfarias.github.io/publication/seke-2008/",
+      "links": [
+        {
+          "label": "PDF",
+          "url": "https://kleinnerfarias.github.io/pdf/articles/seke-2008.pdf"
+        }
+      ]
+    },
+    {
+      "title": "Composição de UML Profiles",
+      "url": "https://kleinnerfarias.github.io/publication/wtdes-2007/",
+      "links": [
+        {
+          "label": "PDF",
+          "url": "https://kleinnerfarias.github.io/pdf/articles/wtdes-2007.pdf"
+        }
+      ]
+    },
+    {
+      "title": "A Guidance for Model Composition",
+      "url": "https://kleinnerfarias.github.io/publication/icsea-2007/",
+      "links": [
+        {
+          "label": "PDF",
+          "url": "https://kleinnerfarias.github.io/pdf/articles/icsea-2007.pdf"
+        }
+      ]
+    },
+    {
+      "title": "COMPOR-Test: uma Ferramenta de Teste para o Arcabouço de Componentes COMPOR",
+      "url": "https://kleinnerfarias.github.io/publication/saufal-2005-3/",
+      "links": []
+    },
+    {
+      "title": "Sistema de Recomendação Aplicado ao Ambiente de Lojas Virtuais",
+      "url": "https://kleinnerfarias.github.io/publication/saufal-2005-2/",
+      "links": []
+    },
+    {
+      "title": "Live Plants: Sistema de Catalogação Dinâmica de Dados Científicos",
+      "url": "https://kleinnerfarias.github.io/publication/saufal-2005-1/",
+      "links": []
+    }
+  ]
+}
