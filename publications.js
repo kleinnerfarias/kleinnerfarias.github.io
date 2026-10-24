@@ -1,55 +1,93 @@
 window.PUBLICATIONS = [
-    {
-    "id": "viegas2027smellhunter",
-    "title": "XXX Event-Driven Tool for Context-Aware Code Smell Detection Using SmellDSL",
+  {
+  "id": "oliveira2026umlmodelingvalue",
+  "title": "When Does UML Software Modeling Pay Off? A Contingency Model of Industrial Modeling Value",
+  "authors": [
+    [
+      "Kleinner Silva Farias",
+      "de Oliveira"
+    ]
+  ],
+  "year": 2026,
+  "venue": "arXiv",
+  "type": "Preprint",
+  "topic": "Modelagem de software",
+  "doi": "10.48550/arXiv.2610.24884",
+  "pdf": "https://arxiv.org/pdf/2610.24884",
+  "url": "https://arxiv.org/abs/2610.24884",
+  "note": "Preprint disponibilizado no arXiv em 17 de outubro de 2026.",
+  "summary": "Propõe um modelo contingencial, fundamentado em 405 respostas de profissionais, para explicar quando os benefícios da modelagem UML superam o esforço sociotécnico necessário para criar, comunicar, sincronizar e manter modelos na indústria."
+  },
+  {
+    "id": "moreira2026modre",
+    "title": "MoDRE 2026: 16th International Model-Driven Requirements Engineering Workshop",
     "authors": [
-      [
-        "Matheus dos Santos",
-        "Viegas"
-      ],
-      [
-        "Adrian Gabriel Keller dos",
-        "Santos"
-      ],
-      [
-        "Kleinner",
-        "Farias"
-      ],
-      [
-        "Robson Keemps da",
-        "Silva"
-      ]
+      ["Ana", "Moreira"],
+      ["Gunter", "Mussbacher"],
+      ["João", "Araújo"],
+      ["Pablo", "Sánchez"],
+      ["Boqi", "Chen"]
     ],
     "year": 2026,
-    "venue": "arXiv",
-    "type": "Preprint",
-    "topic": "Qualidade de software",
-    "doi": "10.48550/arXiv.2605.20675",
-    "pdf": "https://arxiv.org/pdf/2605.20675",
-    "url": "https://arxiv.org/abs/2605.20675",
-    "note": "Preprint; versão disponibilizada no arXiv.",
-    "summary": "Ferramenta orientada a eventos para interpretar especificações SmellDSL e contextualizar anomalias de código."
+    "venue": "2026 IEEE 34th International Requirements Engineering Conference Workshops (REW)",
+    "type": "Workshop",
+    "topic": "Engenharia de requisitos",
+    "doi": "10.1109/REW72749.2026.00050",
+    "pdf": null,
+    "url": "https://doi.org/10.1109/REW72749.2026.00050",
+    "note": "Apresentação do 16th International Model-Driven Requirements Engineering Workshop.",
+    "summary": "Apresenta o escopo, os objetivos e a programação científica do MoDRE 2026, workshop dedicado à integração entre engenharia dirigida por modelos e engenharia de requisitos."
   },
+
+  {
+    "id": "silva2026sustentabilidade",
+    "title": "Sustentabilidade na Agricultura Digital: uma revisão sistemática e taxonomia",
+    "authors": [
+      ["Deivid de Almeida Padilha", "da Silva"],
+      ["Kleinner Silva Farias", "de Oliveira"],
+      ["Jorge Luis Victória", "Barbosa"]
+    ],
+    "year": 2026,
+    "venue": "Revista Brasileira de Computação Aplicada",
+    "type": "Artigo de periódico",
+    "topic": "Agricultura digital",
+    "doi": null,
+    "pdf": "https://ojs.upf.br/index.php/rbca/article/download/18036/114118899/15324853",
+    "url": "https://ojs.upf.br/index.php/rbca/article/view/18036",
+    "note": "Volume 18, número 2, páginas 49–63.",
+    "summary": "Revisão sistemática que organiza as abordagens de sustentabilidade aplicadas à agricultura digital e propõe uma taxonomia das tecnologias, práticas e dimensões identificadas."
+  },
+
+  {
+    "id": "zandonotto2026typescript",
+    "title": "How TypeScript Compiler Options Influence Code Quality: A Correlation Study with Git Repositories",
+    "authors": [
+      ["T.", "Zandonotto"],
+      ["Alex", "Roehrs"],
+      ["Kleinner", "Farias"],
+      ["Jorge", "Barbosa"],
+      ["Cristiano", "Costa"],
+      ["Rodrigo", "Righi"]
+    ],
+    "year": 2026,
+    "venue": "Journal of Software Engineering Research and Development",
+    "type": "Artigo de periódico",
+    "topic": "Qualidade de software",
+    "doi": null,
+    "pdf": "https://journals-sol.sbc.org.br/index.php/jserd/article/view/5985/4216",
+    "url": "https://journals-sol.sbc.org.br/index.php/jserd/article/view/5985",
+    "note": "Estudo empírico baseado em repositórios Git escritos em TypeScript.",
+    "summary": "Investiga associações entre opções de compilação do TypeScript e indicadores de qualidade de código em projetos hospedados em repositórios Git."
+  },
+
   {
     "id": "viegas2026smellhunter",
     "title": "An Event-Driven Tool for Context-Aware Code Smell Detection Using SmellDSL",
     "authors": [
-      [
-        "Matheus dos Santos",
-        "Viegas"
-      ],
-      [
-        "Adrian Gabriel Keller dos",
-        "Santos"
-      ],
-      [
-        "Kleinner",
-        "Farias"
-      ],
-      [
-        "Robson Keemps da",
-        "Silva"
-      ]
+      ["Matheus dos Santos", "Viegas"],
+      ["Adrian Gabriel Keller dos", "Santos"],
+      ["Kleinner", "Farias"],
+      ["Robson Keemps da", "Silva"]
     ],
     "year": 2026,
     "venue": "arXiv",
@@ -59,8 +97,146 @@ window.PUBLICATIONS = [
     "pdf": "https://arxiv.org/pdf/2605.20675",
     "url": "https://arxiv.org/abs/2605.20675",
     "note": "Preprint; versão disponibilizada no arXiv.",
-    "summary": "Ferramenta orientada a eventos para interpretar especificações SmellDSL e contextualizar anomalias de código."
+    "summary": "Apresenta o SmellHunter, uma ferramenta orientada a eventos que interpreta especificações SmellDSL e contextualiza anomalias de código para apoiar decisões de refatoração."
   },
+
+  {
+    "id": "lima2026soundwaves",
+    "title": "Toward a Mathematical Approach to Sound Waves for Enhancing Digestive Health",
+    "authors": [
+      ["Kevin", "Lima"],
+      ["Alex", "Roehrs"],
+      ["Cristiano André da", "Costa"],
+      ["Rodrigo da Rosa", "Righi"],
+      ["Jorge Luis Victória", "Barbosa"],
+      ["Kleinner Silva Farias", "de Oliveira"]
+    ],
+    "year": 2026,
+    "venue": "Journal of Universal Computer Science",
+    "type": "Artigo de periódico",
+    "topic": "Computação aplicada à saúde",
+    "doi": "10.3897/jucs.160360",
+    "pdf": "https://lib.jucs.org/article/160360/download/pdf/1657628",
+    "url": "https://lib.jucs.org/article/160360/",
+    "note": "Volume 32, número 5, páginas 736–760.",
+    "summary": "Propõe uma abordagem matemática para analisar ondas sonoras produzidas pelo sistema digestivo, visando apoiar métodos não invasivos de monitoramento da saúde."
+  },
+
+  {
+    "id": "keemps2026brainmergeeeg",
+    "title": "BrainMergeEEG: An Open EEG Microstate Dataset for Studying Developers' Brain Network Dynamics",
+    "authors": [
+      ["Robson", "Keemps"],
+      ["Kleinner", "Farias"],
+      ["Willian", "Bolzan"],
+      ["Rafael", "Kunst"]
+    ],
+    "year": 2026,
+    "venue": "IEEE Access",
+    "type": "Artigo de dataset",
+    "topic": "Engenharia de software cognitiva",
+    "doi": "10.1109/ACCESS.2026.3700063",
+    "pdf": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11550134",
+    "url": "https://ieeexplore.ieee.org/document/11550134/",
+    "note": "IEEE Access, volume 14, páginas 87617–87630; dataset aberto disponível no Zenodo.",
+    "summary": "Disponibiliza dados de EEG de 42 participantes e uma infraestrutura reprodutível para investigar microestados cerebrais durante tarefas de merge envolvendo código refatorado."
+  },
+
+  {
+    "id": "farias2026softwaremodelingdataset",
+    "title": "Software Modeling in Industry: A Practitioner Survey Dataset",
+    "authors": [
+      ["Kleinner", "Farias"]
+    ],
+    "year": 2026,
+    "venue": "Zenodo",
+    "type": "Dataset",
+    "topic": "Modelagem de software",
+    "doi": "10.5281/zenodo.23408327",
+    "pdf": null,
+    "url": "https://doi.org/10.5281/zenodo.23408327",
+    "note": "Dataset disponibilizado no Zenodo.",
+    "summary": "Disponibiliza dados de uma pesquisa com profissionais sobre uso, benefícios, barreiras e condições de adoção da modelagem de software na indústria."
+  },
+
+  {
+    "id": "martinsjunior2026tekoha",
+    "title": "TEKOHÁ: From a Systematic Review to a Virtual Reality Environment to Teach Jesuit-Guarani Missions History in Primary Education",
+    "authors": [
+      ["Renato da Veiga Martins", "Júnior"],
+      ["Vinicius Costa de", "Souza"],
+      ["Kleinner", "Farias"]
+    ],
+    "year": 2026,
+    "venue": "Journal on Interactive Systems",
+    "type": "Artigo de periódico",
+    "topic": "Realidade virtual e educação",
+    "doi": null,
+    "pdf": "https://journals-sol.sbc.org.br/index.php/jis/article/view/7411/4249",
+    "url": "https://journals-sol.sbc.org.br/index.php/jis/article/view/7411",
+    "note": "Artigo sobre realidade virtual aplicada ao ensino de História.",
+    "summary": "Descreve a evolução de uma revisão sistemática para o desenvolvimento do TEKOHÁ, um ambiente de realidade virtual voltado ao ensino da história das Missões Jesuítico-Guarani."
+  },
+
+  {
+    "id": "neumann2026llmarchitecture",
+    "title": "Analyzing the Adoption of LLMs to Support Software Architecture: A Systematic Mapping Study",
+    "authors": [
+      ["Emilyn", "Neumann"],
+      ["Eduardo", "Guerra"],
+      ["Kleinner", "Farias"]
+    ],
+    "year": 2026,
+    "venue": "ECSA 2026 — Intelligent & Data-Driven Engineering for Software Architecture Workshop",
+    "type": "Artigo de workshop",
+    "topic": "LLMs e arquitetura de software",
+    "doi": "10.1007/978-3-032-39143-8_20",
+    "pdf": "https://link.springer.com/content/pdf/10.1007/978-3-032-39143-8_20.pdf",
+    "url": "https://link.springer.com/chapter/10.1007/978-3-032-39143-8_20",
+    "note": "Apresentado na ECSA 2026; a citação da versão publicada pela Springer utiliza o ano bibliográfico de 2027. LNCS 16991, páginas 216–232.",
+    "summary": "Mapeia 24 estudos sobre o emprego de grandes modelos de linguagem em atividades de arquitetura de software, identificando aplicações, entradas arquiteturais e lacunas de pesquisa."
+  },
+
+  {
+    "id": "farias2026umlrev",
+    "title": "UMLRev: A Context-Aware Feature-Oriented Approach to Support Continuous Reverse Engineering of UML Models",
+    "authors": [
+      ["Kleinner", "Farias"],
+      ["Lucas", "Schenatto"],
+      ["Cristiano", "Farias"],
+      ["Willian", "Bolzan"],
+      ["Robson", "Keemps"],
+      ["Carlos Eduardo", "Carbonera"]
+    ],
+    "year": 2026,
+    "venue": "IEEE Access",
+    "type": "Artigo de periódico",
+    "topic": "Engenharia reversa e UML",
+    "doi": "10.1109/ACCESS.2026.3672373",
+    "pdf": "https://ieeexplore.ieee.org/iel8/6287639/6514899/11426879.pdf",
+    "url": "https://ieeexplore.ieee.org/document/11426879/",
+    "note": "IEEE Access, volume 14, páginas 44363–44381.",
+    "summary": "Apresenta uma abordagem sensível ao contexto e orientada a características para apoiar a engenharia reversa contínua de modelos UML a partir de rastros de execução."
+  },
+
+  {
+    "id": "welter2026mot",
+    "title": "Model of Things (MoT): A Model-Driven Approach to Streamline Cloud-of-Things Application Development",
+    "authors": [
+      ["Cristiano", "Welter"],
+      ["Kleinner", "Farias"]
+    ],
+    "year": 2026,
+    "venue": "Journal of Universal Computer Science",
+    "type": "Artigo de periódico",
+    "topic": "Engenharia dirigida por modelos e IoT",
+    "doi": null,
+    "pdf": "https://arxiv.org/pdf/2512.14613",
+    "url": "https://arxiv.org/abs/2512.14613",
+    "note": "Journal of Universal Computer Science, volume 32, número 11, páginas 1613–1650; preprint depositado originalmente no arXiv em dezembro de 2025.",
+    "summary": "Apresenta o Model of Things, uma abordagem dirigida por modelos e apoiada por princípios low-code para reduzir a complexidade do desenvolvimento de aplicações Cloud-of-Things."
+  },
+  
   {
     "id": "keemps2025smelldsl",
     "title": "SmellDSL: A domain-specific language to assist developers in specifying code smell patterns",
