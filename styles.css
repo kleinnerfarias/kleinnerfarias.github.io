@@ -3,3 +3,725 @@
 /* Version 2: academic profile and publication library */
 .site-header{position:sticky;top:0}.hero{grid-template-columns:1.2fr .8fr;min-height:650px}.hero-copy{padding-top:85px;padding-bottom:65px}h1{font-size:clamp(44px,4.6vw,70px)}.portrait{margin:0;position:relative;min-height:650px;overflow:hidden;border-left:1px solid var(--line);background:#24393d}.portrait img{width:100%;height:100%;position:absolute;inset:0;object-fit:cover;object-position:50% 25%}.portrait:after{content:"";position:absolute;inset:0;background:linear-gradient(transparent 50%,#061a1cdd)}.portrait figcaption{position:absolute;z-index:1;bottom:35px;left:35px;right:25px;display:grid;gap:8px}.portrait figcaption span{font-size:10px;letter-spacing:.15em;color:var(--accent)}.portrait figcaption strong{font:500 34px 'Space Grotesk',sans-serif;letter-spacing:-.04em}.portrait figcaption small{color:#e1ebe7}.profile-links{display:flex;gap:24px;margin-top:28px;font-size:12px;color:var(--muted)}.profile-links a:hover{color:var(--accent)}.project-link{flex-shrink:0;font-size:12px;color:var(--accent);border-bottom:1px solid #71894a;padding-bottom:5px}.publications{background:#eff2ec;color:#142a2c}.publication-heading{display:flex;justify-content:space-between;align-items:flex-start;gap:30px}.publication-heading .button{flex-shrink:0;margin-top:35px}.publication-tools{display:grid;grid-template-columns:2fr 1fr 1fr;gap:16px;margin:42px 0 18px}.publication-tools label{font-size:12px;color:#46635d;font-weight:700;display:grid;gap:10px}input,select{font:inherit;padding:15px;border:1px solid #bfccc3;background:#fff;color:#142a2c;border-radius:6px;width:100%;min-width:0}input:focus,select:focus,button:focus-visible,a:focus-visible,textarea:focus-visible{outline:3px solid #68a07a;outline-offset:4px}.pub-count{color:#63766d;font-size:12px}.publication-card{background:#fff;border:1px solid #dce4dc;border-radius:10px;padding:30px;margin-bottom:16px;display:grid;grid-template-columns:64px 1fr;gap:24px;box-shadow:0 4px 20px #153b2610}.publication-year{font:600 20px 'Space Grotesk',sans-serif;color:#496d56;border-right:1px solid #dce4dc}.pub-labels{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:14px}.pub-label{font-size:10px;letter-spacing:.04em;background:#edf2e7;color:#54714d;padding:6px 10px;border-radius:20px}.pub-label.preprint{background:#f5eee0;color:#927034}.publication-card h3{font-size:23px;line-height:1.35;letter-spacing:-.025em;margin-bottom:12px}.publication-authors{font-size:13px;color:#52655f;line-height:1.65;margin-bottom:8px}.publication-venue{font-size:13px;font-weight:600;color:#3f6258;margin-bottom:16px}.publication-summary{font-size:14px;color:#657870;line-height:1.65}.pub-actions{display:flex;gap:10px;flex-wrap:wrap;margin-top:22px}.pub-action{padding:11px 15px;border:1px solid #c2d0c3;border-radius:5px;background:white;font:600 12px 'DM Sans',sans-serif;color:#244235;cursor:pointer}.pub-action.cite{background:#17352d;color:#fff;border-color:#17352d}.pub-action:hover{border-color:#609565}.publication-note{font-size:12px;line-height:1.8;color:#697d70;margin-top:24px}.publication-note a{color:#2e6040;text-decoration:underline}.empty-state{padding:40px;border:1px dashed #b1c7b4;text-align:center;color:#58735e}button{cursor:pointer}section[id]{scroll-margin-top:100px}dialog{width:min(720px,calc(100% - 30px));border:1px solid #3c5c52;border-radius:15px;padding:32px;background:#10282a;color:#eaf2eb;max-height:90vh}dialog::backdrop{background:#041215bc;backdrop-filter:blur(5px)}.dialog-top{display:flex;justify-content:space-between;align-items:center}.dialog-top .kicker{color:var(--accent);margin:0}.dialog-top button{background:none;color:#d9e7e2;border:0;font-size:30px}.dialog-top+h2{font-size:23px;line-height:1.4;margin:25px 0}.citation-formats{display:flex;gap:8px;margin:0 0 25px}.citation-formats button{padding:10px 18px;border:1px solid #46665c;border-radius:5px;background:none;color:#d5e5df}.citation-formats button[aria-pressed=true]{background:var(--accent);color:#1c3323;border-color:var(--accent)}dialog label{font-size:12px;color:#a8c2b5}textarea{width:100%;height:230px;resize:vertical;background:#081d1f;color:#d9e7e0;border:1px solid #36574b;border-radius:6px;padding:18px;margin:12px 0 20px;font:13px/1.8 ui-monospace,monospace}.citation-actions{display:flex;gap:12px;flex-wrap:wrap}.citation-status{font-size:12px;color:var(--accent);min-height:20px;margin:20px 0 0}dialog .button{border-radius:5px}.button{transition:transform .18s;border-radius:5px}footer a{text-decoration:none}@media(max-width:1000px){.publication-heading{display:block}.publication-heading .button{margin-top:10px}.portrait{min-height:580px}.hero-copy{padding-left:30px}.project{align-items:flex-start}.project-link{max-width:170px}}@media(max-width:760px){.hero{display:block}.hero-copy{padding:65px 24px}.portrait{height:520px;min-height:0;border-left:0}.portrait img{object-position:50% 30%}.publication-tools{grid-template-columns:1fr 1fr}.publication-tools label:first-child{grid-column:1/-1}.publication-card{padding:22px;grid-template-columns:1fr;gap:14px}.publication-year{border-right:0;font-size:16px}.publication-card h3{font-size:20px}.project{flex-direction:column;gap:18px}.project-link{max-width:none}.citation-actions{flex-direction:column}dialog{padding:22px}.citation-formats button{padding:10px 13px}h1{font-size:clamp(43px,10vw,64px)}}
 .publication-pagination{position:static;display:flex;flex-direction:row;align-items:center;justify-content:center;gap:22px;background:none;padding:22px 0;font-size:12px;color:#496454}.publication-pagination button:disabled{opacity:.4;cursor:default}.publication-card h3,.publication-venue{overflow-wrap:anywhere}@media(max-width:760px){.publication-pagination{display:flex;gap:10px;padding:20px 0}.publication-pagination .pub-action{padding:10px}}
+
+/* =========================================================
+   SEÇÃO DE ORIENTAÇÕES
+   Aparência alinhada à seção de publicações
+   ========================================================= */
+
+.orientations {
+  --orientation-background: #f3f1eb;
+  --orientation-card: #ffffff;
+  --orientation-card-hover: #faf9f6;
+  --orientation-text: #17211f;
+  --orientation-muted: #66706d;
+  --orientation-accent: #b56f3c;
+  --orientation-accent-soft: rgba(181, 111, 60, 0.1);
+  --orientation-border: rgba(23, 33, 31, 0.14);
+  --orientation-shadow: 0 18px 45px rgba(23, 33, 31, 0.08);
+
+  position: relative;
+  overflow: hidden;
+  padding: clamp(5rem, 9vw, 8rem) clamp(1.25rem, 5vw, 5rem);
+  background: var(--orientation-background);
+  color: var(--orientation-text);
+  border-top: 1px solid var(--orientation-border);
+  border-bottom: 1px solid var(--orientation-border);
+}
+
+/*
+ * Detalhe decorativo discreto.
+ * Pode ser removido sem afetar o restante do layout.
+ */
+.orientations::before {
+  position: absolute;
+  top: -11rem;
+  right: -9rem;
+  width: 28rem;
+  height: 28rem;
+  border: 1px solid rgba(181, 111, 60, 0.12);
+  border-radius: 50%;
+  content: "";
+  pointer-events: none;
+}
+
+.orientations::after {
+  position: absolute;
+  top: -5rem;
+  right: -3rem;
+  width: 16rem;
+  height: 16rem;
+  border: 1px solid rgba(181, 111, 60, 0.1);
+  border-radius: 50%;
+  content: "";
+  pointer-events: none;
+}
+
+.orientations > * {
+  position: relative;
+  z-index: 1;
+}
+
+/* =========================================================
+   CABEÇALHO
+   ========================================================= */
+
+.orientations-header {
+  display: grid;
+  grid-template-columns: minmax(160px, 0.32fr) minmax(0, 1fr);
+  gap: clamp(2rem, 6vw, 6rem);
+  align-items: start;
+  max-width: 1240px;
+  margin: 0 auto clamp(3.5rem, 7vw, 6rem);
+}
+
+.orientations .kicker {
+  display: inline-flex;
+  gap: 0.75rem;
+  align-items: center;
+  width: max-content;
+  margin: 0;
+  color: var(--orientation-accent);
+  font-size: 0.75rem;
+  font-weight: 700;
+  line-height: 1;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+}
+
+.orientations .kicker::before {
+  width: 2.25rem;
+  height: 1px;
+  background: currentColor;
+  content: "";
+}
+
+.orientations-intro {
+  max-width: 800px;
+}
+
+.orientations-intro h2 {
+  max-width: 760px;
+  margin: 0 0 1.5rem;
+  color: var(--orientation-text);
+  font-size: clamp(2.25rem, 4.6vw, 4.6rem);
+  font-weight: 600;
+  line-height: 1.02;
+  letter-spacing: -0.045em;
+  text-wrap: balance;
+}
+
+.orientations-intro p {
+  max-width: 720px;
+  margin: 0;
+  color: var(--orientation-muted);
+  font-size: clamp(1rem, 1.5vw, 1.15rem);
+  line-height: 1.75;
+}
+
+/* =========================================================
+   GRUPOS DE ORIENTAÇÃO
+   ========================================================= */
+
+.student-groups {
+  display: grid;
+  gap: clamp(4rem, 8vw, 7rem);
+  max-width: 1240px;
+  margin: 0 auto;
+}
+
+.student-group {
+  display: grid;
+  grid-template-columns: minmax(230px, 0.32fr) minmax(0, 1fr);
+  gap: clamp(2rem, 6vw, 6rem);
+  align-items: start;
+}
+
+/* =========================================================
+   TÍTULO DE CADA GRUPO
+   ========================================================= */
+
+.group-heading {
+  display: flex;
+  gap: 1.1rem;
+  align-items: flex-start;
+  position: sticky;
+  top: 7rem;
+}
+
+.group-number {
+  display: grid;
+  width: 2.8rem;
+  height: 2.8rem;
+  flex: 0 0 auto;
+  place-items: center;
+  background: var(--orientation-accent-soft);
+  border: 1px solid rgba(181, 111, 60, 0.28);
+  border-radius: 50%;
+  color: var(--orientation-accent);
+  font-size: 0.75rem;
+  font-weight: 700;
+  letter-spacing: 0.05em;
+}
+
+.group-label {
+  margin: 0 0 0.45rem;
+  color: var(--orientation-accent);
+  font-size: 0.7rem;
+  font-weight: 700;
+  line-height: 1.3;
+  letter-spacing: 0.13em;
+  text-transform: uppercase;
+}
+
+.group-heading h3 {
+  max-width: 240px;
+  margin: 0;
+  color: var(--orientation-text);
+  font-size: clamp(1.25rem, 2vw, 1.75rem);
+  font-weight: 600;
+  line-height: 1.2;
+  letter-spacing: -0.025em;
+}
+
+/* =========================================================
+   LISTA DE ESTUDANTES
+   ========================================================= */
+
+.student-list {
+  display: grid;
+  gap: 1rem;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.student-card {
+  position: relative;
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto;
+  gap: clamp(1.5rem, 4vw, 3rem);
+  align-items: center;
+  min-width: 0;
+  padding: clamp(1.4rem, 2.5vw, 2rem);
+  overflow: hidden;
+  background: var(--orientation-card);
+  border: 1px solid var(--orientation-border);
+  border-radius: 1rem;
+  box-shadow: 0 1px 2px rgba(23, 33, 31, 0.02);
+  transition:
+    transform 180ms ease,
+    border-color 180ms ease,
+    box-shadow 180ms ease,
+    background-color 180ms ease;
+}
+
+.student-card::before {
+  position: absolute;
+  top: 1rem;
+  bottom: 1rem;
+  left: 0;
+  width: 3px;
+  background: var(--orientation-accent);
+  border-radius: 0 4px 4px 0;
+  content: "";
+  opacity: 0;
+  transform: scaleY(0.5);
+  transition:
+    opacity 180ms ease,
+    transform 180ms ease;
+}
+
+.student-card:hover {
+  background: var(--orientation-card-hover);
+  border-color: rgba(181, 111, 60, 0.42);
+  box-shadow: var(--orientation-shadow);
+  transform: translateY(-3px);
+}
+
+.student-card:hover::before {
+  opacity: 1;
+  transform: scaleY(1);
+}
+
+/* =========================================================
+   INFORMAÇÕES DO ESTUDANTE
+   ========================================================= */
+
+.student-information {
+  min-width: 0;
+}
+
+.student-information h4 {
+  margin: 0 0 0.55rem;
+  color: var(--orientation-text);
+  font-size: clamp(1.08rem, 1.6vw, 1.3rem);
+  font-weight: 650;
+  line-height: 1.3;
+  letter-spacing: -0.018em;
+}
+
+.student-information p {
+  max-width: 680px;
+  margin: 0;
+  color: var(--orientation-muted);
+  font-size: 0.95rem;
+  line-height: 1.65;
+}
+
+/* Link opcional no nome do estudante */
+.student-information h4 a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.student-information h4 a:hover {
+  color: var(--orientation-accent);
+}
+
+.student-information h4 a:focus-visible {
+  border-radius: 0.25rem;
+  outline: 2px solid var(--orientation-accent);
+  outline-offset: 4px;
+}
+
+/* =========================================================
+   NÍVEL E PERÍODO
+   ========================================================= */
+
+.student-metadata {
+  display: flex;
+  flex-direction: column;
+  gap: 0.65rem;
+  align-items: flex-end;
+  min-width: 130px;
+}
+
+.student-metadata span {
+  display: inline-flex;
+  align-items: center;
+  min-height: 1.9rem;
+  padding: 0.35rem 0.7rem;
+  background: var(--orientation-accent-soft);
+  border: 1px solid rgba(181, 111, 60, 0.24);
+  border-radius: 999px;
+  color: var(--orientation-accent);
+  font-size: 0.68rem;
+  font-weight: 700;
+  line-height: 1;
+  letter-spacing: 0.08em;
+  text-align: center;
+  text-transform: uppercase;
+  white-space: nowrap;
+}
+
+.student-metadata time {
+  color: var(--orientation-muted);
+  font-size: 0.84rem;
+  font-weight: 500;
+  white-space: nowrap;
+}
+
+/* =========================================================
+   ORIENTAÇÕES CONCLUÍDAS
+   ========================================================= */
+
+.student-group.completed {
+  padding-top: clamp(3rem, 5vw, 4.5rem);
+  border-top: 1px solid var(--orientation-border);
+}
+
+.student-group.completed .group-number {
+  background: rgba(23, 33, 31, 0.05);
+  border-color: var(--orientation-border);
+  color: var(--orientation-muted);
+}
+
+.student-group.completed .student-card {
+  background: rgba(255, 255, 255, 0.76);
+}
+
+.student-group.completed .student-card:hover {
+  background: var(--orientation-card);
+}
+
+.student-group.completed .student-metadata span {
+  background: rgba(23, 33, 31, 0.05);
+  border-color: var(--orientation-border);
+  color: var(--orientation-muted);
+}
+
+/* =========================================================
+   LINKS OPCIONAIS: LATTES, TESE, DISSERTAÇÃO OU PROJETO
+   ========================================================= */
+
+.student-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+  margin-top: 1rem;
+}
+
+.student-link {
+  display: inline-flex;
+  gap: 0.4rem;
+  align-items: center;
+  color: var(--orientation-text);
+  font-size: 0.78rem;
+  font-weight: 650;
+  line-height: 1;
+  text-decoration: none;
+  transition: color 160ms ease;
+}
+
+.student-link:hover {
+  color: var(--orientation-accent);
+}
+
+.student-link:focus-visible {
+  border-radius: 0.2rem;
+  outline: 2px solid var(--orientation-accent);
+  outline-offset: 4px;
+}
+
+/* =========================================================
+   ESTADO VAZIO
+   Use quando não houver estudantes em determinada categoria
+   ========================================================= */
+
+.student-empty {
+  margin: 0;
+  padding: 2rem;
+  background: rgba(255, 255, 255, 0.55);
+  border: 1px dashed var(--orientation-border);
+  border-radius: 1rem;
+  color: var(--orientation-muted);
+  line-height: 1.6;
+  text-align: center;
+}
+
+/* =========================================================
+   RESPONSIVIDADE
+   ========================================================= */
+
+@media (max-width: 900px) {
+  .orientations-header,
+  .student-group {
+    grid-template-columns: 1fr;
+    gap: 2.25rem;
+  }
+
+  .group-heading {
+    position: static;
+  }
+
+  .group-heading h3 {
+    max-width: none;
+  }
+}
+
+@media (max-width: 680px) {
+  .orientations {
+    padding-right: 1.15rem;
+    padding-left: 1.15rem;
+  }
+
+  .orientations::before,
+  .orientations::after {
+    display: none;
+  }
+
+  .orientations-intro h2 {
+    font-size: clamp(2rem, 11vw, 3.25rem);
+  }
+
+  .student-card {
+    grid-template-columns: 1fr;
+    gap: 1.25rem;
+    padding: 1.35rem;
+    border-radius: 0.85rem;
+  }
+
+  .student-metadata {
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    min-width: 0;
+    padding-top: 1rem;
+    border-top: 1px solid var(--orientation-border);
+  }
+
+  .student-group.completed {
+    padding-top: 2.5rem;
+  }
+}
+
+@media (max-width: 420px) {
+  .orientations .kicker {
+    font-size: 0.67rem;
+  }
+
+  .group-heading {
+    gap: 0.8rem;
+  }
+
+  .group-number {
+    width: 2.5rem;
+    height: 2.5rem;
+  }
+
+  .student-metadata {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .student-metadata span,
+  .student-metadata time {
+    white-space: normal;
+  }
+}
+
+/* =========================================================
+   ACESSIBILIDADE
+   ========================================================= */
+
+@media (prefers-reduced-motion: reduce) {
+  .student-card,
+  .student-card::before,
+  .student-information h4 a,
+  .student-link {
+    transition: none;
+  }
+
+  .student-card:hover {
+    transform: none;
+  }
+}
+
+@media (prefers-contrast: more) {
+  .orientations {
+    --orientation-border: rgba(23, 33, 31, 0.38);
+  }
+
+  .student-card {
+    box-shadow: none;
+  }
+}
+
+/* =========================================================
+   CONTEÚDO E SUBDIVISÕES POR NÍVEL
+   ========================================================= */
+
+.orientation-content {
+  display: grid;
+  min-width: 0;
+  gap: 1.25rem;
+}
+
+.degree-heading {
+  display: flex;
+  gap: 1rem;
+  align-items: center;
+  justify-content: space-between;
+  margin: 0.75rem 0 0;
+  padding-bottom: 0.9rem;
+  border-bottom: 1px solid var(--orientation-border);
+  color: var(--orientation-text);
+  font-size: 1rem;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+}
+
+.degree-heading:not(:first-child) {
+  margin-top: 2.75rem;
+}
+
+.degree-heading span {
+  color: var(--orientation-muted);
+  font-size: 0.7rem;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  text-transform: none;
+}
+
+/* =========================================================
+   GRUPOS EXPANSÍVEIS DAS ORIENTAÇÕES CONCLUÍDAS
+   ========================================================= */
+
+.completed-orientations {
+  gap: 0.85rem;
+}
+
+.degree-group {
+  overflow: hidden;
+  background: var(--orientation-card);
+  border: 1px solid var(--orientation-border);
+  border-radius: 1rem;
+}
+
+.degree-group summary {
+  display: flex;
+  gap: 1rem;
+  align-items: center;
+  justify-content: space-between;
+  min-height: 4.5rem;
+  padding: 1.25rem 1.5rem;
+  color: var(--orientation-text);
+  cursor: pointer;
+  list-style: none;
+  transition:
+    background-color 160ms ease,
+    color 160ms ease;
+}
+
+.degree-group summary::-webkit-details-marker {
+  display: none;
+}
+
+.degree-group summary::after {
+  display: grid;
+  width: 1.8rem;
+  height: 1.8rem;
+  flex: 0 0 auto;
+  place-items: center;
+  margin-left: auto;
+  background: var(--orientation-accent-soft);
+  border-radius: 50%;
+  color: var(--orientation-accent);
+  content: "+";
+  font-size: 1.1rem;
+  line-height: 1;
+}
+
+.degree-group[open] summary::after {
+  content: "−";
+}
+
+.degree-group summary:hover {
+  background: var(--orientation-card-hover);
+}
+
+.degree-group summary span {
+  font-size: 1rem;
+  font-weight: 700;
+}
+
+.degree-group summary small {
+  margin-left: auto;
+  color: var(--orientation-muted);
+  font-size: 0.75rem;
+  font-weight: 500;
+}
+
+.degree-group[open] summary {
+  border-bottom: 1px solid var(--orientation-border);
+}
+
+/* =========================================================
+   LISTA COMPACTA DE EGRESSOS
+   ========================================================= */
+
+.alumni-list {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.alumni-list li {
+  display: grid;
+  grid-template-columns: minmax(180px, 0.7fr) minmax(260px, 1fr) auto;
+  gap: 1.5rem;
+  align-items: center;
+  padding: 1rem 1.5rem;
+  border-bottom: 1px solid var(--orientation-border);
+}
+
+.alumni-list li:last-child {
+  border-bottom: 0;
+}
+
+.alumni-list li:hover {
+  background: var(--orientation-card-hover);
+}
+
+.alumni-list strong {
+  color: var(--orientation-text);
+  font-size: 0.9rem;
+  line-height: 1.4;
+}
+
+.alumni-list span {
+  color: var(--orientation-muted);
+  font-size: 0.84rem;
+  line-height: 1.5;
+}
+
+.alumni-list time {
+  color: var(--orientation-accent);
+  font-size: 0.78rem;
+  font-weight: 700;
+  white-space: nowrap;
+}
+
+/* =========================================================
+   RESPONSIVIDADE DOS NOVOS COMPONENTES
+   ========================================================= */
+
+@media (max-width: 800px) {
+  .alumni-list li {
+    grid-template-columns: 1fr auto;
+    gap: 0.4rem 1rem;
+  }
+
+  .alumni-list span {
+    grid-column: 1 / -1;
+    grid-row: 2;
+  }
+
+  .alumni-list time {
+    grid-column: 2;
+    grid-row: 1;
+  }
+}
+
+@media (max-width: 520px) {
+  .degree-group summary {
+    flex-wrap: wrap;
+    padding: 1.1rem;
+  }
+
+  .degree-group summary small {
+    order: 3;
+    width: 100%;
+    margin-left: 0;
+  }
+
+  .degree-group summary::after {
+    position: absolute;
+    right: 1rem;
+  }
+
+  .degree-group summary span {
+    padding-right: 2.5rem;
+  }
+
+  .alumni-list li {
+    grid-template-columns: 1fr;
+    padding: 1rem 1.1rem;
+  }
+
+  .alumni-list span,
+  .alumni-list time {
+    grid-column: 1;
+    grid-row: auto;
+  }
+
+  .degree-heading {
+    align-items: flex-start;
+    flex-direction: column;
+    gap: 0.35rem;
+  }
+}
